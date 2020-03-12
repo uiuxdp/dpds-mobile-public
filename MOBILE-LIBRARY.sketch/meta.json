@@ -1,6 +1,256 @@
 {
 "commit":"434732399d1e0d8cad935077dbf35547aa6602cb",
 "pagesAndArtboards":{
+"B8D68919-772E-47A6-9D09-E14380CB9D80":{
+"name":"🍎UI Bars (MIB000)",
+"artboards":{
+"3BF41039-3FE4-4463-919D-E4B7052268C3":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H010 (Large Title with Imagery)"
+},
+"6B1F5388-FE4B-4969-9974-68F16E02A34A":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL007 (Profile Active)"
+},
+"EFFCC960-5562-400B-8D2B-A152ABDE364E":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL001 (Home Active)"
+},
+"EC68AF11-CDFE-4AD6-94C7-5F38BE3F7990":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H010 (Large Title with Imagery)"
+},
+"8AD0CE17-E18F-4231-8215-82C8E4B63201":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/MIDB-N001 (Navigation bar)"
+},
+"3018F33A-1079-4D54-AC36-56F1A81409D6":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H008 (Large Title with Map style)"
+},
+"93A9FCBD-9259-4098-8349-C26AB05BB1E9":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H005 (Search)"
+},
+"703269F4-C7D9-4773-BA9C-9CD93CF9658C":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H009 (Default with Services)"
+},
+"3AE71FA5-337A-45A1-BBC7-74B5FBAFA793":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL010 (Amna)"
+},
+"71EB6FF8-E9CA-4E75-859D-5CBBFAED5E55":{
+"name":"🍎iOS/🌑 Dark/UI Bars/System bars/MIB-S001 (Status bar)"
+},
+"8EC7968C-647F-49BD-918A-77BA4005C31F":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H006 (Defualt 2options)"
+},
+"3DED5B78-3531-43DD-8352-B5EE02C1FA7D":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL003 (Services Active)"
+},
+"146B00DE-65D9-4A18-BC06-12E0BC5877D9":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL009 (Unknown Profile inctive)"
+},
+"D037C0FD-4C5E-4CDE-9243-ABB0A698298E":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H003 (Default with Search)"
+},
+"4C3D3F35-49F4-42AF-ABB5-7C6F732BDAA2":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H008 (Large Title with Map style)"
+},
+"AF51A9AF-B6E5-401F-AB4D-67F6902CE70A":{
+"name":"🍎iOS/🌕 Light/UI Bars/System bars/MIB-S002 (IphoneX Status bar)"
+},
+"32955133-CA41-4739-AFA8-827894ECFB2B":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL006 (Media inctive)"
+},
+"37F209BF-4D36-47A1-ADB8-828EBEE2001A":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL001 (Home Active)"
+},
+"930E84E7-E656-4D7F-BE29-EABF4681DDBB":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H006 (Defualt 2options)"
+},
+"F7D5FF95-9F16-4D9E-BA55-B059014546C7":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H002 (Large Title)"
+},
+"74789CFA-5268-4CBF-87B9-7EA0FF3F4C3D":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL008 (Profile inctive)"
+},
+"D207697D-6A5E-4906-AB1F-A7395C22BF32":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H004 (Large Title with Search)"
+},
+"4F54A6A0-C81D-4FCB-A792-EB3B538B98C8":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL003 (Services Active)"
+},
+"9F1582F6-17AA-477B-B82C-165BBC61AAA7":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL010 (Amna)"
+},
+"8AD93C81-C8DA-4930-8DC7-94C3E96D9D66":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H001 (Default)"
+},
+"6C7F4495-3841-4A93-9448-29053E2C1FF4":{
+"name":"🍎iOS/🌑 Dark/UI Bars/System bars/MIB-S002 (IphoneX Status bar)"
+},
+"30B77214-C3BC-4CB2-8649-7F31DCEDCFEE":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL002 (Home inctive)"
+},
+"A10CAF9D-770A-4521-9389-2B04E5B8449A":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H005 (Search)"
+},
+"8E4BBA5C-C35D-4CE0-93F8-C3E60ADD003A":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H007 (Default with Close)"
+},
+"7030E862-C2D5-4CD8-BA69-9E2DEE40CD03":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H004 (Large Title with Search)"
+},
+"E22AB97B-DD63-4155-B853-BC01B4ED7429":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H007 (Default with Close)"
+},
+"682CACFD-2253-4425-A709-6A826AF5FF33":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL007 (Profile Active)"
+},
+"272874BF-51B1-4E55-A3D8-64C1134C16FE":{
+"name":"🍎iOS/🌕 Light/UI Bars/System bars/MIB-S003 (IphoneX Home Indicator)"
+},
+"FF967EA1-84AE-4253-91F7-DEE00B644A1F":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H001 (Default)"
+},
+"9CDD69FC-F52C-4589-A3DA-D251C5F50AE9":{
+"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H002 (Large Title)"
+},
+"FA5A0B74-9F7B-4CBF-B972-C46D6AA19DBA":{
+"name":"🍎iOS/🌑 Dark/UI Bars/System bars/MIB-S003 (IphoneX Home Indicator)"
+},
+"4F6216D5-273A-4767-890C-70F25CD1DD2F":{
+"name":"🍎iOS/🌕 Light/UI Bars/System bars/MIB-S001 (Status bar)"
+},
+"02ED66B7-6ED9-4564-874A-FB97C5E0B4CB":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL002 (Home inctive)"
+},
+"EB8E344A-C6DC-4B61-BE2D-935066929C34":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL005 (Media Active)"
+},
+"2E1B2FB3-AE5A-47BC-A320-7A175EBBF307":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/MIB-N001 (Navigation bar)"
+},
+"1C5BADE6-9FD0-458A-8217-639DA2AA8F28":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL004 (Services inctive)"
+},
+"26F39276-6B96-4780-9778-BA103ADBB909":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H009 (Default with Services)"
+},
+"F96AFBA4-43F9-42AD-A738-D1FE1BE2DBF9":{
+"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL004 (Services inctive)"
+},
+"6BE86B4A-A2C5-43F9-A4C5-402D003F5252":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL006 (Media inctive)"
+},
+"2B3345B1-7506-401A-B1A6-FCE714562F3E":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H003 (Default with Search)"
+},
+"F1FA817F-653C-4264-9FD7-C38BE2343438":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL005 (Media Active)"
+},
+"99D6314E-0757-4E68-9A13-B9C96C102244":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL008 (Profile inctive)"
+},
+"E5BF1EDF-686A-4606-8FE8-6165E5536B93":{
+"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL009 (Unknown Profile inctive)"
+}
+}
+},
+"FF8F6A55-3B37-4F88-B400-5C0E9A93B700":{
+"name":"🍎UI Views (MIV000)",
+"artboards":{
+"C7942D95-9301-4DFE-803E-EF45FC1DE205":{
+"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIDV-S002 (sheet menu 1)"
+},
+"59D8B12E-94C8-403A-9204-00FEE712F6F7":{
+"name":"🍎iOS/🌕 Light/UI Views/Chat/MIV-C002 (Chat bubble 2)"
+},
+"9B2AC0D9-3421-4C40-ACC0-8707F8C1B685":{
+"name":"🍎iOS/🌑 Dark/UI Views/Modal windows/MIDV-M003 (Default 3 Options)"
+},
+"55921DB8-8B2B-4C74-AEEB-DC063729081A":{
+"name":"🍎iOS/🌑 Dark/UI Views/Modal windows/MIDV-M001 (Empty Modal)"
+},
+"0B45626E-223F-4C8D-BE61-0C720F8D1032":{
+"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIDV-S003 (sheet menu 2)"
+},
+"2AFCC144-F4A3-488D-A3C2-46696CAD3C07":{
+"name":"🍎iOS/🌕 Light/UI Views/Cards/MIV-D002 (Ticket style 1)"
+},
+"C4BFF478-F03D-4127-94E9-065D3E3C37FC":{
+"name":"🍎iOS/🌕 Light/UI Views/Modal windows/MIV-M004 (Text Field)"
+},
+"0A1ACC0D-7AF4-457F-A3B3-384EAB18114A":{
+"name":"🍎iOS/🌑 Dark/UI Views/Chat/MIDV-C001 (Chat bubble 1)"
+},
+"D044A541-CA58-4339-ACAF-B8695D0EB72C":{
+"name":"🍎iOS/🌕 Light/UI Views/Modal windows/MIV-M003 (Default 3 Options)"
+},
+"DD7DDEF9-A5D0-4DEB-AA55-9C60F93FF44D":{
+"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIDV-S001 (Empty sheet)"
+},
+"52BC3157-F54F-405D-B485-0AFCC92C432C":{
+"name":"🍎iOS/🌑 Dark/UI Views/Chat/MIDV-C002 (Chat bubble 2)"
+},
+"ED8FAF9A-3DC6-4381-8EDC-2EE37CD96153":{
+"name":"🍎iOS/🌑 Dark/UI Views/Imagery/MIDV-I001 (Added Photo)"
+},
+"1124A6F1-CF65-4D2B-AFE4-A165A587A51C":{
+"name":"🍎iOS/🌕 Light/UI Views/Modal windows/MIV-M001 (Empty Modal)"
+},
+"A1C5D1D3-FDF2-4B64-A82B-5C7A81A141D8":{
+"name":"🍎iOS/🌑 Dark/UI Views/Cards/MIDV-D002 (Ticket style 1)"
+},
+"2CB32CC1-92DB-4B36-816E-A47ED4AF27ED":{
+"name":"🍎iOS/🌑 Dark/UI Views/Imagery/MIDV-I002 (User Image)"
+},
+"0C1ECAC9-FDBC-4C10-9D25-0C4CD0D59F7D":{
+"name":"🍎iOS/🌑 Dark/UI Views/Modal windows/MIDV-M004 (Text Field)"
+},
+"75E0BFBC-8BA5-41C1-9C0E-C3343D02231B":{
+"name":"🍎iOS/🌕 Light/UI Views/Imagery/MIV-I001 (Added Photo)"
+},
+"44C1D4B1-80D2-40FC-AB38-ACE719C50E01":{
+"name":"🍎iOS/🌕 Light/UI Views/Chat/MIV-C001 (Chat bubble 1)"
+},
+"0BBB3C11-D419-4930-AB10-3F1BA3A0AF31":{
+"name":"🍎iOS/🌕 Light/UI Views/Imagery/MIV-I002 (User Image)"
+},
+"07DBF479-DB6F-4B67-8C4A-A36A18DE01CD":{
+"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S003 (sheet menu 2)"
+},
+"0D082610-7053-4924-A150-ABECB681108D":{
+"name":"🍎iOS/🌑 Dark/UI Views/Cards/MIDV-D003 (Ticket style 2)"
+},
+"E70066A4-3576-4DBC-98A4-33795609B8DC":{
+"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S002 (sheet menu 1)"
+},
+"FDE18AC9-E061-465C-B7B5-3F3907CFDEB5":{
+"name":"🍎iOS/🌑 Dark/UI Views/Modal windows/MIDV-M002 (Default 1 Line Title)"
+},
+"D60C1C62-ECD4-4811-BB42-F08A919B2BCF":{
+"name":"🍎iOS/🌑 Dark/UI Views/Cards/MIDV-D001 (Empty Card)"
+},
+"515B545F-C0E7-4B43-ADE9-28E1EF6EF31F":{
+"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S004 (Action sheet menu 1) "
+},
+"6B4029DF-C588-408F-8A49-367078E3AF72":{
+"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S005 (Action sheet menu 2)"
+},
+"DAD3390B-DDD8-4053-ABED-F9C49E56F8FE":{
+"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S001 (Empty sheet)"
+},
+"43991AF3-6655-48B2-ABDE-A6D7B1D1B6C9":{
+"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIV-S005 (Action sheet menu 2)"
+},
+"A1E11798-847B-4959-AD3E-BB610A280426":{
+"name":"🍎iOS/🌕 Light/UI Views/Cards/MIV-D003 (Ticket style 2)"
+},
+"0ABB6A03-23FA-4077-B029-323393EB1283":{
+"name":"🍎iOS/🌕 Light/UI Views/Modal windows/MIV-M002 (Default 1 Line Title)"
+},
+"CCE2532A-E350-42EE-AC61-00F7DDEBC6F0":{
+"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIV-S004 (Action sheet menu 1)"
+},
+"240FDFFB-4178-42F7-83DE-952C62143416":{
+"name":"🍎iOS/🌕 Light/UI Views/Cards/MIV-D001 (Empty Card)"
+}
+}
+},
 "B3877B55-CA1E-4675-AE7E-4680C7345D20":{
 "name":"🍎UI Controls (MIC000)",
 "artboards":{
@@ -270,109 +520,481 @@
 }
 }
 },
-"FF8F6A55-3B37-4F88-B400-5C0E9A93B700":{
-"name":"🍎UI Views (MIV000)",
+"73D0B19E-2822-46A7-B82A-D62FF05AF9BF":{
+"name":"Typography",
 "artboards":{
-"C7942D95-9301-4DFE-803E-EF45FC1DE205":{
-"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIDV-S002 (sheet menu 1)"
+"1CBA4F02-886A-4994-A788-BA642016654C":{
+"name":"Android"
 },
-"59D8B12E-94C8-403A-9204-00FEE712F6F7":{
-"name":"🍎iOS/🌕 Light/UI Views/Chat/MIV-C002 (Chat bubble 2)"
+"C13C6FA4-C036-4424-A3FA-D0A243765767":{
+"name":"iOS"
+}
+}
 },
-"9B2AC0D9-3421-4C40-ACC0-8707F8C1B685":{
-"name":"🍎iOS/🌑 Dark/UI Views/Modal windows/MIDV-M003 (Default 3 Options)"
+"6B260284-2CC8-4C04-B024-2D1F11B20F0B":{
+"name":"Assets",
+"artboards":{
+"F45C1A9E-32C9-454F-8C4A-C76CC325B012":{
+"name":"Assets/🤖Android/🌕 Light/Menus/Services input 2"
 },
-"55921DB8-8B2B-4C74-AEEB-DC063729081A":{
-"name":"🍎iOS/🌑 Dark/UI Views/Modal windows/MIDV-M001 (Empty Modal)"
+"FD62E83A-1543-4BDE-9E13-3E16DA56D375":{
+"name":"Assets/🤖Android/🌑 Dark/Buttons/Regular"
 },
-"0B45626E-223F-4C8D-BE61-0C720F8D1032":{
-"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIDV-S003 (sheet menu 2)"
+"50AE7DFC-A9B4-444C-97E3-CC2B57921E8D":{
+"name":"Assets/🍎iOS/🌕 Light/Menus/Icon Input 1"
 },
-"2AFCC144-F4A3-488D-A3C2-46696CAD3C07":{
-"name":"🍎iOS/🌕 Light/UI Views/Cards/MIV-D002 (Ticket style 1)"
+"D14A0903-CF52-4570-B9F6-AA1E409D8CE9":{
+"name":"Assets/🍎iOS/🌕 Light/Menus/Icon Input 2"
 },
-"C4BFF478-F03D-4127-94E9-065D3E3C37FC":{
-"name":"🍎iOS/🌕 Light/UI Views/Modal windows/MIV-M004 (Text Field)"
+"90D447F0-506B-4188-986B-AD3A1D1BEFEC":{
+"name":"Assets/🤖Android/🌕 Light/Inputs/Input 2.1"
 },
-"0A1ACC0D-7AF4-457F-A3B3-384EAB18114A":{
-"name":"🍎iOS/🌑 Dark/UI Views/Chat/MIDV-C001 (Chat bubble 1)"
+"76C2D033-2E6D-485D-B8CD-AF6A28291A14":{
+"name":"Assets/🍎iOS/🌑 Dark/Button/Regular"
 },
-"D044A541-CA58-4339-ACAF-B8695D0EB72C":{
-"name":"🍎iOS/🌕 Light/UI Views/Modal windows/MIV-M003 (Default 3 Options)"
+"2B65E24D-AA2B-4889-B2E5-A59C1E0BEB64":{
+"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 2.2"
 },
-"DD7DDEF9-A5D0-4DEB-AA55-9C60F93FF44D":{
-"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIDV-S001 (Empty sheet)"
+"2E780D74-B640-452F-8D1F-10627BFFFC6A":{
+"name":"Assets/🍎iOS/🌕 Light/Menus/Screen menu"
 },
-"52BC3157-F54F-405D-B485-0AFCC92C432C":{
-"name":"🍎iOS/🌑 Dark/UI Views/Chat/MIDV-C002 (Chat bubble 2)"
+"53264A59-12FE-4E12-9F2F-4E610E4FF530":{
+"name":"Assets/🍎iOS/🌑 Dark/Button/Small"
 },
-"ED8FAF9A-3DC6-4381-8EDC-2EE37CD96153":{
-"name":"🍎iOS/🌑 Dark/UI Views/Imagery/MIDV-I001 (Added Photo)"
+"10C865D3-5EA6-45F5-BCFE-00E9913E1D5C":{
+"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 3.1"
 },
-"1124A6F1-CF65-4D2B-AFE4-A165A587A51C":{
-"name":"🍎iOS/🌕 Light/UI Views/Modal windows/MIV-M001 (Empty Modal)"
+"45ABB1F9-957B-4560-AC0E-88D79B46D6D7":{
+"name":"Assets/🤖Android/🌕 Light/Inputs/Input 3.2"
 },
-"A1C5D1D3-FDF2-4B64-A82B-5C7A81A141D8":{
-"name":"🍎iOS/🌑 Dark/UI Views/Cards/MIDV-D002 (Ticket style 1)"
+"167535DA-2831-40FB-A7BC-EED407EB775F":{
+"name":"Assets/🤖Android/🌑 Dark/Buttons/Regular Green"
 },
-"2CB32CC1-92DB-4B36-816E-A47ED4AF27ED":{
-"name":"🍎iOS/🌑 Dark/UI Views/Imagery/MIDV-I002 (User Image)"
+"A199EA2C-BA44-4030-B7BF-41B17D8A4CEC":{
+"name":"Assets/🤖Android/🌕 Light/Inputs/Input 3.1"
 },
-"0C1ECAC9-FDBC-4C10-9D25-0C4CD0D59F7D":{
-"name":"🍎iOS/🌑 Dark/UI Views/Modal windows/MIDV-M004 (Text Field)"
+"EEBC6652-FD8A-4AAE-AC59-8D55A6AB300A":{
+"name":"Assets/🤖Android/🌕 Light/Inputs/Input 1.2"
 },
-"75E0BFBC-8BA5-41C1-9C0E-C3343D02231B":{
-"name":"🍎iOS/🌕 Light/UI Views/Imagery/MIV-I001 (Added Photo)"
+"21DD31B9-67CF-4EA6-B475-1B66C2035B43":{
+"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 1.1"
 },
-"44C1D4B1-80D2-40FC-AB38-ACE719C50E01":{
-"name":"🍎iOS/🌕 Light/UI Views/Chat/MIV-C001 (Chat bubble 1)"
+"35F89E42-AA7A-4A1B-86F2-26E069429F1D":{
+"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 1.1"
 },
-"0BBB3C11-D419-4930-AB10-3F1BA3A0AF31":{
-"name":"🍎iOS/🌕 Light/UI Views/Imagery/MIV-I002 (User Image)"
+"A6A80B88-8662-4F00-AA26-A995CFD71A56":{
+"name":"Assets/🤖Android/🌕 Light/Inputs/Input 1.1"
 },
-"07DBF479-DB6F-4B67-8C4A-A36A18DE01CD":{
-"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S003 (sheet menu 2)"
+"6BAF356D-C475-4B43-BFFF-A025E56935FF":{
+"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 2.1"
 },
-"0D082610-7053-4924-A150-ABECB681108D":{
-"name":"🍎iOS/🌑 Dark/UI Views/Cards/MIDV-D003 (Ticket style 2)"
+"C7078E76-5367-4CD5-82DF-A55D3EDE1F82":{
+"name":"Assets/🤖Android/🌕 Light/Buttons/Regular"
 },
-"E70066A4-3576-4DBC-98A4-33795609B8DC":{
-"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S002 (sheet menu 1)"
+"5A7BA53F-D5BA-4DC0-A2E3-B2CA631A949C":{
+"name":"Assets/🍎iOS/🌑 Dark/Button/Regular Green"
 },
-"FDE18AC9-E061-465C-B7B5-3F3907CFDEB5":{
-"name":"🍎iOS/🌑 Dark/UI Views/Modal windows/MIDV-M002 (Default 1 Line Title)"
+"D4FD0B5E-C2C1-477D-AD5A-87B5FCE4F9FF":{
+"name":"Assets/🤖Android/🌑 Dark/Menus/Services input 1"
 },
-"D60C1C62-ECD4-4811-BB42-F08A919B2BCF":{
-"name":"🍎iOS/🌑 Dark/UI Views/Cards/MIDV-D001 (Empty Card)"
+"F04411F6-AF2D-46E6-9544-EE23E117F8D0":{
+"name":"Assets/🍎iOS/🌕 Light/Button/Regular (iOS)"
 },
-"515B545F-C0E7-4B43-ADE9-28E1EF6EF31F":{
-"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S004 (Action sheet menu 1) "
+"6CE677C8-AC55-4C87-9B3A-340D1A139DEA":{
+"name":"Assets/🍎iOS/🌑 Dark/Menus/Icon Input 2"
 },
-"6B4029DF-C588-408F-8A49-367078E3AF72":{
-"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S005 (Action sheet menu 2)"
+"4FA6F0FE-55B6-4765-9C48-41335786A95A":{
+"name":"Assets/🤖Android/🌑 Dark/Menus/Icon input 2"
 },
-"DAD3390B-DDD8-4053-ABED-F9C49E56F8FE":{
-"name":"🍎iOS/🌕 Light/UI Views/Sheets/MIV-S001 (Empty sheet)"
+"3376FD3E-CBCD-4E6C-8786-676285F81751":{
+"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 3.1"
 },
-"43991AF3-6655-48B2-ABDE-A6D7B1D1B6C9":{
-"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIV-S005 (Action sheet menu 2)"
+"65303125-2737-4294-9307-A87C245806AC":{
+"name":"Assets/🍎iOS/🌕 Light/Menus/Services Input 2"
 },
-"A1E11798-847B-4959-AD3E-BB610A280426":{
-"name":"🍎iOS/🌕 Light/UI Views/Cards/MIV-D003 (Ticket style 2)"
+"286D5E38-33FA-415F-B285-2C088A348689":{
+"name":"Assets/🤖Android/🌑 Dark/Menus/Services input 2"
 },
-"0ABB6A03-23FA-4077-B029-323393EB1283":{
-"name":"🍎iOS/🌕 Light/UI Views/Modal windows/MIV-M002 (Default 1 Line Title)"
+"7AC9CBA5-5681-497D-B46D-5A481503FE82":{
+"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 2.1"
 },
-"CCE2532A-E350-42EE-AC61-00F7DDEBC6F0":{
-"name":"🍎iOS/🌑 Dark/UI Views/Sheets/MIV-S004 (Action sheet menu 1)"
+"1A5D23C6-B858-4996-8D7D-585FA810E83F":{
+"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 3.2"
 },
-"240FDFFB-4178-42F7-83DE-952C62143416":{
-"name":"🍎iOS/🌕 Light/UI Views/Cards/MIV-D001 (Empty Card)"
+"41F2ECF5-3197-4F13-A5F9-F84E444B5736":{
+"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 2.1"
+},
+"551D5822-43AF-4135-A5AA-E1FC7E0B0793":{
+"name":"Assets/🤖Android/🌑 Dark/Menus/Icon input 1"
+},
+"33CAA8F9-7B3B-4FD9-98C2-E02ACC682B3E":{
+"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 3.1"
+},
+"CF2D5A38-C39D-4A5E-8591-C7D754BAD6D1":{
+"name":"Assets/🍎iOS/🌕 Light/Menus/Services Input 1"
+},
+"E2E22742-DFA4-476E-A1D3-4A2900FE17E4":{
+"name":"Assets/🍎iOS/🌑 Dark/Menus/Services Input 1"
+},
+"D34EEE6A-CB47-4C96-BEB6-1E511659C159":{
+"name":"Assets/🍎iOS/🌑 Dark/Menus/Services Input 2"
+},
+"A21D719A-9424-41D4-9DB3-AE2592CF81C5":{
+"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 2.2"
+},
+"24AE0044-464D-4835-803B-EB94081F6341":{
+"name":"Assets/🤖Android/🌑 Dark/Buttons/Small Green"
+},
+"E330A633-5903-4109-85AC-ED7D53A19228":{
+"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 2.2"
+},
+"0B6EE07E-0A65-4EE0-BE84-788632333BC0":{
+"name":"Assets/🤖Android/🌕 Light/Menus/Screen menu"
+},
+"2A2224AF-C3E5-49C6-B3DF-7AFDD9325D3B":{
+"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 1.2"
+},
+"AB267D17-8EEF-4292-93A9-8E33874EF8F6":{
+"name":"Assets/🍎iOS/🌑 Dark/Button/Small Green"
+},
+"9807438A-7D9F-4071-A50C-915FA5800728":{
+"name":"Assets/🍎iOS/🌑 Dark/Menus/Icon Input 1"
+},
+"9973D62F-4DD1-484C-9B11-ECEF7B388AF8":{
+"name":"Assets/🤖Android/🌕 Light/Buttons/Small"
+},
+"38D985B1-EF08-442E-9CD4-836E32E1F6B2":{
+"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 3.2"
+},
+"243332A2-862E-4314-864D-9582EE702FAE":{
+"name":"Assets/🤖Android/🌕 Light/Inputs/Input 2.2"
+},
+"4474D8D0-F2FB-4EBD-AE9D-1076BE4D29A0":{
+"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 1.1"
+},
+"CE01BD4F-D993-4B15-843D-4656CAA07A59":{
+"name":"Assets/🤖Android/🌕 Light/Menus/Icon input 2"
+},
+"04C8B8F0-300F-416E-AB7C-350E60EE7488":{
+"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 1.2"
+},
+"844867ED-8FE9-40FD-907E-F34B86507930":{
+"name":"Assets/🤖Android/🌑 Dark/Buttons/Small"
+},
+"F4089B4D-BEB0-4B03-966F-D6D8C97A3D2F":{
+"name":"Assets/🍎iOS/🌕 Light/Button/Small (iOS)"
+},
+"4B39ECB2-5DD9-4D75-B693-193AEB10F9C8":{
+"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 1.2"
+},
+"CC700E58-8A31-4138-99A6-22F96226E779":{
+"name":"Assets/🍎iOS/🌑 Dark/Menus/Screen menu"
+},
+"494362BF-B8CD-498A-9F7B-7852C1BC2B4E":{
+"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 3.2"
+},
+"EFBBCF2E-363A-4CCD-80C0-B99E64EB4C76":{
+"name":"Assets/🤖Android/🌕 Light/Menus/Icon input 1"
+},
+"D3132841-E47D-4D59-B8EB-79D94F65C7B1":{
+"name":"Assets/🤖Android/🌕 Light/Menus/Services input 1"
+},
+"0AA9A374-D5F4-4F1B-A3C7-86570A6FE560":{
+"name":"Assets/🤖Android/🌑 Dark/Menus/Screen menu"
+}
+}
+},
+"C19E35C8-33CB-4DDB-8909-267658347051":{
+"name":"Save on This Page",
+"artboards":{
+"E26A7E51-D358-43EE-B270-DB70EF8576EC":{
+"name":"COVER"
+}
+}
+},
+"EC827C09-4A91-466D-84C8-ECDFD2A866D4":{
+"name":"Colors",
+"artboards":{
+"BD82666C-1398-4118-A37A-24B57467EDF9":{
+"name":"Flat Colors"
+},
+"2D4C96BC-E64C-4AA9-92C7-CE93168027AD":{
+"name":"Gradients"
+},
+"54B1E4B9-CBF4-43B3-BEB3-11DB698186B4":{
+"name":"Elevation | Shadows"
+}
+}
+},
+"27D4A16D-41D7-4144-B254-03568458A999":{
+"name":"🤖UI Views (MAV000)",
+"artboards":{
+"CF6D9E40-A285-4EBB-90C3-448F30000008":{
+"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S002 (sheet menu 1)"
+},
+"141140AC-8029-4904-AFF3-DF67DBB6D004":{
+"name":"🤖Android/🌑 Dark/UI Views/Cards/MADV-D001 (Empty Card)"
+},
+"2C0FA28B-D2B2-4F7D-8B25-CC575571093E":{
+"name":"🤖Android/🌑 Dark/UI Views/Cards/MADV-D002 (Ticket style 1)"
+},
+"473DDBD9-FC96-4612-B41E-81D35AC28790":{
+"name":"🤖Android/🌕 Light/UI Views/Modal windows/MAV-M004 (Text Field)"
+},
+"A0A867A5-CF2B-4EC6-B378-2140C3CD769A":{
+"name":"🤖Android/🌕 Light/UI Views/Chat/MAV-C001 (Chat bubble 1)"
+},
+"FE7448C3-505A-4C4F-880B-F5FF4F136198":{
+"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S002 (sheet menu 1)"
+},
+"05761BA8-F7DB-4BA5-9B74-EC47A5C75F90":{
+"name":"🤖Android/🌑 Dark/UI Views/Imagery/MADV-I002 (User Image)"
+},
+"2A41FBF5-2E84-4AAF-8AA2-718E7E3AC788":{
+"name":"🤖Android/🌑 Dark/UI Views/Cards/MADV-D003 (Ticket style 2)"
+},
+"B08BEB19-8809-4D41-854B-C0DB76E729B5":{
+"name":"🤖Android/🌕 Light/UI Views/Modal windows/MAV-M001 (Empty Modal)"
+},
+"90BCEB7B-22DE-475A-BBDC-CAAE97BB3FD6":{
+"name":"🤖Android/🌑 Dark/UI Views/Modal windows/MADV-M004 (Text Field)"
+},
+"D97A9623-FA39-4F6D-93C8-906D59361301":{
+"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S004 (Action sheet menu 1)"
+},
+"9C510B33-41D8-44E9-A8DA-2DEA24567E30":{
+"name":"🤖Android/🌑 Dark/UI Views/Modal windows/MADV-M002 (Default 1 Line Title)"
+},
+"97880C90-EF39-46F5-8BD8-DC4B432499E0":{
+"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S001 (Empty sheet)"
+},
+"9D5E4E25-0284-46BF-BF2E-8C8275F176F4":{
+"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S001 (Empty sheet)"
+},
+"DADCDA3B-07DE-4183-988E-328AB069657B":{
+"name":"🤖Android/🌕 Light/UI Views/Cards/MAV-D002 (Ticket style 1)"
+},
+"87E8B921-189A-4F00-B301-7F5AF6C6D8EF":{
+"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S004 (Action sheet menu 1)"
+},
+"B661B2B5-DB65-4044-BD11-2DB88D2D8DF2":{
+"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S003 (sheet menu 2)"
+},
+"4A8EB47A-CB7B-4899-A021-450D48B1CF4A":{
+"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S005 (Action sheet menu 2)"
+},
+"BFAAFBB8-C579-4E47-BF34-6CE29E262EA6":{
+"name":"🤖Android/🌕 Light/UI Views/Cards/MAV-D001 (Empty Card)"
+},
+"1FD343E4-B5A7-4CD0-845F-FED3C30F7FB6":{
+"name":"🤖Android/🌕 Light/UI Views/Imagery/MAV-I002 (User Image)"
+},
+"382FBDC8-7415-4F08-936B-C4776A1E631B":{
+"name":"🤖Android/🌑 Dark/UI Views/Chat/MADV-C001 (Chat bubble 1)"
+},
+"7C7DABBB-D2A3-431D-824C-0923BEF9F153":{
+"name":"🤖Android/🌑 Dark/UI Views/Chat/MADV-C002 (Chat bubble 2)"
+},
+"0030B8D2-39D8-489B-B1E9-4200255A9942":{
+"name":"🤖Android/🌑 Dark/UI Views/Modal windows/MADV-M003 (Default 3 Options)"
+},
+"86C1324C-5846-4419-A00C-90C8F2D7FB26":{
+"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S003 (sheet menu 2)"
+},
+"27B35E41-D2A2-4AA5-8619-117FA73A3C1D":{
+"name":"🤖Android/🌕 Light/UI Views/Modal windows/MAV-M003 (Default 3 Options)"
+},
+"460439DA-E9E7-4BAB-AA69-768E2D7EAE9B":{
+"name":"🤖Android/🌕 Light/UI Views/Chat/MAV-C002 (Chat bubble 2)"
+},
+"0EE6ADFC-58CA-4B25-AE9E-DE6896086B6E":{
+"name":"🤖Android/🌑 Dark/UI Views/Modal windows/MADV-M001 (Empty Modal)"
+},
+"3D54A2A6-12DF-4375-9345-472F497D4A5D":{
+"name":"🤖Android/🌑 Dark/UI Views/Imagery/MADV-I001 (Added Photo)"
+},
+"6A74AE1E-7092-4D83-821C-D5BA1803D06C":{
+"name":"🤖Android/🌕 Light/UI Views/Cards/MAV-D003 (Ticket style 2)"
+},
+"EACC3DFE-2A86-4500-AAB2-DA76EAC4D357":{
+"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S005 (Action sheet menu 2)"
+},
+"AE8F47CA-FDA4-4982-AA4D-2AECB350ED94":{
+"name":"🤖Android/🌕 Light/UI Views/Imagery/MAV-I001 (Added Photo)"
+},
+"6003650C-1649-4C35-8AF7-50C4FEFA7996":{
+"name":"🤖Android/🌕 Light/UI Views/Modal windows/MAV-M002 (Default 1 Line Title)"
+}
+}
+},
+"87C9BEEF-3D54-4703-9054-17325E184619":{
+"name":"🍎UI System (MIS000)",
+"artboards":{
+"7C21358F-2F8B-44DD-B7F9-9EBE1C2C2A77":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P001 (Date picker)"
+},
+"3D86158C-5307-4ABC-BCE0-3D9A8914FE51":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P002 (Date picker with Confirmation)"
+},
+"CCAF550E-26D8-451C-AD31-77ECB8C27D1D":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P004 (Date and Time picker with Confirmation)"
+},
+"27BB3816-51BE-4555-A3D3-45767CDD7603":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P001 (Date picker)"
+},
+"DDAC0ED8-D3EA-4086-9ED4-C660D242AAEA":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P003 (Date and Time picker)"
+},
+"FBEFF51B-4AF4-4669-8FFA-41143A03318A":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P004 (Date and Time picker with Confirmation)"
+},
+"EAACD4D0-1AC2-40C4-A999-156AB6312FB2":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P005 (Time picker)"
+},
+"EEAF0702-CB97-48CA-88C3-E762E97995EA":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P002 (Date picker with Confirmation)"
+},
+"3B2E9135-4D44-4D5A-9D06-340C23B4B0E2":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P006 (Time picker with Confirmation)"
+},
+"9A38F128-1376-40DB-9B4F-740A5DBE806D":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P003 (Date and Time picker)"
+},
+"E89B4BF6-83A4-452A-86B1-4F8A0CED2334":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P006 (Time picker with Confirmation)"
+},
+"25C53AE2-6CA4-4AA3-8D52-C1BD20529FCC":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P005 (Time picker)"
+}
+}
+},
+"AABCBF75-F539-462B-BA65-E41E9FFA0C0A":{
+"name":"🤖UI Bars (MAB000)",
+"artboards":{
+"222B527C-0A4C-453B-A9AF-152BC72B5A26":{
+"name":"🤖Android/🌑 Dark/UI Bars/Headers/MADB-H005 (Large Title with Map style)"
+},
+"3829847C-F361-4013-B28C-BFA72C715B00":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL007 (Profile Active)"
+},
+"507F7D91-E288-4FB9-BA53-EDDFE40219CD":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL006 (Media inctive)"
+},
+"72E88F14-6804-4BEF-85FB-98C7D32E9A7B":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL002 (Home inctive)"
+},
+"F4F70542-6416-4394-B31D-6EE1E10FD608":{
+"name":"🤖Android/🌕 Light/UI Bars/Headers/MAB-H004 (Defualt 2options)"
+},
+"81AAF98C-CEEE-414D-8053-081C918D9F2A":{
+"name":"🤖Android/🌑 Dark/UI Bars/System bars/MADB-S002 (Status bar 2)"
+},
+"33C7DE03-C301-4295-BED1-AD97C8020289":{
+"name":"🤖Android/🌕 Light/UI Bars/Headers/MAB-H002 (Large Title)"
+},
+"B5675CD4-2549-4FA4-B069-BD825C69F30D":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL002 (Home inctive)"
+},
+"4D554AC4-6B82-42EC-853C-324EF83BBFEF":{
+"name":"🤖Android/🌕 Light/UI Bars/System bars/MAB-S002 (Status bar 2)"
+},
+"AB7A2546-B312-4AED-9A42-5DCDD54D2F0B":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL009 (Unknown Profile inctive)"
+},
+"FC602D6B-AFAD-4BAF-A087-603BEE655659":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL001 (Home Active)"
+},
+"F990E1AC-A054-4B5D-AECE-F436CBD434DE":{
+"name":"🤖Android/🌑 Dark/UI Bars/Headers/MADB-H002 (Large Title)"
+},
+"B6876D07-BAE0-43AE-A242-769256E7D26E":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/MAB-N001 (Navigation bar)"
+},
+"D7EECE3F-003A-4AE4-8C88-7475C9440250":{
+"name":"🤖Android/🌕 Light/UI Bars/Headers/MAB-H005 (Large Title with Map style)"
+},
+"69F48963-F13C-49C5-B002-BB8E7F5C8421":{
+"name":"🤖Android/🌑 Dark/UI Bars/Headers/MADB-H006 (Default with Services)"
+},
+"19286C61-C875-4317-9EE4-14ADE53EC283":{
+"name":"🤖Android/🌕 Light/UI Bars/Headers/MAB-H006 (Default with Services)"
+},
+"FA87E728-7229-45C0-A7DE-A15479383AC4":{
+"name":"🤖Android/🌑 Dark/UI Bars/Headers/MADB-H004 (Defualt 2options)"
+},
+"ECEF9DE6-0C0A-4042-A62D-02ABF0234A0B":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL005 (Media Active)"
+},
+"8AFD13C2-8F8B-47C4-BA02-CB683E6F0DC0":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL003 (Services Active)"
+},
+"1C21FFF5-E8AE-4D79-8289-CEB5B91E9D82":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL004 (Services inctive)"
+},
+"3D76B446-2AF4-4F56-A741-751C31D6BD2F":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL010 (Amna)"
+},
+"70632209-D630-420F-9BC5-F21940D7B0C4":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL008 (Profile inctive)"
+},
+"53DA0817-83FF-4730-BCEB-325FD452BFFA":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL006 (Media inctive)"
+},
+"3B86CF68-E091-43E4-ADBC-91AB9D469C32":{
+"name":"🤖Android/🌕 Light/UI Bars/Headers/MAB-H001 (Default)"
+},
+"490EB944-606C-4E90-9C0B-A0BA61CA9E9F":{
+"name":"🤖Android/🌑 Dark/UI Bars/System bars/MADB-S001 (Status bar)"
+},
+"9A3C50B8-B052-47F4-9556-71D860F00467":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL004 (Services inctive)"
+},
+"8E054711-6C43-4014-8046-524B9E6B2020":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL009 (Unknown Profile inctive)"
+},
+"9386876A-0ED6-4D32-8D68-A0AA3FB511AF":{
+"name":"🤖Android/🌑 Dark/UI Bars/Headers/MADB-H007 (Large Title with Imagery)"
+},
+"C9E6CA1E-E65A-4610-90AA-5A8CE29297D4":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL010 (Amna)"
+},
+"BF70EFE5-0AE5-4FFB-9DF4-CD22CB2554A2":{
+"name":"🤖Android/🌕 Light/UI Bars/Headers/MAB-H003 (Search)"
+},
+"3F60AEBD-E995-44F3-B7B6-9BDE89107713":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL005 (Media Active)"
+},
+"793C0E77-8FF5-4573-83C5-5E62E193351D":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL003 (Services Active)"
+},
+"7FF6E90C-00E3-418B-8D42-DAE22D473EEE":{
+"name":"🤖Android/🌕 Light/UI Bars/System bars/MAB-S001 (Status bar)"
+},
+"B91020BE-24E3-4558-B69C-C139893532DD":{
+"name":"🤖Android/🌑 Dark/UI Bars/Headers/MADB-H001 (Default)"
+},
+"65A79D42-4E35-4AB9-9220-C87F8657AC2E":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL001 (Home Active)"
+},
+"EBBDAB36-9552-4E74-97BB-811E11C9D885":{
+"name":"🤖Android/🌑 Dark/UI Bars/Headers/MADB-H003 (Search)"
+},
+"BCB3ED9B-08F5-4E69-B63A-576738FB4447":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL007 (Profile Active)"
+},
+"3957113A-D15F-472D-8043-653AD1FEFDD6":{
+"name":"🤖Android/🌕 Light/UI Bars/Headers/MAB-H007 (Large Title with Imagery)"
+},
+"4492E57F-769C-489A-B20C-2133DA16B336":{
+"name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/MADB-N001 (Navigation bar)"
+},
+"9669E093-5924-4FCF-99FB-16958512BE82":{
+"name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL008 (Profile inctive)"
 }
 }
 },
 "573DFC53-C8CC-4A59-B33F-872FE20AD94C":{
-"name":"🤖Android (MAC000)",
+"name":"🤖UI Controls (MAC000)",
 "artboards":{
 "9BDA3984-5466-4CBD-A871-313AD75779D4":{
 "name":"🤖Android/🌕 Light/UI Controls/Buttons/FAB/MAC-BA002 ( FAB2 )"
@@ -414,7 +1036,7 @@
 "name":"🤖Android/🌕 Light/UI Controls/Inputs/Semi-Rounded/MAC-IS001 ( Inactive )"
 },
 "9E75ADC3-8790-49F4-94FD-56910E2036A9":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT001 (Preferred)"
+"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MADC-BT001 (Preferred)"
 },
 "A9469456-736D-47F7-839F-8852E4A0A433":{
 "name":"🤖Android/🌑 Dark/UI Controls/Buttons/Outlined/MADC-BL002 ( Regular button )"
@@ -528,7 +1150,7 @@
 "name":"🤖Android/🌑 Dark/UI Controls/Buttons/Filled/MADC-BF002 ( Regular button )"
 },
 "E6CE747C-EB02-4CC9-B390-B893115F7D9F":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MIC-BT003 (2 Buttons)"
+"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MAC-BT003 (2 Buttons)"
 },
 "90F1183A-9C2D-412D-B6D4-D44E5334C90A":{
 "name":"🤖Android/🌑 Dark/UI Controls/Selection/Check-Box/MADC-SC001 ( Checked )"
@@ -588,16 +1210,16 @@
 "name":"🤖Android/🌕 Light/UI Controls/Inputs/Full-Rounded/MAC-IF002 ( Active )"
 },
 "60EE585E-07B8-4C2D-8700-F188323BA8EF":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MIC-BT002 (Regular)"
+"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MAC-BT002 (Regular)"
 },
 "B27DAA51-A5B9-4A40-905B-96E111FEE965":{
 "name":"🤖Android/🌑 Dark/UI Controls/Selection/Radio-Button/MADC-SR002 ( Unchecked )"
 },
 "9C7770C6-0FF8-47B5-8A06-9C323FD1B940":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT003 (2 Buttons)"
+"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MADC-BT003 (2 Buttons)"
 },
 "EE5F289F-8B16-416F-8E5C-216AB11A9C08":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT002 (Regular)"
+"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MADC-BT002 (Regular)"
 },
 "1B7E2E44-6C17-42FE-BF66-CF41F30CF88B":{
 "name":"🤖Android/🌕 Light/UI Controls/Inputs/Full-Rounded/MAC-IF003 ( Focused )"
@@ -621,7 +1243,7 @@
 "name":"🤖Android/🌑 Dark/UI Controls/Inputs/Line input/MADC-IL001 ( Inctive )"
 },
 "BBED26F4-459B-4CEC-80F6-44BD59A9500F":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MIC-BT001 (Preferred)"
+"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MAC-BT001 (Preferred)"
 },
 "09773A78-587C-4E73-AEFE-EB5030E7ABC1":{
 "name":"🤖Android/🌕 Light/UI Controls/Inputs/Line input/MAC-IL003 ( Focused )"
@@ -637,270 +1259,6 @@
 },
 "3C61159C-ABF0-4DD7-A5E8-B3DC70403470":{
 "name":"🤖Android/🌑 Dark/UI Controls/Menus/MADC-M002 (Action menu 1)"
-}
-}
-},
-"B8D68919-772E-47A6-9D09-E14380CB9D80":{
-"name":"🍎UI Bars (MIB000)",
-"artboards":{
-"3BF41039-3FE4-4463-919D-E4B7052268C3":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H010 (Large Title with Imagery)"
-},
-"6B1F5388-FE4B-4969-9974-68F16E02A34A":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL007 (Profile Active)"
-},
-"EFFCC960-5562-400B-8D2B-A152ABDE364E":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL001 (Home Active)"
-},
-"EC68AF11-CDFE-4AD6-94C7-5F38BE3F7990":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H010 (Large Title with Imagery)"
-},
-"8AD0CE17-E18F-4231-8215-82C8E4B63201":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/MIDB-N001 (Navigation bar)"
-},
-"3018F33A-1079-4D54-AC36-56F1A81409D6":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H008 (Large Title with Map style)"
-},
-"93A9FCBD-9259-4098-8349-C26AB05BB1E9":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H005 (Search)"
-},
-"703269F4-C7D9-4773-BA9C-9CD93CF9658C":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H009 (Default with Services)"
-},
-"3AE71FA5-337A-45A1-BBC7-74B5FBAFA793":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL010 (Amna)"
-},
-"71EB6FF8-E9CA-4E75-859D-5CBBFAED5E55":{
-"name":"🍎iOS/🌑 Dark/UI Bars/System bars/MIB-S001 (Status bar)"
-},
-"8EC7968C-647F-49BD-918A-77BA4005C31F":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H006 (Defualt 2options)"
-},
-"3DED5B78-3531-43DD-8352-B5EE02C1FA7D":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL003 (Services Active)"
-},
-"146B00DE-65D9-4A18-BC06-12E0BC5877D9":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL009 (Unknown Profile inctive)"
-},
-"D037C0FD-4C5E-4CDE-9243-ABB0A698298E":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H003 (Default with Search)"
-},
-"4C3D3F35-49F4-42AF-ABB5-7C6F732BDAA2":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H008 (Large Title with Map style)"
-},
-"AF51A9AF-B6E5-401F-AB4D-67F6902CE70A":{
-"name":"🍎iOS/🌕 Light/UI Bars/System bars/MIB-S002 (IphoneX Status bar)"
-},
-"32955133-CA41-4739-AFA8-827894ECFB2B":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL006 (Media inctive)"
-},
-"37F209BF-4D36-47A1-ADB8-828EBEE2001A":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL001 (Home Active)"
-},
-"930E84E7-E656-4D7F-BE29-EABF4681DDBB":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H006 (Defualt 2options)"
-},
-"F7D5FF95-9F16-4D9E-BA55-B059014546C7":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H002 (Large Title)"
-},
-"74789CFA-5268-4CBF-87B9-7EA0FF3F4C3D":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL008 (Profile inctive)"
-},
-"D207697D-6A5E-4906-AB1F-A7395C22BF32":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H004 (Large Title with Search)"
-},
-"4F54A6A0-C81D-4FCB-A792-EB3B538B98C8":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL003 (Services Active)"
-},
-"9F1582F6-17AA-477B-B82C-165BBC61AAA7":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL010 (Amna)"
-},
-"8AD93C81-C8DA-4930-8DC7-94C3E96D9D66":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H001 (Default)"
-},
-"6C7F4495-3841-4A93-9448-29053E2C1FF4":{
-"name":"🍎iOS/🌑 Dark/UI Bars/System bars/MIB-S002 (IphoneX Status bar)"
-},
-"30B77214-C3BC-4CB2-8649-7F31DCEDCFEE":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL002 (Home inctive)"
-},
-"A10CAF9D-770A-4521-9389-2B04E5B8449A":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H005 (Search)"
-},
-"8E4BBA5C-C35D-4CE0-93F8-C3E60ADD003A":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H007 (Default with Close)"
-},
-"7030E862-C2D5-4CD8-BA69-9E2DEE40CD03":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H004 (Large Title with Search)"
-},
-"E22AB97B-DD63-4155-B853-BC01B4ED7429":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H007 (Default with Close)"
-},
-"682CACFD-2253-4425-A709-6A826AF5FF33":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL007 (Profile Active)"
-},
-"272874BF-51B1-4E55-A3D8-64C1134C16FE":{
-"name":"🍎iOS/🌕 Light/UI Bars/System bars/MIB-S003 (IphoneX Home Indicator)"
-},
-"FF967EA1-84AE-4253-91F7-DEE00B644A1F":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H001 (Default)"
-},
-"9CDD69FC-F52C-4589-A3DA-D251C5F50AE9":{
-"name":"🍎iOS/🌕 Light/UI Bars/Headers/MIB-H002 (Large Title)"
-},
-"FA5A0B74-9F7B-4CBF-B972-C46D6AA19DBA":{
-"name":"🍎iOS/🌑 Dark/UI Bars/System bars/MIB-S003 (IphoneX Home Indicator)"
-},
-"4F6216D5-273A-4767-890C-70F25CD1DD2F":{
-"name":"🍎iOS/🌕 Light/UI Bars/System bars/MIB-S001 (Status bar)"
-},
-"02ED66B7-6ED9-4564-874A-FB97C5E0B4CB":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL002 (Home inctive)"
-},
-"EB8E344A-C6DC-4B61-BE2D-935066929C34":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL005 (Media Active)"
-},
-"2E1B2FB3-AE5A-47BC-A320-7A175EBBF307":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/MIB-N001 (Navigation bar)"
-},
-"1C5BADE6-9FD0-458A-8217-639DA2AA8F28":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL004 (Services inctive)"
-},
-"26F39276-6B96-4780-9778-BA103ADBB909":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H009 (Default with Services)"
-},
-"F96AFBA4-43F9-42AD-A738-D1FE1BE2DBF9":{
-"name":"🍎iOS/🌕 Light/UI Bars/Navigation bar/Links/MIB-NL004 (Services inctive)"
-},
-"6BE86B4A-A2C5-43F9-A4C5-402D003F5252":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL006 (Media inctive)"
-},
-"2B3345B1-7506-401A-B1A6-FCE714562F3E":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Headers/MIDB-H003 (Default with Search)"
-},
-"F1FA817F-653C-4264-9FD7-C38BE2343438":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL005 (Media Active)"
-},
-"99D6314E-0757-4E68-9A13-B9C96C102244":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL008 (Profile inctive)"
-},
-"E5BF1EDF-686A-4606-8FE8-6165E5536B93":{
-"name":"🍎iOS/🌑 Dark/UI Bars/Navigation bar/Links/MIDB-NL009 (Unknown Profile inctive)"
-}
-}
-},
-"27D4A16D-41D7-4144-B254-03568458A999":{
-"name":"🤖Android (MAV000)",
-"artboards":{
-"CF6D9E40-A285-4EBB-90C3-448F30000008":{
-"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S002 (sheet menu 1)"
-},
-"141140AC-8029-4904-AFF3-DF67DBB6D004":{
-"name":"🤖Android/🌑 Dark/UI Views/Cards/MADV-D001 (Empty Card)"
-},
-"2C0FA28B-D2B2-4F7D-8B25-CC575571093E":{
-"name":"🤖Android/🌑 Dark/UI Views/Cards/MADV-D002 (Ticket style 1)"
-},
-"473DDBD9-FC96-4612-B41E-81D35AC28790":{
-"name":"🤖Android/🌕 Light/UI Views/Modal windows/MAV-M004 (Text Field)"
-},
-"A0A867A5-CF2B-4EC6-B378-2140C3CD769A":{
-"name":"🤖Android/🌕 Light/UI Views/Chat/MAV-C001 (Chat bubble 1)"
-},
-"FE7448C3-505A-4C4F-880B-F5FF4F136198":{
-"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S002 (sheet menu 1)"
-},
-"05761BA8-F7DB-4BA5-9B74-EC47A5C75F90":{
-"name":"🤖Android/🌑 Dark/UI Views/Imagery/MADV-I002 (User Image)"
-},
-"2A41FBF5-2E84-4AAF-8AA2-718E7E3AC788":{
-"name":"🤖Android/🌑 Dark/UI Views/Cards/MADV-D003 (Ticket style 2)"
-},
-"B08BEB19-8809-4D41-854B-C0DB76E729B5":{
-"name":"🤖Android/🌕 Light/UI Views/Modal windows/MAV-M001 (Empty Modal)"
-},
-"90BCEB7B-22DE-475A-BBDC-CAAE97BB3FD6":{
-"name":"🤖Android/🌑 Dark/UI Views/Modal windows/MADV-M004 (Text Field)"
-},
-"D97A9623-FA39-4F6D-93C8-906D59361301":{
-"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S004 (Action sheet menu 1)"
-},
-"9C510B33-41D8-44E9-A8DA-2DEA24567E30":{
-"name":"🤖Android/🌑 Dark/UI Views/Modal windows/MADV-M002 (Default 1 Line Title)"
-},
-"97880C90-EF39-46F5-8BD8-DC4B432499E0":{
-"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S001 (Empty sheet)"
-},
-"9D5E4E25-0284-46BF-BF2E-8C8275F176F4":{
-"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S001 (Empty sheet)"
-},
-"DADCDA3B-07DE-4183-988E-328AB069657B":{
-"name":"🤖Android/🌕 Light/UI Views/Cards/MAV-D002 (Ticket style 1)"
-},
-"87E8B921-189A-4F00-B301-7F5AF6C6D8EF":{
-"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S004 (Action sheet menu 1)"
-},
-"B661B2B5-DB65-4044-BD11-2DB88D2D8DF2":{
-"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S003 (sheet menu 2)"
-},
-"4A8EB47A-CB7B-4899-A021-450D48B1CF4A":{
-"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S005 (Action sheet menu 2)"
-},
-"BFAAFBB8-C579-4E47-BF34-6CE29E262EA6":{
-"name":"🤖Android/🌕 Light/UI Views/Cards/MAV-D001 (Empty Card)"
-},
-"1FD343E4-B5A7-4CD0-845F-FED3C30F7FB6":{
-"name":"🤖Android/🌕 Light/UI Views/Imagery/MAV-I002 (User Image)"
-},
-"382FBDC8-7415-4F08-936B-C4776A1E631B":{
-"name":"🤖Android/🌑 Dark/UI Views/Chat/MADV-C001 (Chat bubble 1)"
-},
-"7C7DABBB-D2A3-431D-824C-0923BEF9F153":{
-"name":"🤖Android/🌑 Dark/UI Views/Chat/MADV-C002 (Chat bubble 2)"
-},
-"0030B8D2-39D8-489B-B1E9-4200255A9942":{
-"name":"🤖Android/🌑 Dark/UI Views/Modal windows/MADV-M003 (Default 3 Options)"
-},
-"86C1324C-5846-4419-A00C-90C8F2D7FB26":{
-"name":"🤖Android/🌕 Light/UI Views/Sheets/MAV-S003 (sheet menu 2)"
-},
-"27B35E41-D2A2-4AA5-8619-117FA73A3C1D":{
-"name":"🤖Android/🌕 Light/UI Views/Modal windows/MAV-M003 (Default 3 Options)"
-},
-"460439DA-E9E7-4BAB-AA69-768E2D7EAE9B":{
-"name":"🤖Android/🌕 Light/UI Views/Chat/MAV-C002 (Chat bubble 2)"
-},
-"0EE6ADFC-58CA-4B25-AE9E-DE6896086B6E":{
-"name":"🤖Android/🌑 Dark/UI Views/Modal windows/MADV-M001 (Empty Modal)"
-},
-"3D54A2A6-12DF-4375-9345-472F497D4A5D":{
-"name":"🤖Android/🌑 Dark/UI Views/Imagery/MADV-I001 (Added Photo)"
-},
-"6A74AE1E-7092-4D83-821C-D5BA1803D06C":{
-"name":"🤖Android/🌕 Light/UI Views/Cards/MAV-D003 (Ticket style 2)"
-},
-"EACC3DFE-2A86-4500-AAB2-DA76EAC4D357":{
-"name":"🤖Android/🌑 Dark/UI Views/Sheets/MADV-S005 (Action sheet menu 2)"
-},
-"AE8F47CA-FDA4-4982-AA4D-2AECB350ED94":{
-"name":"🤖Android/🌕 Light/UI Views/Imagery/MAV-I001 (Added Photo)"
-},
-"6003650C-1649-4C35-8AF7-50C4FEFA7996":{
-"name":"🤖Android/🌕 Light/UI Views/Modal windows/MAV-M002 (Default 1 Line Title)"
-}
-}
-},
-"EC827C09-4A91-466D-84C8-ECDFD2A866D4":{
-"name":"Colors",
-"artboards":{
-"BD82666C-1398-4118-A37A-24B57467EDF9":{
-"name":"Flat Colors"
-},
-"2D4C96BC-E64C-4AA9-92C7-CE93168027AD":{
-"name":"Gradients"
-},
-"54B1E4B9-CBF4-43B3-BEB3-11DB698186B4":{
-"name":"Elevation | Shadows"
 }
 }
 },
@@ -1841,220 +2199,16 @@
 "name":"👽Iconography/Outlined icons/ICN-L019 ( Folder )"
 }
 }
-},
-"6B260284-2CC8-4C04-B024-2D1F11B20F0B":{
-"name":"Assets",
-"artboards":{
-"F45C1A9E-32C9-454F-8C4A-C76CC325B012":{
-"name":"Assets/🤖Android/🌕 Light/Menus/Services input 2"
-},
-"FD62E83A-1543-4BDE-9E13-3E16DA56D375":{
-"name":"Assets/🤖Android/🌑 Dark/Buttons/Regular"
-},
-"50AE7DFC-A9B4-444C-97E3-CC2B57921E8D":{
-"name":"Assets/🍎iOS/🌕 Light/Menus/Icon Input 1"
-},
-"D14A0903-CF52-4570-B9F6-AA1E409D8CE9":{
-"name":"Assets/🍎iOS/🌕 Light/Menus/Icon Input 2"
-},
-"90D447F0-506B-4188-986B-AD3A1D1BEFEC":{
-"name":"Assets/🤖Android/🌕 Light/Inputs/Input 2.1"
-},
-"76C2D033-2E6D-485D-B8CD-AF6A28291A14":{
-"name":"Assets/🍎iOS/🌑 Dark/Button/Regular"
-},
-"7D9AD6F3-14B5-4F49-B636-A61E1846D367":{
-"name":"General Assets/Bottom Bar/Media (Deactive)"
-},
-"2B65E24D-AA2B-4889-B2E5-A59C1E0BEB64":{
-"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 2.2"
-},
-"2E780D74-B640-452F-8D1F-10627BFFFC6A":{
-"name":"Assets/🍎iOS/🌕 Light/Menus/Screen menu"
-},
-"53264A59-12FE-4E12-9F2F-4E610E4FF530":{
-"name":"Assets/🍎iOS/🌑 Dark/Button/Small"
-},
-"10C865D3-5EA6-45F5-BCFE-00E9913E1D5C":{
-"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 3.1"
-},
-"45ABB1F9-957B-4560-AC0E-88D79B46D6D7":{
-"name":"Assets/🤖Android/🌕 Light/Inputs/Input 3.2"
-},
-"167535DA-2831-40FB-A7BC-EED407EB775F":{
-"name":"Assets/🤖Android/🌑 Dark/Buttons/Regular Green"
-},
-"A199EA2C-BA44-4030-B7BF-41B17D8A4CEC":{
-"name":"Assets/🤖Android/🌕 Light/Inputs/Input 3.1"
-},
-"EEBC6652-FD8A-4AAE-AC59-8D55A6AB300A":{
-"name":"Assets/🤖Android/🌕 Light/Inputs/Input 1.2"
-},
-"21DD31B9-67CF-4EA6-B475-1B66C2035B43":{
-"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 1.1"
-},
-"276455DB-D20A-45EC-8691-11872FE02A84":{
-"name":"General Assets/Bottom Bar/Home (Active)"
-},
-"35F89E42-AA7A-4A1B-86F2-26E069429F1D":{
-"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 1.1"
-},
-"A6A80B88-8662-4F00-AA26-A995CFD71A56":{
-"name":"Assets/🤖Android/🌕 Light/Inputs/Input 1.1"
-},
-"6BAF356D-C475-4B43-BFFF-A025E56935FF":{
-"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 2.1"
-},
-"202EAD28-760B-4412-AF1A-7A720A2A850A":{
-"name":"General Assets/Bottom Bar/Services (Deactive)"
-},
-"C7078E76-5367-4CD5-82DF-A55D3EDE1F82":{
-"name":"Assets/🤖Android/🌕 Light/Buttons/Regular"
-},
-"5A7BA53F-D5BA-4DC0-A2E3-B2CA631A949C":{
-"name":"Assets/🍎iOS/🌑 Dark/Button/Regular Green"
-},
-"D4FD0B5E-C2C1-477D-AD5A-87B5FCE4F9FF":{
-"name":"Assets/🤖Android/🌑 Dark/Menus/Services input 1"
-},
-"F04411F6-AF2D-46E6-9544-EE23E117F8D0":{
-"name":"Assets/🍎iOS/🌕 Light/Button/Regular (iOS)"
-},
-"6CE677C8-AC55-4C87-9B3A-340D1A139DEA":{
-"name":"Assets/🍎iOS/🌑 Dark/Menus/Icon Input 2"
-},
-"4FA6F0FE-55B6-4765-9C48-41335786A95A":{
-"name":"Assets/🤖Android/🌑 Dark/Menus/Icon input 2"
-},
-"3376FD3E-CBCD-4E6C-8786-676285F81751":{
-"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 3.1"
-},
-"65303125-2737-4294-9307-A87C245806AC":{
-"name":"Assets/🍎iOS/🌕 Light/Menus/Services Input 2"
-},
-"286D5E38-33FA-415F-B285-2C088A348689":{
-"name":"Assets/🤖Android/🌑 Dark/Menus/Services input 2"
-},
-"7AC9CBA5-5681-497D-B46D-5A481503FE82":{
-"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 2.1"
-},
-"1A5D23C6-B858-4996-8D7D-585FA810E83F":{
-"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 3.2"
-},
-"41F2ECF5-3197-4F13-A5F9-F84E444B5736":{
-"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 2.1"
-},
-"551D5822-43AF-4135-A5AA-E1FC7E0B0793":{
-"name":"Assets/🤖Android/🌑 Dark/Menus/Icon input 1"
-},
-"33CAA8F9-7B3B-4FD9-98C2-E02ACC682B3E":{
-"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 3.1"
-},
-"CF2D5A38-C39D-4A5E-8591-C7D754BAD6D1":{
-"name":"Assets/🍎iOS/🌕 Light/Menus/Services Input 1"
-},
-"E2E22742-DFA4-476E-A1D3-4A2900FE17E4":{
-"name":"Assets/🍎iOS/🌑 Dark/Menus/Services Input 1"
-},
-"D34EEE6A-CB47-4C96-BEB6-1E511659C159":{
-"name":"Assets/🍎iOS/🌑 Dark/Menus/Services Input 2"
-},
-"A21D719A-9424-41D4-9DB3-AE2592CF81C5":{
-"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 2.2"
-},
-"24AE0044-464D-4835-803B-EB94081F6341":{
-"name":"Assets/🤖Android/🌑 Dark/Buttons/Small Green"
-},
-"E330A633-5903-4109-85AC-ED7D53A19228":{
-"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 2.2"
-},
-"0B6EE07E-0A65-4EE0-BE84-788632333BC0":{
-"name":"Assets/🤖Android/🌕 Light/Menus/Screen menu"
-},
-"2A2224AF-C3E5-49C6-B3DF-7AFDD9325D3B":{
-"name":"Assets/🤖Android/🌑 Dark/Inputs/Input 1.2"
-},
-"AB267D17-8EEF-4292-93A9-8E33874EF8F6":{
-"name":"Assets/🍎iOS/🌑 Dark/Button/Small Green"
-},
-"9807438A-7D9F-4071-A50C-915FA5800728":{
-"name":"Assets/🍎iOS/🌑 Dark/Menus/Icon Input 1"
-},
-"9973D62F-4DD1-484C-9B11-ECEF7B388AF8":{
-"name":"Assets/🤖Android/🌕 Light/Buttons/Small"
-},
-"38D985B1-EF08-442E-9CD4-836E32E1F6B2":{
-"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 3.2"
-},
-"243332A2-862E-4314-864D-9582EE702FAE":{
-"name":"Assets/🤖Android/🌕 Light/Inputs/Input 2.2"
-},
-"4474D8D0-F2FB-4EBD-AE9D-1076BE4D29A0":{
-"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 1.1"
-},
-"CE01BD4F-D993-4B15-843D-4656CAA07A59":{
-"name":"Assets/🤖Android/🌕 Light/Menus/Icon input 2"
-},
-"04C8B8F0-300F-416E-AB7C-350E60EE7488":{
-"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 1.2"
-},
-"844867ED-8FE9-40FD-907E-F34B86507930":{
-"name":"Assets/🤖Android/🌑 Dark/Buttons/Small"
-},
-"F4089B4D-BEB0-4B03-966F-D6D8C97A3D2F":{
-"name":"Assets/🍎iOS/🌕 Light/Button/Small (iOS)"
-},
-"4B39ECB2-5DD9-4D75-B693-193AEB10F9C8":{
-"name":"Assets/🍎iOS/🌑 Dark/Inputs/Input 1.2"
-},
-"CC700E58-8A31-4138-99A6-22F96226E779":{
-"name":"Assets/🍎iOS/🌑 Dark/Menus/Screen menu"
-},
-"494362BF-B8CD-498A-9F7B-7852C1BC2B4E":{
-"name":"Assets/🍎iOS/🌕 Light/Inputs/Input 3.2"
-},
-"7796350A-F2C9-4541-8F95-9D0DF851F1B4":{
-"name":"General Assets/Bottom Bar/Profile (Deactive)"
-},
-"EFBBCF2E-363A-4CCD-80C0-B99E64EB4C76":{
-"name":"Assets/🤖Android/🌕 Light/Menus/Icon input 1"
-},
-"D3132841-E47D-4D59-B8EB-79D94F65C7B1":{
-"name":"Assets/🤖Android/🌕 Light/Menus/Services input 1"
-},
-"0AA9A374-D5F4-4F1B-A3C7-86570A6FE560":{
-"name":"Assets/🤖Android/🌑 Dark/Menus/Screen menu"
-}
-}
-},
-"73D0B19E-2822-46A7-B82A-D62FF05AF9BF":{
-"name":"Typography",
-"artboards":{
-"1CBA4F02-886A-4994-A788-BA642016654C":{
-"name":"Android"
-},
-"C13C6FA4-C036-4424-A3FA-D0A243765767":{
-"name":"iOS"
-}
-}
-},
-"C19E35C8-33CB-4DDB-8909-267658347051":{
-"name":"Save on This Page",
-"artboards":{
-"E26A7E51-D358-43EE-B270-DB70EF8576EC":{
-"name":"COVER"
-}
-}
 }
 },
 "version":123,
 "fonts":[
 "LucidaGrande",
+"Roboto-Medium",
 "Helvetica",
 "SFProText-Semibold",
 "SFProDisplay-Bold",
 "SFProDisplay-Regular",
-"Roboto-Medium",
 "AppleColorEmoji",
 "SFProText-Regular",
 "SFProText-Medium",
@@ -2067,7 +2221,7 @@
 ],
 "compatibilityVersion":99,
 "app":"com.bohemiancoding.sketch3",
-"autosaved":0,
+"autosaved":1,
 "variant":"NONAPPSTORE",
 "created":{
 "commit":"434732399d1e0d8cad935077dbf35547aa6602cb",

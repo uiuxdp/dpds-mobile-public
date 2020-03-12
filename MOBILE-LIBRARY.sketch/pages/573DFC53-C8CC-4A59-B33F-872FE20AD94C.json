@@ -8,7 +8,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🤖Android (MAC000)",
+"name":"🤖UI Controls (MAC000)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -87,7 +87,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MIC-BT003 (2 Buttons)",
+"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MAC-BT003 (2 Buttons)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -819,7 +819,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"201BCF88-0ACC-4797-B13C-B70C0136553C",
-"changeIdentifier":1852,
+"changeIdentifier":1853,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -854,7 +854,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT003 (2 Buttons)",
+"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MADC-BT003 (2 Buttons)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -1586,7 +1586,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"FF12CE8E-3688-4F7F-BC4E-236A6CA9F1FC",
-"changeIdentifier":1888,
+"changeIdentifier":1889,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -1621,7 +1621,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MIC-BT002 (Regular)",
+"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MAC-BT002 (Regular)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -2513,7 +2513,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"37DC69EE-9565-4230-A523-F1D2591FFC38",
-"changeIdentifier":1477,
+"changeIdentifier":1478,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -2548,7 +2548,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT002 (Regular)",
+"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MADC-BT002 (Regular)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -3440,7 +3440,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"FD7428DD-26DE-43F5-939E-58132DEBBE90",
-"changeIdentifier":1537,
+"changeIdentifier":1538,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -3475,7 +3475,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MIC-BT001 (Preferred)",
+"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MAC-BT001 (Preferred)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -4367,7 +4367,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"A0E3A4E0-C869-4916-A8C4-BA2C6700422F",
-"changeIdentifier":1826,
+"changeIdentifier":1827,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -4402,7 +4402,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT001 (Preferred)",
+"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MADC-BT001 (Preferred)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -5294,7 +5294,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"9A59AAA0-8EE8-4BE7-B79B-85BFBBB28956",
-"changeIdentifier":1841,
+"changeIdentifier":1842,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -17572,12 +17572,12 @@
 "scaleFactor":1,
 "model_version":0.1,
 "aspectRatio":{
-"modelID":"constraint_78e873f5-b3cb-4e67-bff3-57e301e9bcc4",
+"constant":50,
 "enabled":1,
 "multiplier":50,
-"model_class":"ADModelConstraint",
-"constant":50,
-"model_version":0.1
+"model_version":0.1,
+"modelID":"constraint_78e873f5-b3cb-4e67-bff3-57e301e9bcc4",
+"model_class":"ADModelConstraint"
 },
 "modelID":"viewConstraints_66090768-934a-457c-8d7a-61453ea08ab5",
 "model_class":"ADModelViewConstraints",
@@ -17806,6 +17806,252 @@
 ]
 },
 {
+"_class":"oval",
+"do_objectID":"4A0C13BD-350C-4CF9-93FC-E7AB72044B6D",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Style 🟩",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"userInfo":{
+"com.animaapp.stc-sketch-plugin":{
+"kModelPropertiesKey":{
+"constraints":{
+"scaleFactor":1,
+"model_version":0.1,
+"aspectRatio":{
+"modelID":"constraint_78e873f5-b3cb-4e67-bff3-57e301e9bcc4",
+"enabled":1,
+"constant":50,
+"model_class":"ADModelConstraint",
+"multiplier":50,
+"model_version":0.1
+},
+"modelID":"viewConstraints_66090768-934a-457c-8d7a-61453ea08ab5",
+"model_class":"ADModelViewConstraints",
+"automatic":1
+}
+}
+}
+},
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":true,
+"height":50,
+"width":50,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"sharedStyleID":"68D6BA4A-21CB-4EB7-B85F-1BF162576BB2",
+"style":{
+"_class":"style",
+"do_objectID":"A88FE3AE-BDB1-4F5D-B7D1-1F6EE93D6694",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":0,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[
+{
+"_class":"border",
+"isEnabled":false,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.592,
+"green":0.592,
+"red":0.592
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"position":1,
+"thickness":1
+}
+],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":false,
+"fillType":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.847,
+"green":0.847,
+"red":0.847
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0.5}",
+"gradientType":1,
+"to":"{1, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215689
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.4313725490196079,
+"green":0.6274509803921569,
+"red":0.05098039215686277
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":false,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.77614237490000004, 1}",
+"curveMode":2,
+"curveTo":"{0.22385762510000001, 1}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.5, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1, 0.22385762510000001}",
+"curveMode":2,
+"curveTo":"{1, 0.77614237490000004}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{1, 0.5}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.22385762510000001, 0}",
+"curveMode":2,
+"curveTo":"{0.77614237490000004, 0}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.5, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.77614237490000004}",
+"curveMode":2,
+"curveTo":"{0, 0.22385762510000001}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0, 0.5}"
+}
+]
+},
+{
 "_class":"symbolInstance",
 "do_objectID":"CD2F6FB8-1E5B-4C9F-9910-5CA03AA2A441",
 "booleanOperation":-1,
@@ -17911,7 +18157,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"C399811F-28B6-4F00-A7B0-99A06741C8BC",
-"changeIdentifier":403,
+"changeIdentifier":416,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -18270,7 +18516,6 @@
 },
 "clippingMaskMode":0,
 "hasClippingMask":false,
-"sharedStyleID":"B3D26C01-3DC4-43D3-8E6A-07775893C744",
 "style":{
 "_class":"style",
 "do_objectID":"756A1D86-5593-4CB5-8A7C-58070919828B",
@@ -18574,7 +18819,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"7943FDA6-72C4-424A-805C-1F267ABDD22B",
-"changeIdentifier":393,
+"changeIdentifier":394,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -19405,7 +19650,7 @@
 "isFlippedVertical":false,
 "isLocked":false,
 "isVisible":true,
-"layerListExpandedType":0,
+"layerListExpandedType":2,
 "name":"🤖Android/🌑 Dark/UI Controls/Buttons/FAB/MADC-BA001 ( FAB1 )",
 "nameIsFixed":true,
 "resizingConstraint":63,
@@ -19508,12 +19753,12 @@
 "scaleFactor":1,
 "model_version":0.1,
 "aspectRatio":{
-"constant":50,
-"enabled":1,
-"multiplier":50,
-"model_version":0.1,
 "modelID":"constraint_78e873f5-b3cb-4e67-bff3-57e301e9bcc4",
-"model_class":"ADModelConstraint"
+"enabled":1,
+"constant":50,
+"model_class":"ADModelConstraint",
+"multiplier":50,
+"model_version":0.1
 },
 "modelID":"viewConstraints_66090768-934a-457c-8d7a-61453ea08ab5",
 "model_class":"ADModelViewConstraints",
@@ -19805,6 +20050,252 @@
 ]
 },
 {
+"_class":"oval",
+"do_objectID":"804D9849-CBD1-40F3-8F50-B43044270FE3",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Style 🟩",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"userInfo":{
+"com.animaapp.stc-sketch-plugin":{
+"kModelPropertiesKey":{
+"constraints":{
+"scaleFactor":1,
+"model_version":0.1,
+"aspectRatio":{
+"multiplier":50,
+"enabled":1,
+"constant":50,
+"model_version":0.1,
+"modelID":"constraint_78e873f5-b3cb-4e67-bff3-57e301e9bcc4",
+"model_class":"ADModelConstraint"
+},
+"modelID":"viewConstraints_66090768-934a-457c-8d7a-61453ea08ab5",
+"model_class":"ADModelViewConstraints",
+"automatic":1
+}
+}
+}
+},
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":true,
+"height":50,
+"width":50,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"sharedStyleID":"68D6BA4A-21CB-4EB7-B85F-1BF162576BB2",
+"style":{
+"_class":"style",
+"do_objectID":"386B6348-8853-4781-BB1F-9DDD3D2C11F1",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":0,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[
+{
+"_class":"border",
+"isEnabled":false,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.592,
+"green":0.592,
+"red":0.592
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"position":1,
+"thickness":1
+}
+],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":false,
+"fillType":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.847,
+"green":0.847,
+"red":0.847
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0.5}",
+"gradientType":1,
+"to":"{1, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215689
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.4313725490196079,
+"green":0.6274509803921569,
+"red":0.05098039215686277
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":false,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.77614237490000004, 1}",
+"curveMode":2,
+"curveTo":"{0.22385762510000001, 1}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.5, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1, 0.22385762510000001}",
+"curveMode":2,
+"curveTo":"{1, 0.77614237490000004}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{1, 0.5}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.22385762510000001, 0}",
+"curveMode":2,
+"curveTo":"{0.77614237490000004, 0}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.5, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.77614237490000004}",
+"curveMode":2,
+"curveTo":"{0, 0.22385762510000001}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0, 0.5}"
+}
+]
+},
+{
 "_class":"symbolInstance",
 "do_objectID":"940F2808-AEE9-4216-97C0-004E9A32B3A1",
 "booleanOperation":-1,
@@ -19916,7 +20407,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"499DF386-43A2-4EF6-9306-8BE942B47412",
-"changeIdentifier":595,
+"changeIdentifier":600,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -20275,7 +20766,6 @@
 },
 "clippingMaskMode":0,
 "hasClippingMask":false,
-"sharedStyleID":"B3D26C01-3DC4-43D3-8E6A-07775893C744",
 "style":{
 "_class":"style",
 "do_objectID":"4FA405D2-A2B0-4E57-AFEC-85E70A399C32",
@@ -20579,7 +21069,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"A6999D9C-BD51-4564-A654-DEEA97FBD769",
-"changeIdentifier":612,
+"changeIdentifier":613,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",

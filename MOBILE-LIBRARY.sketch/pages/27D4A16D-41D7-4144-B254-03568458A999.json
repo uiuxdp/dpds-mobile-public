@@ -8,7 +8,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🤖Android (MAV000)",
+"name":"🤖UI Views (MAV000)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -27620,7 +27620,7 @@
 "innerShadows":[],
 "shadows":[]
 },
-"hasClickThrough":true,
+"hasClickThrough":false,
 "groupLayout":{
 "_class":"MSImmutableFreeformGroupLayout"
 },
@@ -27837,7 +27837,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"638E65A4-4198-4BEE-A11D-F861A5FCCB79",
-"changeIdentifier":315,
+"changeIdentifier":324,
 "overrideProperties":[],
 "allowsOverrides":true
 },
