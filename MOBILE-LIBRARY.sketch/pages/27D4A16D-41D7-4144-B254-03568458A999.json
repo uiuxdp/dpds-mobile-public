@@ -27620,7 +27620,7 @@
 "innerShadows":[],
 "shadows":[]
 },
-"hasClickThrough":false,
+"hasClickThrough":true,
 "groupLayout":{
 "_class":"MSImmutableFreeformGroupLayout"
 },

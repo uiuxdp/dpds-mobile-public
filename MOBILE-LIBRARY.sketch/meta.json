@@ -150,6 +150,71 @@
 }
 }
 },
+"F62CD356-7AB8-4451-970F-FBC5E4007B32":{
+"name":"🤖UI System (MAS000)",
+"artboards":{
+"C83F7F94-DD41-452A-91CE-37BE9CC3F643":{
+"name":"🤖Android/🌕 Light/UI System/Pickers/MAS-P002 (Date picker with Confirmation)"
+},
+"029A6477-C592-4AB8-89D9-91FC44B1A886":{
+"name":"🤖Android/🌕 Light/UI System/Keyboards/MAS-K004 (Numbers)"
+},
+"4B2DCA49-92B4-4EF0-95DC-41711B37CA5B":{
+"name":"🤖Android/🌑 Dark/UI System/Keyboards/MADS-K004 (Numbers)"
+},
+"70E19612-6061-4B8E-909D-D55DA239244A":{
+"name":"🤖Android/🌕 Light/UI System/Keyboards/MAS-K002 (Alphabetic with Label)"
+},
+"0589E601-6939-4E1D-964E-18C6455F8BDC":{
+"name":"🤖Android/🌕 Light/UI System/Pickers/MAS-P006 (Time picker with Confirmation)"
+},
+"0213F0BD-39E0-4251-8D34-D8009870F463":{
+"name":"🤖Android/🌑 Dark/UI System/Keyboards/MADS-K002 (Alphabetic with Label)"
+},
+"B8088269-2BDB-47A5-8BC6-7DB7602663C3":{
+"name":"🤖Android/🌑 Dark/UI System/Keyboards/MADS-K001 (Alphabetic)"
+},
+"D09AC050-6DDF-43AF-8A94-4F424EF2B18B":{
+"name":"🤖Android/🌕 Light/UI System/Pickers/MAS-P005 (Time picker)"
+},
+"E374BB2E-B335-4950-943E-656F72023D0D":{
+"name":"🤖Android/🌑 Dark/UI System/Keyboards/MADS-K002 (Alphabetic with suggestions)"
+},
+"66F64890-3CEE-4E69-A46B-8D0AD39C7CA3":{
+"name":"🤖Android/🌕 Light/UI System/Pickers/MAS-P003 (Date and Time picker)"
+},
+"5CC91236-973C-4D5E-8863-8683A786AF6C":{
+"name":"🤖Android/🌕 Light/UI System/Keyboards/MAS-K002 (Alphabetic with suggestions)"
+},
+"0FB32CE7-8EEC-42B6-BEC4-C3037917A3ED":{
+"name":"🤖Android/🌑 Dark/UI System/Pickers/MADS-P001 (Date picker)"
+},
+"EB251890-7666-4520-BF25-140B9F58189B":{
+"name":"🤖Android/🌑 Dark/UI System/Pickers/MADS-P005 (Time picker)"
+},
+"29C493CB-9CCC-4033-985A-92CD0DEA4E20":{
+"name":"🤖Android/🌕 Light/UI System/Pickers/MAS-P004 (Date and Time picker with Confirmation)"
+},
+"ED2847D7-2D74-4722-A7E6-84781E11CC56":{
+"name":"🤖Android/🌑 Dark/UI System/Pickers/MADS-P006 (Time picker with Confirmation)"
+},
+"2633D94E-6DA0-4A6B-BD84-91AE9D74DD92":{
+"name":"🤖Android/🌕 Light/UI System/Keyboards/MAS-K001 (Alphabetic)"
+},
+"7246D0D0-0160-4644-97CC-07E2BA00AF27":{
+"name":"🤖Android/🌑 Dark/UI System/Pickers/MADS-P004 (Date and Time picker with Confirmation)"
+},
+"71CE2CC7-68CD-43A3-9EC4-0B30A7101872":{
+"name":"🤖Android/🌕 Light/UI System/Pickers/MAS-P001 (Date picker)"
+},
+"6A5EA8C3-7D39-438D-A783-53813636495A":{
+"name":"🤖Android/🌑 Dark/UI System/Pickers/MADS-P003 (Date and Time picker)"
+},
+"87D8A61D-3B7C-4EE9-B54F-B62DDEFD8399":{
+"name":"🤖Android/🌑 Dark/UI System/Pickers/MADS-P002 (Date picker with Confirmation)"
+}
+}
+},
 "FF8F6A55-3B37-4F88-B400-5C0E9A93B700":{
 "name":"🍎UI Views (MIV000)",
 "artboards":{
@@ -830,41 +895,65 @@
 "87C9BEEF-3D54-4703-9054-17325E184619":{
 "name":"🍎UI System (MIS000)",
 "artboards":{
+"E89B4BF6-83A4-452A-86B1-4F8A0CED2334":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P006 (Time picker with Confirmation)"
+},
+"EAACD4D0-1AC2-40C4-A999-156AB6312FB2":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P005 (Time picker)"
+},
+"CC9FA8BC-B685-41DE-885C-4E4730C364B5":{
+"name":"🍎iOS/🌑 Dark/UI System/Keyboards/MIDS-K004 (Numbers)"
+},
+"9A38F128-1376-40DB-9B4F-740A5DBE806D":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P003 (Date and Time picker)"
+},
+"FBEFF51B-4AF4-4669-8FFA-41143A03318A":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P004 (Date and Time picker with Confirmation)"
+},
+"5003E595-551E-43D0-BCD4-7588066CE9B5":{
+"name":"🍎iOS/🌕 Light/UI System/Keyboards/MIS-K002 (Alphabetic with Label)"
+},
+"365A421E-83B9-4FEA-BC38-02F350AEBF9D":{
+"name":"🍎iOS/🌑 Dark/UI System/Keyboards/MIDS-K002 (Alphabetic with suggestions)"
+},
+"3B2E9135-4D44-4D5A-9D06-340C23B4B0E2":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P006 (Time picker with Confirmation)"
+},
+"235712E6-AA3A-4C32-84BF-B649FF8D3842":{
+"name":"🍎iOS/🌕 Light/UI System/Keyboards/MIS-K004 (Numbers)"
+},
+"CCAF550E-26D8-451C-AD31-77ECB8C27D1D":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P004 (Date and Time picker with Confirmation)"
+},
+"EEAF0702-CB97-48CA-88C3-E762E97995EA":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P002 (Date picker with Confirmation)"
+},
+"25C53AE2-6CA4-4AA3-8D52-C1BD20529FCC":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P005 (Time picker)"
+},
+"27BB3816-51BE-4555-A3D3-45767CDD7603":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P001 (Date picker)"
+},
+"A650EFC2-9786-4637-9246-A888B2349084":{
+"name":"🍎iOS/🌕 Light/UI System/Keyboards/MIS-K001 (Alphabetic)"
+},
+"DDAC0ED8-D3EA-4086-9ED4-C660D242AAEA":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P003 (Date and Time picker)"
+},
+"D2439381-F1DB-4880-9ED6-BEF8B8417D16":{
+"name":"🍎iOS/🌕 Light/UI System/Keyboards/MIS-K002 (Alphabetic with suggestions)"
+},
+"646C36C5-6217-4AA4-9D69-DB695663EA81":{
+"name":"🍎iOS/🌑 Dark/UI System/Keyboards/MIDS-K001 (Alphabetic)"
+},
 "7C21358F-2F8B-44DD-B7F9-9EBE1C2C2A77":{
 "name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P001 (Date picker)"
 },
 "3D86158C-5307-4ABC-BCE0-3D9A8914FE51":{
 "name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P002 (Date picker with Confirmation)"
 },
-"CCAF550E-26D8-451C-AD31-77ECB8C27D1D":{
-"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P004 (Date and Time picker with Confirmation)"
-},
-"27BB3816-51BE-4555-A3D3-45767CDD7603":{
-"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P001 (Date picker)"
-},
-"DDAC0ED8-D3EA-4086-9ED4-C660D242AAEA":{
-"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P003 (Date and Time picker)"
-},
-"FBEFF51B-4AF4-4669-8FFA-41143A03318A":{
-"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P004 (Date and Time picker with Confirmation)"
-},
-"EAACD4D0-1AC2-40C4-A999-156AB6312FB2":{
-"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P005 (Time picker)"
-},
-"EEAF0702-CB97-48CA-88C3-E762E97995EA":{
-"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P002 (Date picker with Confirmation)"
-},
-"3B2E9135-4D44-4D5A-9D06-340C23B4B0E2":{
-"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P006 (Time picker with Confirmation)"
-},
-"9A38F128-1376-40DB-9B4F-740A5DBE806D":{
-"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P003 (Date and Time picker)"
-},
-"E89B4BF6-83A4-452A-86B1-4F8A0CED2334":{
-"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P006 (Time picker with Confirmation)"
-},
-"25C53AE2-6CA4-4AA3-8D52-C1BD20529FCC":{
-"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P005 (Time picker)"
+"6314CB7A-6DBD-4E08-8171-B8995E2D1ED1":{
+"name":"🍎iOS/🌑 Dark/UI System/Keyboards/MIDS-K002 (Alphabetic with Label)"
 }
 }
 },
@@ -1266,937 +1355,937 @@
 "name":"👽Iconography (MIC-000)",
 "artboards":{
 "FC645246-7D6A-44A3-94A4-B8DD8B408A15":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI001 ( Accident car crash )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI001 ( Accident car crash )"
 },
 "54D42B48-F757-48B2-B603-7DF90E893778":{
-"name":"👽Iconography/Web Services/MIC-S098 ( SPS attachment )"
+"name":"👽Iconography/Web Services/ICNM-S098 ( SPS attachment )"
 },
 "794BFC3F-4CC2-413A-B92E-92DBDD657C84":{
-"name":"👽Iconography/Outlined icons/ICN-L050  ( Warning )"
+"name":"👽Iconography/Outlined icons/ICNM-L050  ( Warning )"
 },
 "1872BDC6-ADDB-4EA3-9637-4486DBC7A129":{
-"name":"👽Iconography/Outlined icons/ICN-L048 ( Arrow down )"
+"name":"👽Iconography/Outlined icons/ICNM-L048 ( Arrow down )"
 },
 "9C5F2CF9-2B2B-4FA1-96B4-051D40C0D059":{
-"name":"👽Iconography/Filled icons/ICN-F056 ( Empty Calendar )"
+"name":"👽Iconography/Filled icons/ICNM-F056 ( Empty Calendar )"
 },
 "D2ADD4FA-C378-4D93-85A8-359C1F101B9A":{
-"name":"👽Iconography/Outlined icons/ICN-L020 ( Setting )"
+"name":"👽Iconography/Outlined icons/ICNM-L020 ( Setting )"
 },
 "040808EB-A16E-462D-B817-85B837F14240":{
-"name":"👽Iconography/Outlined icons/ICN-L035 ( More tag )"
+"name":"👽Iconography/Outlined icons/ICNM-L035 ( More tag )"
 },
 "AD8D3418-ADEA-4E82-9625-0491772838B5":{
-"name":"👽Iconography/Web Services/MIC-S097 ( Vitual Museum (101341) )"
+"name":"👽Iconography/Web Services/ICNM-S097 ( Vitual Museum (101341) )"
 },
 "25FA5C79-446C-44E5-B297-AA5035094B17":{
-"name":"👽Iconography/Web Services/MIC-S092 ( Unsubscribe )"
+"name":"👽Iconography/Web Services/ICNM-S092 ( Unsubscribe )"
 },
 "3CB58EB6-E33A-43BA-96DC-6A053407EEA0":{
-"name":"👽Iconography/Filled icons/ICN-F009 ( Pointer )"
+"name":"👽Iconography/Filled icons/ICNM-F009 ( Pointer )"
 },
 "7EB9C7E8-A99D-4EF2-8713-6C9CCD91E18D":{
-"name":"👽Iconography/Filled icons/ICN-F002 ( User1 )"
+"name":"👽Iconography/Filled icons/ICNM-F002 ( User1 )"
 },
 "D607C5F1-38C7-42B7-AA18-8337A6620135":{
-"name":"👽Iconography/Filled icons/ICN-F052 ( Tasks )"
+"name":"👽Iconography/Filled icons/ICNM-F052 ( Tasks )"
 },
 "0545D41F-CABD-4396-B9C4-50AC4073B142":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI007 ( Pharmacy )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI007 ( Pharmacy )"
 },
 "96A3E840-7128-48DE-937B-A756CA839B4F":{
-"name":"👽Iconography/Outlined icons/ICN-L052 ( Reject )"
+"name":"👽Iconography/Outlined icons/ICNM-L052 ( Reject )"
 },
 "D037987F-9169-4158-80C1-1BA9ED5ED702":{
-"name":"👽Iconography/Filled icons/ICN-F093 ( Update )"
+"name":"👽Iconography/Filled icons/ICNM-F093 ( Update )"
 },
 "E7EB37A4-78D0-4C74-B3D5-CF3F44EDA8AD":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI004 ( Alcohol )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI004 ( Alcohol )"
 },
 "D6AACB21-E6FC-4F46-8FFD-7FD2FB62C7B8":{
-"name":"👽Iconography/Outlined icons/ICN-L017 ( Timer chronometer )"
+"name":"👽Iconography/Outlined icons/ICNM-L017 ( Timer chronometer )"
 },
 "0517DF36-08DC-48C9-9578-5A653C06A3E4":{
-"name":"👽Iconography/Web Services/MIC-S062 ( Victim Support Program (101184) )"
+"name":"👽Iconography/Web Services/ICNM-S062 ( Victim Support Program (101184) )"
 },
 "CF4F7B88-02E1-4356-BC3B-561D863B015A":{
-"name":"👽Iconography/Filled icons/ICN-F019 ( Location path )"
+"name":"👽Iconography/Filled icons/ICNM-F019 ( Location path )"
 },
 "6BCF81DD-9AE5-4692-82AE-E0D1A2B8B0FC":{
-"name":"👽Iconography/Outlined icons/ICN-L047 ( Arrow up )"
+"name":"👽Iconography/Outlined icons/ICNM-L047 ( Arrow up )"
 },
 "6AEED900-F03E-43CD-B455-99ACC12495A3":{
-"name":"👽Iconography/Filled icons/ICN-F041 ( Dropdown-Arrow Close )"
+"name":"👽Iconography/Filled icons/ICNM-F041 ( Dropdown-Arrow Close )"
 },
 "6DAA0DB0-F22C-4B26-AF70-B7F0FC20F973":{
-"name":"👽Iconography/Logos/ICN-B004 ( Goverment of dubai )"
+"name":"👽Iconography/Logos/ICNM-B004 ( Goverment of dubai )"
 },
 "D3542F17-4FA5-494D-BA15-ABC9EA73ADCE":{
-"name":"👽Iconography/Filled icons/ICN-F083 ( Memo )"
+"name":"👽Iconography/Filled icons/ICNM-F083 ( Memo )"
 },
 "A5D8B057-919B-447B-B643-8A2874D03575":{
-"name":"👽Iconography/Outlined icons/ICN-L066 (  Department )"
+"name":"👽Iconography/Outlined icons/ICNM-L066 (  Department )"
 },
 "390D333C-30EF-4CF9-9A8A-06AD2CA88F8E":{
-"name":"👽Iconography/Outlined icons/ICN-L042 ( No Wifi )"
+"name":"👽Iconography/Outlined icons/ICNM-L042 ( No Wifi )"
 },
 "0242FC87-101C-484D-8E40-BB4A948AF692":{
-"name":"👽Iconography/Filled icons/ICN-F042 ( Viewed )"
+"name":"👽Iconography/Filled icons/ICNM-F042 ( Viewed )"
 },
 "5AC5230A-4B66-4C3D-B4B0-9E57CC5EDA52":{
-"name":"👽Iconography/Web Services/MIC-S033 ( Certificate TWIMC (101268) )"
+"name":"👽Iconography/Web Services/ICNM-S033 ( Certificate TWIMC (101268) )"
 },
 "B0B4E83A-6C31-4F9C-9718-E07D6548DB8E":{
-"name":"👽Iconography/Web Services/MIC-S040 ( Heart Patient (101123) )"
+"name":"👽Iconography/Web Services/ICNM-S040 ( Heart Patient (101123) )"
 },
 "4FAE7605-B216-4233-BF14-D43BD4070765":{
-"name":"👽Iconography/Web Services/MIC-S088 ( Jewellery )"
+"name":"👽Iconography/Web Services/ICNM-S088 ( Jewellery )"
 },
 "AB3EF3CE-FD6C-4359-9DE1-3199AE4A87C9":{
-"name":"👽Iconography/Web Services/MIC-S021 ( Medic )"
+"name":"👽Iconography/Web Services/ICNM-S021 ( Medic )"
 },
 "AA4F6D44-AFED-49A4-9E9D-D289D03AC1B6":{
-"name":"👽Iconography/Web Services/MIC-S043 ( Lost Item Certificate (101195) )"
+"name":"👽Iconography/Web Services/ICNM-S043 ( Lost Item Certificate (101195) )"
 },
 "9FAC53E1-DE1F-4A97-9CCE-C054AB46A4A8":{
-"name":"👽Iconography/Web Services/MIC-S055 ( Home Security (101250) )"
+"name":"👽Iconography/Web Services/ICNM-S055 ( Home Security (101250) )"
 },
 "C2B2ED2C-808D-4C24-9942-81743CA2672B":{
-"name":"👽Iconography/Outlined icons/ICN-L012 ( Reload refresh )"
+"name":"👽Iconography/Outlined icons/ICNM-L012 ( Reload refresh )"
 },
 "4995D88F-16F5-4574-B474-6B27C576EC4E":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI020 ( Pin )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI020 ( Pin )"
 },
 "FE93708B-7C84-4EFD-A424-CB7DAA5E0731":{
-"name":"👽Iconography/Filled icons/ICN-F091 ( Return details )"
+"name":"👽Iconography/Filled icons/ICNM-F091 ( Return details )"
 },
 "E12D377D-CCB2-4E53-806A-5FFF72A0970A":{
-"name":"👽Iconography/Filled icons/ICN-F086 ( Return )"
+"name":"👽Iconography/Filled icons/ICNM-F086 ( Return )"
 },
 "FED43945-5EB0-4CBD-92DE-E054A21CF78F":{
-"name":"👽Iconography/Filled icons/ICN-F084 ( Circulate )"
+"name":"👽Iconography/Filled icons/ICNM-F084 ( Circulate )"
 },
 "F3D3B348-D2C1-47FA-956E-8271F3E56480":{
-"name":"👽Iconography/Web Services/MIC-S105 ( Refrain payment )"
+"name":"👽Iconography/Web Services/ICNM-S105 ( Refrain payment )"
 },
 "D4AAF6AC-54DB-486B-9E1A-B6CAFCEC1EA2":{
-"name":"👽Iconography/Web Services/MIC-S046 ( SOS )"
+"name":"👽Iconography/Web Services/ICNM-S046 ( SOS )"
 },
 "F0C10BAA-2E56-4955-BB99-7B92F8EC80A1":{
-"name":"👽Iconography/Outlined icons/ICN-L011 ( Rotate )"
+"name":"👽Iconography/Outlined icons/ICNM-L011 ( Rotate )"
 },
 "DE3CF4F5-8EFD-40C2-A77B-CD6C6A71A435":{
-"name":"👽Iconography/Outlined icons/ICN-L003 ( Flip )"
+"name":"👽Iconography/Outlined icons/ICNM-L003 ( Flip )"
 },
 "BA644A0C-7E28-4800-8338-5EF442E0FED5":{
-"name":"👽Iconography/Filled icons/ICN-F076 ( Drag drop )"
+"name":"👽Iconography/Filled icons/ICNM-F076 ( Drag drop )"
 },
 "64CC38B3-8695-4EDD-8290-9174B294E039":{
-"name":"👽Iconography/Web Services/MIC-S107 ( Criminal status of financial cases )"
+"name":"👽Iconography/Web Services/ICNM-S107 ( Criminal status of financial cases )"
 },
 "95967211-82D5-4F6B-BE98-F197FCD2E61F":{
-"name":"👽Iconography/Social/ICN-C002 ( Instagram )"
+"name":"👽Iconography/Social/ICNM-C002 ( Instagram )"
 },
 "04C7653D-7489-4E46-B12E-62D56807AB9E":{
-"name":"👽Iconography/Filled icons/ICN-F049 ( Notification )"
+"name":"👽Iconography/Filled icons/ICNM-F049 ( Notification )"
 },
 "1C5DC499-EF62-4308-BE8A-E63813A80D29":{
-"name":"👽Iconography/Web Services/MIC-S009 ( Ask Scientist (111121) )"
+"name":"👽Iconography/Web Services/ICNM-S009 ( Ask Scientist (111121) )"
 },
 "E60D06B7-E3EC-4271-AC80-52D89FC0A320":{
-"name":"👽Iconography/Outlined icons/ICN-L014 ( Ask questions faq )"
+"name":"👽Iconography/Outlined icons/ICNM-L014 ( Ask questions faq )"
 },
 "84161926-80F7-485F-A1D2-574684D9E8CE":{
-"name":"👽Iconography/Web Services/MIC-S026 ( Leaders at your service (101142) )"
+"name":"👽Iconography/Web Services/ICNM-S026 ( Leaders at your service (101142) )"
 },
 "63775DE5-FCC5-4360-817B-256E90403B3E":{
-"name":"👽Iconography/Web Services/MIC-S091 ( Police Dog care (101322) )"
+"name":"👽Iconography/Web Services/ICNM-S091 ( Police Dog care (101322) )"
 },
 "8D1D9149-1E54-489D-AC11-924793B8E7BC":{
-"name":"👽Iconography/Web Services/MIC-S048 ( Reissuing Traffic Accident (101317) )"
+"name":"👽Iconography/Web Services/ICNM-S048 ( Reissuing Traffic Accident (101317) )"
 },
 "F3852956-0DF4-4CCE-9E97-E0237655AF41":{
-"name":"👽Iconography/Filled icons/ICN-F023 ( Download )"
+"name":"👽Iconography/Filled icons/ICNM-F023 ( Download )"
 },
 "CD776EE1-3B74-4558-950B-E6A9CD94BA47":{
-"name":"👽Iconography/Filled icons/ICN-F044 ( Car )"
+"name":"👽Iconography/Filled icons/ICNM-F044 ( Car )"
 },
 "78475956-93B0-41E9-BCFA-C7CCD0891D30":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI002 ( Card payment )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI002 ( Card payment )"
 },
 "42BE731C-EACA-452E-94CC-A6A256E2F442":{
-"name":"👽Iconography/Outlined icons/ICN-L027 ( Refresh update )"
+"name":"👽Iconography/Outlined icons/ICNM-L027 ( Refresh update )"
 },
 "0870DAC2-827C-4B83-9626-4B349852ED14":{
-"name":"👽Iconography/Web Services/MIC-S109 ( Unknown Report accident )"
+"name":"👽Iconography/Web Services/ICNM-S109 ( Unknown Report accident )"
 },
 "F84B2111-4E5B-49C8-9C79-923890C5EAFD":{
-"name":"👽Iconography/Feedback/ICN-D001 ( Pokker Face 1 )"
+"name":"👽Iconography/Feedback/ICNM-D001 ( Pokker Face 1 )"
 },
 "10F9CFC6-C2B7-40BF-A8FE-48EBDCE1F107":{
-"name":"👽Iconography/Web Services/MIC-S034 ( Pay Impound Feeds (101168) )"
+"name":"👽Iconography/Web Services/ICNM-S034 ( Pay Impound Feeds (101168) )"
 },
 "F7D635BA-83DC-4529-8690-1921EEB583AA":{
-"name":"👽Iconography/Web Services/MIC-S012 ( Fine Payment (101154) )"
+"name":"👽Iconography/Web Services/ICNM-S012 ( Fine Payment (101154) )"
 },
 "BEB85C39-97D6-4580-888D-EC367CD5CEB2":{
-"name":"👽Iconography/Feedback/ICN-D002 ( Happy Face 1 )"
+"name":"👽Iconography/Feedback/ICNM-D002 ( Happy Face 1 )"
 },
 "2A549AF9-EAB3-4C90-B037-A61F47E594F2":{
-"name":"👽Iconography/Filled icons/ICN-F021 ( Add )"
+"name":"👽Iconography/Filled icons/ICNM-F021 ( Add )"
 },
 "2E943E72-CF95-4164-946F-DF57DAC7F755":{
-"name":"👽Iconography/Web Services/MIC-S030 ( Whom it may Concern Traffic )"
+"name":"👽Iconography/Web Services/ICNM-S030 ( Whom it may Concern Traffic )"
 },
 "950E3535-2E3E-4EC0-BA42-9845F47198A5":{
-"name":"👽Iconography/Web Services/MIC-S077 ( Register )"
+"name":"👽Iconography/Web Services/ICNM-S077 ( Register )"
 },
 "B4979ADB-17E1-4D94-AA1E-54627BED25E8":{
-"name":"👽Iconography/Web Services/MIC-S004 ( General Services )"
+"name":"👽Iconography/Web Services/ICNM-S004 ( General Services )"
 },
 "AD962F99-A373-4F94-A124-311DAC1680E8":{
-"name":"👽Iconography/Web Services/MIC-S041 ( Dubai Police Logo )"
+"name":"👽Iconography/Web Services/ICNM-S041 ( Dubai Police Logo )"
 },
 "0B371821-D523-4144-98D1-BEC6BF4D4493":{
-"name":"👽Iconography/Web Services/MIC-S089 ( Log Activities )"
+"name":"👽Iconography/Web Services/ICNM-S089 ( Log Activities )"
 },
 "DA980719-BEEE-4F27-88D9-52E0D6D1068F":{
-"name":"👽Iconography/Social/ICN-C001 ( Facebook )"
+"name":"👽Iconography/Social/ICNM-C001 ( Facebook )"
 },
 "FF1EFE41-33FC-40C0-B007-C611FD92A9B5":{
-"name":"👽Iconography/Web Services/MIC-S011 ( Police Eye (101340) )"
+"name":"👽Iconography/Web Services/ICNM-S011 ( Police Eye (101340) )"
 },
 "A8425FEF-F40D-4888-A3FA-440F05C55EC3":{
-"name":"👽Iconography/Web Services/MIC-S049 ( Vehicle Inspection Request (101277) )"
+"name":"👽Iconography/Web Services/ICNM-S049 ( Vehicle Inspection Request (101277) )"
 },
 "4935226A-DD32-4FB4-98CC-67E74796ACE3":{
-"name":"👽Iconography/Map/Map Pins/ICN-MP001 ( Map pin + Pointer )"
+"name":"👽Iconography/Map/Map Pins/ICNM-MP001 ( Map pin + Pointer )"
 },
 "4F9922AB-877D-481F-BF82-B52D2EA4CCA7":{
-"name":"👽Iconography/Outlined icons/ICN-L021 ( Car )"
+"name":"👽Iconography/Outlined icons/ICNM-L021 ( Car )"
 },
 "9B1F027B-2434-4846-8C03-AC15878400B8":{
-"name":"👽Iconography/Outlined icons/ICN-L010 ( Recent )"
+"name":"👽Iconography/Outlined icons/ICNM-L010 ( Recent )"
 },
 "D0FDEF18-FCE8-4472-84E8-7A28E9AAEBC9":{
-"name":"👽Iconography/Web Services/MIC-S036 ( 901 Service )"
+"name":"👽Iconography/Web Services/ICNM-S036 ( 901 Service )"
 },
 "1E4FF02B-B6DA-4192-B5F1-BF0A7C6EF9C9":{
-"name":"👽Iconography/Web Services/MIC-S035 ( Labor Complaint (101275) )"
+"name":"👽Iconography/Web Services/ICNM-S035 ( Labor Complaint (101275) )"
 },
 "A44AD1C8-9D05-410F-A52E-1C8F2CBA9ABE":{
-"name":"👽Iconography/Outlined icons/ICN-L031 ( Liked )"
+"name":"👽Iconography/Outlined icons/ICNM-L031 ( Liked )"
 },
 "0B7C2B93-FC30-47E5-9C4B-B4E0BC58ECC8":{
-"name":"👽Iconography/Web Services/MIC-S079 ( Schedule )"
+"name":"👽Iconography/Web Services/ICNM-S079 ( Schedule )"
 },
 "40F31D72-91D3-4F2E-A903-A24A23E89F65":{
-"name":"👽Iconography/Filled icons/ICN-F071 ( Liked )"
+"name":"👽Iconography/Filled icons/ICNM-F071 ( Liked )"
 },
 "0C72F566-7587-416D-BBD9-7EE0A32072CF":{
-"name":"👽Iconography/Filled icons/ICN-F095 ( watch-later )"
+"name":"👽Iconography/Filled icons/ICNM-F095 ( watch-later )"
 },
 "1F15F28C-8B77-4028-A9F6-783ACA1A0460":{
-"name":"👽Iconography/Web Services/MIC-S103 ( E-Police )"
+"name":"👽Iconography/Web Services/ICNM-S103 ( E-Police )"
 },
 "80F863BB-FC58-4444-A015-C88D58AEE835":{
-"name":"👽Iconography/Filled icons/ICN-F022 ( Print )"
+"name":"👽Iconography/Filled icons/ICNM-F022 ( Print )"
 },
 "1EAB9FB1-63F7-4BB2-895D-F6E6D4F1FEE9":{
-"name":"👽Iconography/Web Services/MIC-S020 ( Tourist Seciurity (101106) )"
+"name":"👽Iconography/Web Services/ICNM-S020 ( Tourist Seciurity (101106) )"
 },
 "1A2AF189-5BBF-49E8-908A-2E7D7EAD69FF":{
-"name":"👽Iconography/Web Services/MIC-S070 ( Traffic Traning Courses (101299) )"
+"name":"👽Iconography/Web Services/ICNM-S070 ( Traffic Traning Courses (101299) )"
 },
 "980D81B5-FBD8-4B77-B3F8-60601C1DD2FA":{
-"name":"👽Iconography/Web Services/MIC-S060 ( Receive Reserved Driving Licence )"
+"name":"👽Iconography/Web Services/ICNM-S060 ( Receive Reserved Driving Licence )"
 },
 "700BAF06-0D44-4CB5-BE78-75497B551FCA":{
-"name":"👽Iconography/Web Services/MIC-S008 ( Provide Information (101141) )"
+"name":"👽Iconography/Web Services/ICNM-S008 ( Provide Information (101141) )"
 },
 "DCDB5EF3-5008-4A1C-A0C2-AA2C8BF2F8A5":{
-"name":"👽Iconography/Outlined icons/ICN-L024 ( Lists )"
+"name":"👽Iconography/Outlined icons/ICNM-L024 ( Lists )"
 },
 "D32F8D09-C526-43D4-A1D3-543AA75DD404":{
-"name":"👽Iconography/Filled icons/ICN-F078 ( Department )"
+"name":"👽Iconography/Filled icons/ICNM-F078 ( Department )"
 },
 "1F95DAB3-9540-40E0-B1F8-C23E6B1BDE60":{
-"name":"👽Iconography/Web Services/MIC-S002 ( Traffic Services )"
+"name":"👽Iconography/Web Services/ICNM-S002 ( Traffic Services )"
 },
 "956E3E45-B465-4A89-8F6F-C44DB693FBBE":{
-"name":"👽Iconography/Filled icons/ICN-F051 ( Mail )"
+"name":"👽Iconography/Filled icons/ICNM-F051 ( Mail )"
 },
 "ECB5CF2B-9C9B-4676-B7B1-E80CE93ABED3":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI018 ( illegal Credit Sell )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI018 ( illegal Credit Sell )"
 },
 "B46F042E-BB5F-4D74-84A7-CA78F61BA929":{
-"name":"👽Iconography/Filled icons/ICN-F010 ( Lock )"
+"name":"👽Iconography/Filled icons/ICNM-F010 ( Lock )"
 },
 "20A29AFF-9753-4375-B673-7E2DFA4F4C51":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI016 ( Gambling )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI016 ( Gambling )"
 },
 "328117AE-0751-4BAF-B5FB-6B54028ABFB9":{
-"name":"👽Iconography/Outlined icons/ICN-L023 ( Statistics )"
+"name":"👽Iconography/Outlined icons/ICNM-L023 ( Statistics )"
 },
 "1448F242-3A08-4286-AA4C-00275529AB82":{
-"name":"👽Iconography/Outlined icons/ICN-L055 ( Log-out )"
+"name":"👽Iconography/Outlined icons/ICNM-L055 ( Log-out )"
 },
 "3980EB17-0CBD-4F02-A32A-917A17100404":{
-"name":"👽Iconography/Web Services/MIC-S078 ( Cancel )"
+"name":"👽Iconography/Web Services/ICNM-S078 ( Cancel )"
 },
 "AC4217EC-E297-483A-8383-EFE9D4F746DB":{
-"name":"👽Iconography/Filled icons/ICN-F070 ( Search politics marker )"
+"name":"👽Iconography/Filled icons/ICNM-F070 ( Search politics marker )"
 },
 "54213513-2DD4-4AAF-BBFD-C0AF5A212B7F":{
-"name":"👽Iconography/Filled icons/ICN-F024 ( Pin )"
+"name":"👽Iconography/Filled icons/ICNM-F024 ( Pin )"
 },
 "1EDAAB25-F72D-4BE5-AF76-DE13A8445B23":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI003 ( Kiosk screen )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI003 ( Kiosk screen )"
 },
 "DEBDF20D-DA9F-4DED-975B-6E85AE7689BA":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI017 ( Beggars )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI017 ( Beggars )"
 },
 "5747DFF4-0F1A-4A02-9CB5-39B243A2B175":{
-"name":"👽Iconography/Filled icons/ICN-F085 ( Decision )"
+"name":"👽Iconography/Filled icons/ICNM-F085 ( Decision )"
 },
 "B48E5036-B8EE-491B-BF3B-4ED69FE3D3CB":{
-"name":"👽Iconography/Web Services/MIC-S029 ( Verify Driver (101167) )"
+"name":"👽Iconography/Web Services/ICNM-S029 ( Verify Driver (101167) )"
 },
 "E20EC936-8948-4CD7-8548-553A943191FB":{
-"name":"👽Iconography/Web Services/MIC-S038 ( Report Bounced Cheques (101185) )"
+"name":"👽Iconography/Web Services/ICNM-S038 ( Report Bounced Cheques (101185) )"
 },
 "FD5997AE-B4F6-4AF5-A471-1DF1C3E0BE2D":{
-"name":"👽Iconography/Filled icons/ICN-F016 ( Check )"
+"name":"👽Iconography/Filled icons/ICNM-F016 ( Check )"
 },
 "B8F816BC-8562-41F0-8AE5-FD45B2A543AE":{
-"name":"👽Iconography/Outlined icons/ICN-L006 ( Notifications bell )"
+"name":"👽Iconography/Outlined icons/ICNM-L006 ( Notifications bell )"
 },
 "243DCC00-455B-48F4-883F-BED8C117BD93":{
-"name":"👽Iconography/Filled icons/ICN-F068 ( Merge )"
+"name":"👽Iconography/Filled icons/ICNM-F068 ( Merge )"
 },
 "9EE466E7-F906-463B-A93D-24726BF4219C":{
-"name":"👽Iconography/Outlined icons/ICN-L057 ( History)"
+"name":"👽Iconography/Outlined icons/ICNM-L057 ( History)"
 },
 "8FD8BA5B-3A4D-41F7-BCCD-EEC594E9DF13":{
-"name":"👽Iconography/Web Services/MIC-S003 ( Prevent Crime )"
+"name":"👽Iconography/Web Services/ICNM-S003 ( Prevent Crime )"
 },
 "DFC3CDB6-309B-4802-B8FA-7A19CFEFA7A8":{
-"name":"👽Iconography/Outlined icons/ICN-L032 ( Send )"
+"name":"👽Iconography/Outlined icons/ICNM-L032 ( Send )"
 },
 "CB018787-C8EC-4782-814F-01692259FA0D":{
-"name":"👽Iconography/Outlined icons/ICN-L002 ( Phone )"
+"name":"👽Iconography/Outlined icons/ICNM-L002 ( Phone )"
 },
 "265DF6A7-DC2E-4936-B403-7FA3288E6753":{
-"name":"👽Iconography/Filled icons/ICN-F082 ( Summary )"
+"name":"👽Iconography/Filled icons/ICNM-F082 ( Summary )"
 },
 "C7B49658-16A8-42CB-89A8-CA32220EBAA7":{
-"name":"👽Iconography/Filled icons/ICN-F043 ( ID card )"
+"name":"👽Iconography/Filled icons/ICNM-F043 ( ID card )"
 },
 "FC28CE17-5C19-4245-83C6-2C960DB063CE":{
-"name":"👽Iconography/Outlined icons/ICN-L039 ( Up Arrow )"
+"name":"👽Iconography/Outlined icons/ICNM-L039 ( Up Arrow )"
 },
 "9C1D65CF-47D8-4E24-A039-BA49C28D4A06":{
-"name":"👽Iconography/Web Services/MIC-S039 ( Traffic Clearance Certificate (101161) )"
+"name":"👽Iconography/Web Services/ICNM-S039 ( Traffic Clearance Certificate (101161) )"
 },
 "E443EF8E-906C-4BE6-8532-F02316593B25":{
-"name":"👽Iconography/Filled icons/ICN-F030 ( List burger)"
+"name":"👽Iconography/Filled icons/ICNM-F030 ( List burger)"
 },
 "34F9A2AF-4CAE-4D70-8068-46F6B5932A07":{
-"name":"👽Iconography/Filled icons/ICN-F087 ( End-Stop )"
+"name":"👽Iconography/Filled icons/ICNM-F087 ( End-Stop )"
 },
 "FDC959F8-9C17-4C57-9A79-4F2874FAFEB1":{
-"name":"👽Iconography/Filled icons/ICN-F065 ( Options dots horizontal )"
+"name":"👽Iconography/Filled icons/ICNM-F065 ( Options dots horizontal )"
 },
 "F2209E7B-8BF0-4E99-8DEC-D171F98C4B04":{
-"name":"👽Iconography/Outlined icons/ICN-L043 ( Question mark faq )"
+"name":"👽Iconography/Outlined icons/ICNM-L043 ( Question mark faq )"
 },
 "CCE76F5E-6C8C-4CF3-92D6-BCC733E943FF":{
-"name":"👽Iconography/Web Services/MIC-S093 ( Company Request )"
+"name":"👽Iconography/Web Services/ICNM-S093 ( Company Request )"
 },
 "F2A2216E-E45C-48BE-B038-035A055DF66F":{
-"name":"👽Iconography/Filled icons/ICN-F032 ( PDF )"
+"name":"👽Iconography/Filled icons/ICNM-F032 ( PDF )"
 },
 "257441C1-FDEA-4B18-BC6E-5AE970F042DF":{
-"name":"👽Iconography/Filled icons/ICN-F077 ( Filtering )"
+"name":"👽Iconography/Filled icons/ICNM-F077 ( Filtering )"
 },
 "0051B4D8-2853-4B1B-BE85-07C1B4664300":{
-"name":"👽Iconography/Outlined icons/ICN-L041 ( Clock time )"
+"name":"👽Iconography/Outlined icons/ICNM-L041 ( Clock time )"
 },
 "BA7A2920-A875-4555-97DA-DCD7B99EE9C8":{
-"name":"👽Iconography/Web Services/MIC-S045 ( Application Status (101334) )"
+"name":"👽Iconography/Web Services/ICNM-S045 ( Application Status (101334) )"
 },
 "907B5BB9-254A-4754-B5F3-6822A1BDD859":{
-"name":"👽Iconography/Web Services/MIC-S058 ( Lost and Found 2 )"
+"name":"👽Iconography/Web Services/ICNM-S058 ( Lost and Found 2 )"
 },
 "7E4E69B9-77E8-4D44-AE1C-CD8B0C1A94FF":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI008 ( Hospital )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI008 ( Hospital )"
 },
 "9183A587-5850-4E44-9CAF-BC627966153D":{
-"name":"👽Iconography/Web Services/MIC-S069 ( Fast Track Service (101276) )"
+"name":"👽Iconography/Web Services/ICNM-S069 ( Fast Track Service (101276) )"
 },
 "461A6F4B-8DBB-449E-A541-88EB17984E00":{
-"name":"👽Iconography/Web Services/MIC-S005 ( Save People Life )"
+"name":"👽Iconography/Web Services/ICNM-S005 ( Save People Life )"
 },
 "A022A09A-E444-4D90-98E6-654B86ACCDA9":{
-"name":"👽Iconography/Filled icons/ICN-F045 ( Upload )"
+"name":"👽Iconography/Filled icons/ICNM-F045 ( Upload )"
 },
 "7B84FBD1-39C2-40CF-85A1-4117C6BADCA6":{
-"name":"👽Iconography/Web Services/MIC-S064 ( Destruction of explosives (101287) )"
+"name":"👽Iconography/Web Services/ICNM-S064 ( Destruction of explosives (101287) )"
 },
 "8239696D-DCAF-4E37-B8E6-8EE392FD2890":{
-"name":"👽Iconography/Filled icons/ICN-F094 ( Undo )"
+"name":"👽Iconography/Filled icons/ICNM-F094 ( Undo )"
 },
 "281CB463-9208-4A82-B3D6-D93BBA6E3354":{
-"name":"👽Iconography/Filled icons/ICN-F092 ( Workflow )"
+"name":"👽Iconography/Filled icons/ICNM-F092 ( Workflow )"
 },
 "5B3C1B81-680E-42B3-B2C5-1D30FB33E942":{
-"name":"👽Iconography/Filled icons/ICN-F074 ( Bar chart )"
+"name":"👽Iconography/Filled icons/ICNM-F074 ( Bar chart )"
 },
 "6A9661CD-067B-4B82-B81D-EB132D2B53FA":{
-"name":"👽Iconography/Web Services/MIC-S053 ( Sheikh Mohammad Program (101192) )"
+"name":"👽Iconography/Web Services/ICNM-S053 ( Sheikh Mohammad Program (101192) )"
 },
 "BD82D5E6-C556-4D7F-A6EB-2D72E2A11F88":{
-"name":"👽Iconography/Web Services/MIC-S085 ( Official Document (101198) )"
+"name":"👽Iconography/Web Services/ICNM-S085 ( Official Document (101198) )"
 },
 "8B73629C-6DF5-4586-8891-D60DD3529D00":{
-"name":"👽Iconography/Social/ICN-C005 ( Whatsapp )"
+"name":"👽Iconography/Social/ICNM-C005 ( Whatsapp )"
 },
 "53B57AAA-E0A9-4751-A4FC-1C9C888A140E":{
-"name":"👽Iconography/Filled icons/ICN-F029 ( All Categories )"
+"name":"👽Iconography/Filled icons/ICNM-F029 ( All Categories )"
 },
 "0876FC70-AA6B-45C1-8260-595B05451281":{
-"name":"👽Iconography/Web Services/MIC-S052 ( Drive Mode )"
+"name":"👽Iconography/Web Services/ICNM-S052 ( Drive Mode )"
 },
 "39CECEEC-1DF7-476A-A501-4F4B0BB0797F":{
-"name":"👽Iconography/Filled icons/ICN-F039 ( Options 3 dots )"
+"name":"👽Iconography/Filled icons/ICNM-F039 ( Options 3 dots )"
 },
 "B26AEBBD-CE05-4283-8597-0E5A7E9881D0":{
-"name":"👽Iconography/Outlined icons/ICN-L053 ( Info )"
+"name":"👽Iconography/Outlined icons/ICNM-L053 ( Info )"
 },
 "B32EC9AF-6129-4EBF-9923-514C40876247":{
-"name":"👽Iconography/Web Services/MIC-S104 ( Diplomatic service )"
+"name":"👽Iconography/Web Services/ICNM-S104 ( Diplomatic service )"
 },
 "72B7A598-F718-46E6-B179-CB61CD341A8B":{
-"name":"👽Iconography/Filled icons/ICN-F047 ( Reply to all )"
+"name":"👽Iconography/Filled icons/ICNM-F047 ( Reply to all )"
 },
 "BBE69D40-9DEC-4638-A55C-C34E1FFB47BF":{
-"name":"👽Iconography/Web Services/MIC-S054 ( E crime )"
+"name":"👽Iconography/Web Services/ICNM-S054 ( E crime )"
 },
 "072A5E45-1F67-4419-BCE3-C28113E2A4E9":{
-"name":"👽Iconography/Filled icons/ICN-F036 ( User square )"
+"name":"👽Iconography/Filled icons/ICNM-F036 ( User square )"
 },
 "59A56323-3128-401F-8CD3-626D893E8CE1":{
-"name":"👽Iconography/Outlined icons/ICN-L022 ( Document sheet )"
+"name":"👽Iconography/Outlined icons/ICNM-L022 ( Document sheet )"
 },
 "74611DAF-6EA8-4160-B4C9-43C7AE6BBA67":{
-"name":"👽Iconography/Filled icons/ICN-F066 ( Filtering down )"
+"name":"👽Iconography/Filled icons/ICNM-F066 ( Filtering down )"
 },
 "E348A5D7-B365-4774-B4EA-43EC5AEAB49C":{
-"name":"👽Iconography/Web Services/MIC-S017 ( Police Clearance Certificate (101119) )"
+"name":"👽Iconography/Web Services/ICNM-S017 ( Police Clearance Certificate (101119) )"
 },
 "DAED866C-58CF-47BC-B3F6-9ED9FC1AA35D":{
-"name":"👽Iconography/Outlined icons/ICN-L056 ( New tab)"
+"name":"👽Iconography/Outlined icons/ICNM-L056 ( New tab)"
 },
 "7870B72A-852E-4AD0-9C34-3BDBEECC5BCC":{
-"name":"👽Iconography/Filled icons/ICN-F063 ( Police hat )"
+"name":"👽Iconography/Filled icons/ICNM-F063 ( Police hat )"
 },
 "A1E9633B-ACAE-429C-88B1-4A1FEFFC9C17":{
-"name":"👽Iconography/Web Services/MIC-S006 ( File Criminal (101219) )"
+"name":"👽Iconography/Web Services/ICNM-S006 ( File Criminal (101219) )"
 },
 "2B169E38-BCC7-4A64-8E3A-81C878F2F200":{
-"name":"👽Iconography/Web Services/MIC-S072 ( Human Trafficing Crimes (101298) )"
+"name":"👽Iconography/Web Services/ICNM-S072 ( Human Trafficing Crimes (101298) )"
 },
 "EF14EE50-46AD-49B2-9E74-616997089850":{
-"name":"👽Iconography/Filled icons/ICN-F025 ( Export )"
+"name":"👽Iconography/Filled icons/ICNM-F025 ( Export )"
 },
 "DD2DE574-6984-4719-AF32-9FB468178DE3":{
-"name":"👽Iconography/Outlined icons/ICN-L030 ( Fullscreen )"
+"name":"👽Iconography/Outlined icons/ICNM-L030 ( Fullscreen )"
 },
 "C426EC3B-EA08-42C7-8DE4-ACA60192EF24":{
-"name":"👽Iconography/Filled icons/ICN-F008 ( Cloud )"
+"name":"👽Iconography/Filled icons/ICNM-F008 ( Cloud )"
 },
 "BE1C8F17-CF34-43DB-8BA3-7B711C6FF14B":{
-"name":"👽Iconography/Filled icons/ICN-F059 ( Dropdown-Arrow Open )"
+"name":"👽Iconography/Filled icons/ICNM-F059 ( Dropdown-Arrow Open )"
 },
 "5C25F278-62FD-46E7-99D4-74080B2E6DDF":{
-"name":"👽Iconography/Outlined icons/ICN-L036 ( Add Comments )"
+"name":"👽Iconography/Outlined icons/ICNM-L036 ( Add Comments )"
 },
 "5D83573F-93D7-4A41-82AD-EC15FFB78EE9":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI010 ( All )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI010 ( All )"
 },
 "D22F11DC-DCC0-4CB0-8327-A462EC76C5A3":{
-"name":"👽Iconography/Web Services/MIC-S032 ( Rewards )"
+"name":"👽Iconography/Web Services/ICNM-S032 ( Rewards )"
 },
 "2807A68A-C7FF-4813-A7C4-57B47287FB3D":{
-"name":"👽Iconography/Web Services/MIC-S067 ( Corpse Entry Permit (101272) )"
+"name":"👽Iconography/Web Services/ICNM-S067 ( Corpse Entry Permit (101272) )"
 },
 "6D41ED9C-BCC7-49FD-86D0-4D2CA7F8DBE2":{
-"name":"👽Iconography/Feedback/ICN-D006 ( Sad Face 2 )"
+"name":"👽Iconography/Feedback/ICNM-D006 ( Sad Face 2 )"
 },
 "A994A429-CC81-4144-B432-F630D34DEE61":{
-"name":"👽Iconography/Social/ICN-C003 ( Twitter )"
+"name":"👽Iconography/Social/ICNM-C003 ( Twitter )"
 },
 "74B03A58-9946-4BB8-B59E-5714EFF71553":{
-"name":"👽Iconography/Filled icons/ICN-F080 ( Save )"
+"name":"👽Iconography/Filled icons/ICNM-F080 ( Save )"
 },
 "3C6A9E74-D70E-46D6-8F30-3A445744BDC8":{
-"name":"👽Iconography/Filled icons/ICN-F069 ( Split )"
+"name":"👽Iconography/Filled icons/ICNM-F069 ( Split )"
 },
 "0DB95B01-C540-4146-8C2C-B88AA9B14535":{
-"name":"👽Iconography/Web Services/MIC-S075 ( Burial of the Bodies )"
+"name":"👽Iconography/Web Services/ICNM-S075 ( Burial of the Bodies )"
 },
 "52171157-2924-4D0A-9898-433A7EAC892A":{
-"name":"👽Iconography/Outlined icons/ICN-L060 ( Viewed )"
+"name":"👽Iconography/Outlined icons/ICNM-L060 ( Viewed )"
 },
 "9C8FA089-C56A-490C-966C-416E249E08DE":{
-"name":"👽Iconography/Filled icons/ICN-F058 ( Start date calendar )"
+"name":"👽Iconography/Filled icons/ICNM-F058 ( Start date calendar )"
 },
 "9EBA0C5E-A639-4596-811A-C301DF5A56A5":{
-"name":"👽Iconography/Outlined icons/ICN-L065 (  Filtering )"
+"name":"👽Iconography/Outlined icons/ICNM-L065 (  Filtering )"
 },
 "0CFD3BB0-6B1E-4EE7-BE2F-9F3A1BB61DE0":{
-"name":"👽Iconography/Web Services/MIC-S106 ( Diplomatic Exchange )"
+"name":"👽Iconography/Web Services/ICNM-S106 ( Diplomatic Exchange )"
 },
 "FAEECA74-9D5A-4A20-B47A-C3EA7E2D8F4D":{
-"name":"👽Iconography/Outlined icons/ICN-L038 ( Down Arrow )"
+"name":"👽Iconography/Outlined icons/ICNM-L038 ( Down Arrow )"
 },
 "3902B35F-B384-4BE1-8C87-1ACAC08924DE":{
-"name":"👽Iconography/Outlined icons/ICN-L008 ( Mail )"
+"name":"👽Iconography/Outlined icons/ICNM-L008 ( Mail )"
 },
 "5EE3A9B8-CA4E-4B57-B41F-D8DEBD78E53C":{
-"name":"👽Iconography/Filled icons/ICN-F001 ( Edit )"
+"name":"👽Iconography/Filled icons/ICNM-F001 ( Edit )"
 },
 "CFED14C4-2910-40F6-B4B4-2E841382EEB9":{
-"name":"👽Iconography/Web Services/MIC-S042 ( Deposite Crime Reports )"
+"name":"👽Iconography/Web Services/ICNM-S042 ( Deposite Crime Reports )"
 },
 "EC78FF76-52C5-4278-AA39-9DE35434A857":{
-"name":"👽Iconography/Outlined icons/ICN-L034 ( Crop Rotate )"
+"name":"👽Iconography/Outlined icons/ICNM-L034 ( Crop Rotate )"
 },
 "29C038DF-47B7-4C4F-90AF-DBC8F7596956":{
-"name":"👽Iconography/Outlined icons/ICN-L009 ( Tasks )"
+"name":"👽Iconography/Outlined icons/ICNM-L009 ( Tasks )"
 },
 "8A65F2CE-D13E-4D6F-A4BB-1DAB1EC93ED1":{
-"name":"👽Iconography/Filled icons/ICN-F089 ( Resend )"
+"name":"👽Iconography/Filled icons/ICNM-F089 ( Resend )"
 },
 "C1496EF6-304A-43F0-A36F-4FAFA5E1FFB2":{
-"name":"👽Iconography/Outlined icons/ICN-L029 ( Save )"
+"name":"👽Iconography/Outlined icons/ICNM-L029 ( Save )"
 },
 "15590DDB-B1C8-46D0-98DF-4C22C60AB24B":{
-"name":"👽Iconography/Outlined icons/ICN-L016 ( Color palette )"
+"name":"👽Iconography/Outlined icons/ICNM-L016 ( Color palette )"
 },
 "D044004F-70ED-4F1F-A146-D928211B07F0":{
-"name":"👽Iconography/Filled icons/ICN-F054 ( Chat conversation )"
+"name":"👽Iconography/Filled icons/ICNM-F054 ( Chat conversation )"
 },
 "699C643D-5313-40A1-B515-8B7F0AD677C8":{
-"name":"👽Iconography/Web Services/MIC-S102 ( HQ Visit )"
+"name":"👽Iconography/Web Services/ICNM-S102 ( HQ Visit )"
 },
 "926122AC-78A8-4E2B-A949-97E35F1E3BEC":{
-"name":"👽Iconography/Filled icons/ICN-F061 ( Politics marker )"
+"name":"👽Iconography/Filled icons/ICNM-F061 ( Politics marker )"
 },
 "5471C80A-E813-4473-8956-3C8B8592ACCD":{
-"name":"👽Iconography/Web Services/MIC-S065 ( Police Report Inquiry (101121) )"
+"name":"👽Iconography/Web Services/ICNM-S065 ( Police Report Inquiry (101121) )"
 },
 "04446B70-DC93-40B3-99CE-A3E0076A046F":{
-"name":"👽Iconography/Web Services/MIC-S076 ( Barriers Request (101306) )"
+"name":"👽Iconography/Web Services/ICNM-S076 ( Barriers Request (101306) )"
 },
 "FE1FF721-568C-4BDD-B18D-B83DFDF4A6DD":{
-"name":"👽Iconography/Outlined icons/ICN-L045 ( Arrow left )"
+"name":"👽Iconography/Outlined icons/ICNM-L045 ( Arrow left )"
 },
 "DA2453E9-D7C7-4AE7-AE25-440C16A5DD9A":{
-"name":"👽Iconography/Filled icons/ICN-F040 ( Add Comments )"
+"name":"👽Iconography/Filled icons/ICNM-F040 ( Add Comments )"
 },
 "BAA2BBD6-2A6C-4479-9222-025F13D79881":{
-"name":"👽Iconography/Web Services/MIC-S051 ( Night work permit (101283) )"
+"name":"👽Iconography/Web Services/ICNM-S051 ( Night work permit (101283) )"
 },
 "C39BD538-2AD6-4DA0-B844-44A97D9D760E":{
-"name":"👽Iconography/Web Services/MIC-S084 ( Mobile (101197) )"
+"name":"👽Iconography/Web Services/ICNM-S084 ( Mobile (101197) )"
 },
 "50B8866D-4C8A-4F13-A15D-D392B15A92CD":{
-"name":"👽Iconography/Filled icons/ICN-F013 ( Approved )"
+"name":"👽Iconography/Filled icons/ICNM-F013 ( Approved )"
 },
 "7435E043-290E-4D08-8DF2-9A97CEA9A55D":{
-"name":"👽Iconography/Filled icons/ICN-F072 ( Dislike )"
+"name":"👽Iconography/Filled icons/ICNM-F072 ( Dislike )"
 },
 "E3835A27-1E7C-4FEF-9262-9FC754A1E207":{
-"name":"👽Iconography/Outlined icons/ICN-L013 ( Open Case )"
+"name":"👽Iconography/Outlined icons/ICNM-L013 ( Open Case )"
 },
 "A9A7CE08-062B-4553-A147-269DDE42B91D":{
-"name":"👽Iconography/Filled icons/ICN-F004 ( FAQ )"
+"name":"👽Iconography/Filled icons/ICNM-F004 ( FAQ )"
 },
 "5F708A0E-EF20-48E1-AE4D-F161201157AD":{
-"name":"👽Iconography/Filled icons/ICN-F011 ( Disabled )"
+"name":"👽Iconography/Filled icons/ICNM-F011 ( Disabled )"
 },
 "E5EC2007-E750-4B85-A4C8-F56B354BE80F":{
-"name":"👽Iconography/Web Services/MIC-S081 ( Request Statistics (101318) )"
+"name":"👽Iconography/Web Services/ICNM-S081 ( Request Statistics (101318) )"
 },
 "B2E89E49-4E63-4B2A-9E6D-C9AB331880E8":{
-"name":"👽Iconography/Logos/ICN-B002 ( Dubai Police logo 2 )"
+"name":"👽Iconography/Logos/ICNM-B002 ( Dubai Police logo 2 )"
 },
 "59C9B410-F8D6-48F4-A87F-378C1540AF01":{
-"name":"👽Iconography/Web Services/MIC-S027 ( Safe Trips )"
+"name":"👽Iconography/Web Services/ICNM-S027 ( Safe Trips )"
 },
 "CA9F57B4-1EED-42B0-8E58-A245CC0B16E1":{
-"name":"👽Iconography/Web Services/MIC-S083 ( Passport (101196) )"
+"name":"👽Iconography/Web Services/ICNM-S083 ( Passport (101196) )"
 },
 "03590933-3B2A-4F50-8ED8-582A87D29783":{
-"name":"👽Iconography/Web Services/MIC-S014 ( Live Chat (101337) )"
+"name":"👽Iconography/Web Services/ICNM-S014 ( Live Chat (101337) )"
 },
 "19E862DF-4E24-4BD8-BE93-B5EABD2A472B":{
-"name":"👽Iconography/Outlined icons/ICN-L064 (  Drag drop )"
+"name":"👽Iconography/Outlined icons/ICNM-L064 (  Drag drop )"
 },
 "1FDCE02B-D91F-4987-901D-54C7B9AAA3AA":{
-"name":"👽Iconography/Web Services/MIC-S071 ( Criminal Inquires )"
+"name":"👽Iconography/Web Services/ICNM-S071 ( Criminal Inquires )"
 },
 "9D2F8DBD-68A9-4B65-B3D6-A67A8BE50029":{
-"name":"👽Iconography/Web Services/MIC-S101 ( Crime scene )"
+"name":"👽Iconography/Web Services/ICNM-S101 ( Crime scene )"
 },
 "31EA732B-37B4-416C-AC49-E05A6812BDC0":{
-"name":"👽Iconography/Outlined icons/ICN-L015 ( Card )"
+"name":"👽Iconography/Outlined icons/ICNM-L015 ( Card )"
 },
 "2BACF98B-D5C6-4EC7-AC88-D51ADE7AAB5E":{
-"name":"👽Iconography/Web Services/MIC-S001 ( Finger Print )"
+"name":"👽Iconography/Web Services/ICNM-S001 ( Finger Print )"
 },
 "55CDA087-B1E6-4FA7-8DE5-7E9EDE4F8A01":{
-"name":"👽Iconography/Web Services/MIC-S031 ( Document Inquiry (101166) )"
+"name":"👽Iconography/Web Services/ICNM-S031 ( Document Inquiry (101166) )"
 },
 "5E11C1E4-27B6-40F3-80C8-88CD2F1B796C":{
-"name":"👽Iconography/Filled icons/ICN-F005 ( ChangeLog )"
+"name":"👽Iconography/Filled icons/ICNM-F005 ( ChangeLog )"
 },
 "2CF52DB3-3B01-4A8A-90BA-E2B152426D4D":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI006 ( Dubai Police logo )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI006 ( Dubai Police logo )"
 },
 "C056AC93-2A0A-4D51-8E42-D22734E29A04":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI005 ( 18+ )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI005 ( 18+ )"
 },
 "364ECD87-A656-4AEB-9713-486D9E8275BA":{
-"name":"👽Iconography/Filled icons/ICN-F088 ( Send )"
+"name":"👽Iconography/Filled icons/ICNM-F088 ( Send )"
 },
 "6B86BB21-A35C-40B3-BDFE-F3AFE38EF595":{
-"name":"👽Iconography/Outlined icons/ICN-L044 ( Hamburger button )"
+"name":"👽Iconography/Outlined icons/ICNM-L044 ( Hamburger button )"
 },
 "257E690E-19CA-4206-B73A-03B3810F6856":{
-"name":"👽Iconography/Filled icons/ICN-F020 ( Supervised )"
+"name":"👽Iconography/Filled icons/ICNM-F020 ( Supervised )"
 },
 "F335FAE3-A1DB-4E8E-9DDE-F63AC53F08A1":{
-"name":"👽Iconography/Outlined icons/ICN-L028 ( Search )"
+"name":"👽Iconography/Outlined icons/ICNM-L028 ( Search )"
 },
 "CBC28907-26D3-4E24-9FE8-56CFDFCDEC78":{
-"name":"👽Iconography/Outlined icons/ICN-L005 ( ID card )"
+"name":"👽Iconography/Outlined icons/ICNM-L005 ( ID card )"
 },
 "6A448418-B5ED-4C01-95CD-F3DCCDC46909":{
-"name":"👽Iconography/Filled icons/ICN-F028 ( Filtering up )"
+"name":"👽Iconography/Filled icons/ICNM-F028 ( Filtering up )"
 },
 "8B1DD127-0846-4906-BDD1-0256032FB144":{
-"name":"👽Iconography/Web Services/MIC-S100 ( Police Car )"
+"name":"👽Iconography/Web Services/ICNM-S100 ( Police Car )"
 },
 "EC22F7F1-918C-4527-805B-E3E5B4FA3670":{
-"name":"👽Iconography/Web Services/MIC-S037 ( Report Bounced Cheques Follow Up )"
+"name":"👽Iconography/Web Services/ICNM-S037 ( Report Bounced Cheques Follow Up )"
 },
 "743C855D-DCEA-439E-83E4-C45F64D04BFE":{
-"name":"👽Iconography/Outlined icons/ICN-L046 ( Arrow right )"
+"name":"👽Iconography/Outlined icons/ICNM-L046 ( Arrow right )"
 },
 "924235BC-8F17-43FF-846F-250BD24B3D37":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI015 ( Suspicious Gadering )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI015 ( Suspicious Gadering )"
 },
 "E71C7C8B-F7B3-4F24-B18A-52ACC6FD4ABF":{
-"name":"👽Iconography/Logos/ICN-B003 ( Dubai Police logo 3 )"
+"name":"👽Iconography/Logos/ICNM-B003 ( Dubai Police logo 3 )"
 },
 "F352614D-6568-4578-BF44-FA3F97A5CA7B":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI009 ( Vandalism )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI009 ( Vandalism )"
 },
 "43C9F758-7B89-47AF-AF15-955B3D6C3642":{
-"name":"👽Iconography/Filled icons/ICN-F033 ( Minus )"
+"name":"👽Iconography/Filled icons/ICNM-F033 ( Minus )"
 },
 "877A2CDE-A601-43B9-8061-27E427C967F5":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI011 ( SPS )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI011 ( SPS )"
 },
 "C3FFF01D-9CB0-45FB-9A6A-12EBB44855D4":{
-"name":"👽Iconography/Web Services/MIC-S013 ( Report Crime (101116) )"
+"name":"👽Iconography/Web Services/ICNM-S013 ( Report Crime (101116) )"
 },
 "BE91584C-A25E-4CD0-A463-6C7A708BA278":{
-"name":"👽Iconography/Filled icons/ICN-F012 ( Warning )"
+"name":"👽Iconography/Filled icons/ICNM-F012 ( Warning )"
 },
 "C12B0AE8-E56A-4399-9C0B-A40C2D29F2FB":{
-"name":"👽Iconography/Outlined icons/ICN-L059 ( Search politics marker )"
+"name":"👽Iconography/Outlined icons/ICNM-L059 ( Search politics marker )"
 },
 "53D803C8-4C01-4DF0-9C33-152737BCD3D2":{
-"name":"👽Iconography/Web Services/MIC-S059 ( Road Permit (101278) )"
+"name":"👽Iconography/Web Services/ICNM-S059 ( Road Permit (101278) )"
 },
 "E8DCBAF2-8580-4A93-9077-5A225DA5473A":{
-"name":"👽Iconography/Filled icons/ICN-F034 ( Plus add )"
+"name":"👽Iconography/Filled icons/ICNM-F034 ( Plus add )"
 },
 "A0E47F38-69D1-453B-BB83-D53DFB0E6536":{
-"name":"👽Iconography/Outlined icons/ICN-L026 ( Back )"
+"name":"👽Iconography/Outlined icons/ICNM-L026 ( Back )"
 },
 "2C5D8F6E-E44F-4344-A56C-FBD4A311F838":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI021 ( Massage )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI021 ( Massage )"
 },
 "EFFBC302-7F73-4B50-8CBC-DDFC314B60DC":{
-"name":"👽Iconography/Outlined icons/ICN-L061 ( Dislike )"
+"name":"👽Iconography/Outlined icons/ICNM-L061 ( Dislike )"
 },
 "38B802C8-811E-4475-9AB8-C7F026F74636":{
-"name":"👽Iconography/Filled icons/ICN-F003 ( Download folder )"
+"name":"👽Iconography/Filled icons/ICNM-F003 ( Download folder )"
 },
 "2BEBC258-8C83-4746-B4C6-5248A4CC33FA":{
-"name":"👽Iconography/Filled icons/ICN-F064 ( Large Dropdown-Arrow Close )"
+"name":"👽Iconography/Filled icons/ICNM-F064 ( Large Dropdown-Arrow Close )"
 },
 "62FD65F6-8AE0-41F8-B3E4-DF2528E44BE4":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI019 ( Others )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI019 ( Others )"
 },
 "01AAF82C-4AB1-43A2-8D77-8795DA1A794C":{
-"name":"👽Iconography/Filled icons/ICN-F079 ( Transfer )"
+"name":"👽Iconography/Filled icons/ICNM-F079 ( Transfer )"
 },
 "FCD5C088-D95D-41C5-A6F7-11AA8D2A20E5":{
-"name":"👽Iconography/Feedback/ICN-D003 ( Sad Face 1 )"
+"name":"👽Iconography/Feedback/ICNM-D003 ( Sad Face 1 )"
 },
 "8489B7FD-3EC7-4C4A-8C73-8BDA042445FA":{
-"name":"👽Iconography/Feedback/ICN-D004 ( Pokker Face 2 )"
+"name":"👽Iconography/Feedback/ICNM-D004 ( Pokker Face 2 )"
 },
 "94CB965D-978A-4540-A83F-CA0E1955AFB8":{
-"name":"👽Iconography/Web Services/MIC-S018 ( We are all police (101176) )"
+"name":"👽Iconography/Web Services/ICNM-S018 ( We are all police (101176) )"
 },
 "7AF288B2-322D-4E82-ACDB-E2FDAA12FA98":{
-"name":"👽Iconography/Web Services/MIC-S022 ( Report Traffic Accident Follow Up )"
+"name":"👽Iconography/Web Services/ICNM-S022 ( Report Traffic Accident Follow Up )"
 },
 "1E6FA5F8-F46D-498F-B68C-3E95A5752D99":{
-"name":"👽Iconography/Filled icons/ICN-F067 ( add more )"
+"name":"👽Iconography/Filled icons/ICNM-F067 ( add more )"
 },
 "7A070BFB-01A7-49F8-A414-6830FECDB36E":{
-"name":"👽Iconography/Filled icons/ICN-F057 ( Home )"
+"name":"👽Iconography/Filled icons/ICNM-F057 ( Home )"
 },
 "8297BBBE-846C-4B71-8875-EB06B49FC546":{
-"name":"👽Iconography/Outlined icons/ICN-L007 ( Message comment )"
+"name":"👽Iconography/Outlined icons/ICNM-L007 ( Message comment )"
 },
 "5AA6CD07-2B8D-47DA-A8FD-1557333913FA":{
-"name":"👽Iconography/Map/Map Pins/ICN-MP002 ( Map pin )"
+"name":"👽Iconography/Map/Map Pins/ICNM-MP002 ( Map pin )"
 },
 "5D67C8E6-58BD-476B-9F96-04237E8A9480":{
-"name":"👽Iconography/Web Services/MIC-S007 ( Vehicle Obstruction (111119) )"
+"name":"👽Iconography/Web Services/ICNM-S007 ( Vehicle Obstruction (111119) )"
 },
 "B1E80B7A-5BCF-4C2C-BD0B-1985BCC1C758":{
-"name":"👽Iconography/Web Services/MIC-S074 ( Events Security (101302) )"
+"name":"👽Iconography/Web Services/ICNM-S074 ( Events Security (101302) )"
 },
 "7C544CBF-198F-4E0B-8BB6-A8D2DB4F8385":{
-"name":"👽Iconography/Web Services/MIC-S068 ( Sport Facilities Request (101297) )"
+"name":"👽Iconography/Web Services/ICNM-S068 ( Sport Facilities Request (101297) )"
 },
 "555242D5-731D-4D09-B2C3-0E3E80BFF5F7":{
-"name":"👽Iconography/Outlined icons/ICN-L058 ( Politics marker )"
+"name":"👽Iconography/Outlined icons/ICNM-L058 ( Politics marker )"
 },
 "D01345B5-EBCC-4918-84C8-EDFFD98553D0":{
-"name":"👽Iconography/Web Services/MIC-S024 ( Traffic Status Certificate (101327) )"
+"name":"👽Iconography/Web Services/ICNM-S024 ( Traffic Status Certificate (101327) )"
 },
 "9F4501EB-974E-4EFB-A00C-55A53887101E":{
-"name":"👽Iconography/Web Services/MIC-S010 ( Volunteer )"
+"name":"👽Iconography/Web Services/ICNM-S010 ( Volunteer )"
 },
 "478B522F-4AEF-4783-9359-0D5AB9D9D2A9":{
-"name":"👽Iconography/Outlined icons/ICN-L049 ( add more )"
+"name":"👽Iconography/Outlined icons/ICNM-L049 ( add more )"
 },
 "DBB5B55B-DC35-43D4-AF99-85009022DC9E":{
-"name":"👽Iconography/Outlined icons/ICN-L063 ( Pie chart )"
+"name":"👽Iconography/Outlined icons/ICNM-L063 ( Pie chart )"
 },
 "EE4D953D-C50F-4BC9-8768-2DA1F1F2737D":{
-"name":"👽Iconography/Filled icons/ICN-F027 ( Lists )"
+"name":"👽Iconography/Filled icons/ICNM-F027 ( Lists )"
 },
 "C3731AC8-BDC1-442B-8F57-C87B8ACC5BFB":{
-"name":"👽Iconography/Web Services/MIC-S025 ( Report Crime Follow Up )"
+"name":"👽Iconography/Web Services/ICNM-S025 ( Report Crime Follow Up )"
 },
 "F9714ACA-F3DD-41D9-ACC6-70F943986465":{
-"name":"👽Iconography/Logos/MIC-B006 ( Google logo )"
+"name":"👽Iconography/Logos/ICNM-B006 ( Google logo )"
 },
 "2C5C0BF7-B65C-45A5-8AB2-0C50A64F9A42":{
-"name":"👽Iconography/Web Services/MIC-S090 ( Person Request )"
+"name":"👽Iconography/Web Services/ICNM-S090 ( Person Request )"
 },
 "135A31C6-51BA-4F3D-8555-86B4F3F37452":{
-"name":"👽Iconography/Web Services/MIC-S057 ( Job Vacancies )"
+"name":"👽Iconography/Web Services/ICNM-S057 ( Job Vacancies )"
 },
 "77DAA9A1-ADBE-48B4-84F7-2FB5641672EF":{
-"name":"👽Iconography/Web Services/MIC-S108 ( Fine installment service )"
+"name":"👽Iconography/Web Services/ICNM-S108 ( Fine installment service )"
 },
 "0A737769-0A63-4688-8316-F2FB2507D0F7":{
-"name":"👽Iconography/Web Services/MIC-S099 ( Sponsorship Replacement Request )"
+"name":"👽Iconography/Web Services/ICNM-S099 ( Sponsorship Replacement Request )"
 },
 "DF3F1504-F97A-4316-8794-BACBE9C24953":{
-"name":"👽Iconography/Web Services/MIC-S082 ( Update )"
+"name":"👽Iconography/Web Services/ICNM-S082 ( Update )"
 },
 "E6AF0E48-43D8-4688-B141-B436DBB28FDD":{
-"name":"👽Iconography/Filled icons/ICN-F031 ( User2 )"
+"name":"👽Iconography/Filled icons/ICNM-F031 ( User2 )"
 },
 "3B0DE544-042F-4793-9575-93BB6C6EDA6F":{
-"name":"👽Iconography/Web Services/MIC-S016 ( Police Clearance Certificate Follow Up )"
+"name":"👽Iconography/Web Services/ICNM-S016 ( Police Clearance Certificate Follow Up )"
 },
 "0A23C53C-9B71-479E-903B-4E82C67EABCA":{
-"name":"👽Iconography/Map/Map Pins/ICN-MP003 ( My location )"
+"name":"👽Iconography/Map/Map Pins/ICNM-MP003 ( My location )"
 },
 "15F6E0E4-C8CB-456F-A6D9-AAAF59A42B6A":{
-"name":"👽Iconography/Web Services/MIC-S094 ( Social Support Family (101323) )"
+"name":"👽Iconography/Web Services/ICNM-S094 ( Social Support Family (101323) )"
 },
 "A1876368-3EFB-4952-88B5-95E7421145CF":{
-"name":"👽Iconography/Filled icons/ICN-F050 ( Message comment )"
+"name":"👽Iconography/Filled icons/ICNM-F050 ( Message comment )"
 },
 "E959D3D5-435F-4BAD-BCE6-56F86B2DBB79":{
-"name":"👽Iconography/Filled icons/ICN-F060 ( Dropdown-Arrow Left )"
+"name":"👽Iconography/Filled icons/ICNM-F060 ( Dropdown-Arrow Left )"
 },
 "27F35638-F56A-4DF4-898A-80A0FF04B95C":{
-"name":"👽Iconography/Filled icons/ICN-F035 ( Folder )"
+"name":"👽Iconography/Filled icons/ICNM-F035 ( Folder )"
 },
 "36B9DBBE-BD01-4774-A0AD-3C614B053C87":{
-"name":"👽Iconography/Social/ICN-C004 ( Youtube )"
+"name":"👽Iconography/Social/ICNM-C004 ( Youtube )"
 },
 "12F39290-5E47-41C0-8FE8-DC3E819A6A0A":{
-"name":"👽Iconography/Filled icons/ICN-F053 ( Dummy )"
+"name":"👽Iconography/Filled icons/ICNM-F053 ( Dummy )"
 },
 "8EA1AB12-21CA-4022-9586-53785E7AE7A0":{
-"name":"👽Iconography/Outlined icons/ICN-L062 ( Favorite )"
+"name":"👽Iconography/Outlined icons/ICNM-L062 ( Favorite )"
 },
 "6960F382-0002-45EB-93D4-4B15FFB4AA06":{
-"name":"👽Iconography/Filled icons/ICN-F014 ( Reject )"
+"name":"👽Iconography/Filled icons/ICNM-F014 ( Reject )"
 },
 "90B5B68F-9164-450E-A935-872B63E4D5FE":{
-"name":"👽Iconography/Outlined icons/ICN-L037 ( Right Arrow )"
+"name":"👽Iconography/Outlined icons/ICNM-L037 ( Right Arrow )"
 },
 "434220D4-70E8-4A5D-A24E-AD74F6D08B29":{
-"name":"👽Iconography/Web Services/MIC-S023 ( Report Traffic Accident (101281) )"
+"name":"👽Iconography/Web Services/ICNM-S023 ( Report Traffic Accident (101281) )"
 },
 "94094EC9-4AAB-40E3-A177-7D1A58FA8DAB":{
-"name":"👽Iconography/Web Services/MIC-S047 ( Detainee visit Request (101208) )"
+"name":"👽Iconography/Web Services/ICNM-S047 ( Detainee visit Request (101208) )"
 },
 "4EFD81A4-75A8-4692-B841-3136817B74C3":{
-"name":"👽Iconography/Outlined icons/ICN-L040 ( Left Arrow )"
+"name":"👽Iconography/Outlined icons/ICNM-L040 ( Left Arrow )"
 },
 "B5366442-9072-4F16-A72F-0002A1290631":{
-"name":"👽Iconography/Filled icons/ICN-F038 ( Reply )"
+"name":"👽Iconography/Filled icons/ICNM-F038 ( Reply )"
 },
 "A8DD1ED7-34B3-40F6-91BC-EEB9BAC6CD84":{
-"name":"👽Iconography/Web Services/MIC-S095 ( Our Products (101310) )"
+"name":"👽Iconography/Web Services/ICNM-S095 ( Our Products (101310) )"
 },
 "8B955019-6361-43AF-BFD1-0CB4DAB164E5":{
-"name":"👽Iconography/Filled icons/ICN-F062 ( Policy shield )"
+"name":"👽Iconography/Filled icons/ICNM-F062 ( Policy shield )"
 },
 "73A99E1E-7A03-40B7-B846-7DF3B036FAF5":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI013 ( Suspicious Vehicle )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI013 ( Suspicious Vehicle )"
 },
 "E7AA7557-337D-490E-83AD-10AF5B59A24B":{
-"name":"👽Iconography/Outlined icons/ICN-L051 ( Approved )"
+"name":"👽Iconography/Outlined icons/ICNM-L051 ( Approved )"
 },
 "C1588003-2A84-4104-B021-CF0FC1132CD7":{
-"name":"👽Iconography/Web Services/MIC-S061 ( Police Museum tour (101255) )"
+"name":"👽Iconography/Web Services/ICNM-S061 ( Police Museum tour (101255) )"
 },
 "D1C83846-F5A0-45DD-844A-70F5CDB00001":{
-"name":"👽Iconography/Filled icons/ICN-F026 ( End date )"
+"name":"👽Iconography/Filled icons/ICNM-F026 ( End date )"
 },
 "686BCA54-4D51-445D-A6A0-0FB8C6598E64":{
-"name":"👽Iconography/Filled icons/ICN-F018 ( Delete )"
+"name":"👽Iconography/Filled icons/ICNM-F018 ( Delete )"
 },
 "CBCEB84B-AE2B-4755-8521-D16675862A28":{
-"name":"👽Iconography/Filled icons/ICN-F046 ( Forward arrow right )"
+"name":"👽Iconography/Filled icons/ICNM-F046 ( Forward arrow right )"
 },
 "8BE95941-754C-4ABA-A72D-4592FB410785":{
-"name":"👽Iconography/Feedback/ICN-D005 ( Happy Face 2 )"
+"name":"👽Iconography/Feedback/ICNM-D005 ( Happy Face 2 )"
 },
 "3383D5EA-1E64-479E-8CC9-F14C8666240C":{
-"name":"👽Iconography/Logos/ICN-B001 ( Dubai Police logo 1 )"
+"name":"👽Iconography/Logos/ICNM-B001 ( Dubai Police logo 1 )"
 },
 "3EB40807-299B-4CCD-BD3A-8C6753237BCF":{
-"name":"👽Iconography/Filled icons/ICN-F007 ( Magazine )"
+"name":"👽Iconography/Filled icons/ICNM-F007 ( Magazine )"
 },
 "A188675E-D4A0-4678-AEBC-86143DE653B9":{
-"name":"👽Iconography/Filled icons/ICN-F090 ( Reply-all )"
+"name":"👽Iconography/Filled icons/ICNM-F090 ( Reply-all )"
 },
 "4A217A3C-7804-4797-BBD3-A9A8EEB58603":{
-"name":"👽Iconography/Web Services/MIC-S044 ( ReadStatus Notification (101122) )"
+"name":"👽Iconography/Web Services/ICNM-S044 ( ReadStatus Notification (101122) )"
 },
 "621B6AD5-04A1-4014-BACF-B486F654E14F":{
-"name":"👽Iconography/Outlined icons/ICN-L018 ( Collapse close )"
+"name":"👽Iconography/Outlined icons/ICNM-L018 ( Collapse close )"
 },
 "87F93A6E-29C0-4915-A6AB-6DC106966911":{
-"name":"👽Iconography/Outlined icons/ICN-L054 ( Log-in )"
+"name":"👽Iconography/Outlined icons/ICNM-L054 ( Log-in )"
 },
 "4F0508F2-530E-415D-AA41-F799D5219255":{
-"name":"👽Iconography/Filled icons/ICN-F048 ( Setting )"
+"name":"👽Iconography/Filled icons/ICNM-F048 ( Setting )"
 },
 "9AAC2125-0837-45B1-9BCE-569CD8851A57":{
-"name":"👽Iconography/Filled icons/ICN-F017 ( Close )"
+"name":"👽Iconography/Filled icons/ICNM-F017 ( Close )"
 },
 "8E6D8AAA-D304-4ED2-A703-5328118722F4":{
-"name":"👽Iconography/Web Services/MIC-S096 ( Visit Inmate (101339) )"
+"name":"👽Iconography/Web Services/ICNM-S096 ( Visit Inmate (101339) )"
 },
 "91B012B0-5B51-4E19-B7A2-354A43B91B44":{
-"name":"👽Iconography/Web Services/MIC-S080 ( Reply )"
+"name":"👽Iconography/Web Services/ICNM-S080 ( Reply )"
 },
 "B458DC66-6239-4566-8869-4FF3E1611781":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI012 ( Disturbance noise )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI012 ( Disturbance noise )"
 },
 "38EBE87C-19BF-447D-A103-AA31345D9122":{
-"name":"👽Iconography/Filled icons/ICN-F081 ( Details )"
+"name":"👽Iconography/Filled icons/ICNM-F081 ( Details )"
 },
 "3BDEACB5-0B02-46FE-A829-591CABEA522B":{
-"name":"👽Iconography/Web Services/MIC-S019 ( Whom it may Concern inMate )"
+"name":"👽Iconography/Web Services/ICNM-S019 ( Whom it may Concern inMate )"
 },
 "AFE892D9-ABB7-4958-BE71-0CD384B04A01":{
-"name":"👽Iconography/Web Services/MIC-S063 ( Receive Reserved Driving Licence )"
+"name":"👽Iconography/Web Services/ICNM-S063 ( Receive Reserved Driving Licence )"
 },
 "D8F525D9-2075-4644-9583-AFD6764B9524":{
-"name":"👽Iconography/Outlined icons/ICN-L001 ( Pointer )"
+"name":"👽Iconography/Outlined icons/ICNM-L001 ( Pointer )"
 },
 "8803A180-F12B-4860-BFF4-3A5A212CECD6":{
-"name":"👽Iconography/Web Services/MIC-S028 ( Search Found Item (101179) )"
+"name":"👽Iconography/Web Services/ICNM-S028 ( Search Found Item (101179) )"
 },
 "B8253AEC-317A-431A-95EF-D8D6C40CC737":{
-"name":"👽Iconography/Web Services/MIC-S056 ( Police Clearance Certificate )"
+"name":"👽Iconography/Web Services/ICNM-S056 ( Police Clearance Certificate )"
 },
 "15566CD1-8A30-43F2-AED3-8B281BB3769C":{
-"name":"👽Iconography/Filled icons/ICN-F055 ( APP )"
+"name":"👽Iconography/Filled icons/ICNM-F055 ( APP )"
 },
 "1B652EC2-596A-4599-92B4-CA69C0256A91":{
-"name":"👽Iconography/Web Services/MIC-S087 ( Money )"
+"name":"👽Iconography/Web Services/ICNM-S087 ( Money )"
 },
 "736723FC-CF24-4BAD-B98A-566344AC9814":{
-"name":"👽Iconography/Filled icons/ICN-F075 ( Pie chart )"
+"name":"👽Iconography/Filled icons/ICNM-F075 ( Pie chart )"
 },
 "C80EE862-D9AD-495D-B9FB-B7B9C02FBF4D":{
-"name":"👽Iconography/Web Services/MIC-S073 ( New Criminal Report )"
+"name":"👽Iconography/Web Services/ICNM-S073 ( New Criminal Report )"
 },
 "20AF2B2E-57DE-4D7D-9F5E-9BFF14D86B74":{
-"name":"👽Iconography/Filled icons/ICN-F006 ( Files )"
+"name":"👽Iconography/Filled icons/ICNM-F006 ( Files )"
 },
 "FDBB1FBB-81DE-49DD-B0FF-E9B6C26B6479":{
-"name":"👽Iconography/Filled icons/ICN-F015 ( Info )"
+"name":"👽Iconography/Filled icons/ICNM-F015 ( Info )"
 },
 "6EDC036B-A8C6-4571-BE81-10177C63C646":{
-"name":"👽Iconography/Filled icons/ICN-F073 ( Favorite )"
+"name":"👽Iconography/Filled icons/ICNM-F073 ( Favorite )"
 },
 "91DA514C-3766-4AE6-AED0-717FE0371AB4":{
-"name":"👽Iconography/Web Services/MIC-S066 ( Activity Request (101296) )"
+"name":"👽Iconography/Web Services/ICNM-S066 ( Activity Request (101296) )"
 },
 "03BA20C1-86A8-41D6-92F2-310B86064957":{
-"name":"👽Iconography/Web Services/MIC-S086 ( Lecture Request (101320) )"
+"name":"👽Iconography/Web Services/ICNM-S086 ( Lecture Request (101320) )"
 },
 "DF6937FE-275B-4C19-8B3E-5F7215BB4765":{
-"name":"👽Iconography/Outlined icons/ICN-L033 ( Expand maximize )"
+"name":"👽Iconography/Outlined icons/ICNM-L033 ( Expand maximize )"
 },
 "38A82930-B7CE-4809-B793-4436482907C1":{
-"name":"👽Iconography/Outlined icons/ICN-L004 ( Passport )"
+"name":"👽Iconography/Outlined icons/ICNM-L004 ( Passport )"
 },
 "052817E9-8493-4740-B8A5-EE74B26FF95F":{
-"name":"👽Iconography/Map/Map Icons/ICN-MI014 ( Drugs )"
+"name":"👽Iconography/Map/Map Icons/ICNM-MI014 ( Drugs )"
 },
 "944DD9F9-F8CB-4690-ACD6-80F3CB65CAD2":{
-"name":"👽Iconography/Web Services/MIC-S015 ( Generic )"
+"name":"👽Iconography/Web Services/ICNM-S015 ( Generic )"
 },
 "B52E5CE3-567E-4E7C-809C-4F87410AA6C6":{
-"name":"👽Iconography/Filled icons/ICN-F037 ( Recive )"
+"name":"👽Iconography/Filled icons/ICNM-F037 ( Recive )"
 },
 "2B23A844-280B-41E9-A17A-3FBC173A7E72":{
-"name":"👽Iconography/Logos/MIC-B007 ( Apple logo )"
+"name":"👽Iconography/Logos/ICNM-B007 ( Apple logo )"
 },
 "70CF37E2-FDA4-4E2A-A071-E14C91C91C43":{
-"name":"👽Iconography/Web Services/MIC-S050 ( AR )"
+"name":"👽Iconography/Web Services/ICNM-S050 ( AR )"
 },
 "929C6C7D-B20C-4546-838C-1FFADDEBFA6B":{
-"name":"👽Iconography/Outlined icons/ICN-L025 ( Attachment )"
+"name":"👽Iconography/Outlined icons/ICNM-L025 ( Attachment )"
 },
 "7281185E-2C0C-4204-8CBE-E174602B0889":{
-"name":"👽Iconography/Outlined icons/ICN-L019 ( Folder )"
+"name":"👽Iconography/Outlined icons/ICNM-L019 ( Folder )"
 }
 }
 }
@@ -2204,6 +2293,7 @@
 "version":123,
 "fonts":[
 "LucidaGrande",
+"Menlo-Regular",
 "Roboto-Medium",
 "Helvetica",
 "SFProText-Semibold",
@@ -2221,7 +2311,7 @@
 ],
 "compatibilityVersion":99,
 "app":"com.bohemiancoding.sketch3",
-"autosaved":1,
+"autosaved":0,
 "variant":"NONAPPSTORE",
 "created":{
 "commit":"434732399d1e0d8cad935077dbf35547aa6602cb",
