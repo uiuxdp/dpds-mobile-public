@@ -1747,6 +1747,9 @@
 "BD82D5E6-C556-4D7F-A6EB-2D72E2A11F88":{
 "name":"👽Iconography/Web Services/ICNM-S085 ( Official Document (101198) )"
 },
+"F70CEBF0-1DA3-4FA4-ABA5-C72F812AE16A":{
+"name":"👽Iconography/Map/Map Pins/ICNM-MP005 ( My location 3 )"
+},
 "8B73629C-6DF5-4586-8891-D60DD3529D00":{
 "name":"👽Iconography/Social/ICNM-C005 ( Whatsapp )"
 },
@@ -1911,6 +1914,9 @@
 },
 "A9A7CE08-062B-4553-A147-269DDE42B91D":{
 "name":"👽Iconography/Filled icons/ICNM-F004 ( FAQ )"
+},
+"6E723B2C-F5D1-4AB8-9F03-700BE3355492":{
+"name":"👽Iconography/Map/Map Pins/ICNM-MP004 ( My location 2 )"
 },
 "5F708A0E-EF20-48E1-AE4D-F161201157AD":{
 "name":"👽Iconography/Filled icons/ICNM-F011 ( Disabled )"
@@ -2090,7 +2096,7 @@
 "name":"👽Iconography/Web Services/ICNM-S025 ( Report Crime Follow Up )"
 },
 "F9714ACA-F3DD-41D9-ACC6-70F943986465":{
-"name":"👽Iconography/Logos/ICNM-B006 ( Google logo )"
+"name":"👽Iconography/Logos/ICNM-B005 ( Google logo )"
 },
 "2C5C0BF7-B65C-45A5-8AB2-0C50A64F9A42":{
 "name":"👽Iconography/Web Services/ICNM-S090 ( Person Request )"
@@ -2114,7 +2120,7 @@
 "name":"👽Iconography/Web Services/ICNM-S016 ( Police Clearance Certificate Follow Up )"
 },
 "0A23C53C-9B71-479E-903B-4E82C67EABCA":{
-"name":"👽Iconography/Map/Map Pins/ICNM-MP003 ( My location )"
+"name":"👽Iconography/Map/Map Pins/ICNM-MP003 ( My location 1 )"
 },
 "15F6E0E4-C8CB-456F-A6D9-AAAF59A42B6A":{
 "name":"👽Iconography/Web Services/ICNM-S094 ( Social Support Family (101323) )"
@@ -2276,7 +2282,7 @@
 "name":"👽Iconography/Filled icons/ICNM-F037 ( Recive )"
 },
 "2B23A844-280B-41E9-A17A-3FBC173A7E72":{
-"name":"👽Iconography/Logos/ICNM-B007 ( Apple logo )"
+"name":"👽Iconography/Logos/ICNM-B006 ( Apple logo )"
 },
 "70CF37E2-FDA4-4E2A-A071-E14C91C91C43":{
 "name":"👽Iconography/Web Services/ICNM-S050 ( AR )"
