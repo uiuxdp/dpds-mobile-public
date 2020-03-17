@@ -8,7 +8,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎UI Controls (MIC000)",
+"name":"🍎UI Atomics (MIC000)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -87,7 +87,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Filled/MIC-BF001 ( Large button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Filled/MIC-BF001 ( Large button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -728,7 +728,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"B3CADAEE-6234-4EE4-A5D6-88CD73ED93C0",
-"changeIdentifier":1261,
+"changeIdentifier":1262,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -753,7 +753,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Outlined/MIC-BL001 ( Large button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Outlined/MIC-BL001 ( Large button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -1156,7 +1156,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"F003DF52-29AA-41FD-B2A5-1FCF8F900DEB",
-"changeIdentifier":669,
+"changeIdentifier":670,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -1181,7 +1181,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Filled/MIC-BF002 ( Regular button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Filled/MIC-BF002 ( Regular button )",
 "nameIsFixed":false,
 "resizingConstraint":63,
 "resizingType":0,
@@ -1822,7 +1822,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"3BD3FCE4-BC1D-4D52-BB6E-125684C42FF7",
-"changeIdentifier":1317,
+"changeIdentifier":1318,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -1862,7 +1862,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Semi-Rounded/MIC-IS001 ( Inactive )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Semi-Rounded/MIC-IS001 ( Inactive )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -2214,7 +2214,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"9FC160E0-1AA8-4DA1-968F-E3E411F50E52",
-"changeIdentifier":2030,
+"changeIdentifier":2031,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -2249,7 +2249,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Semi-Rounded/MIC-IS002 ( Active )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Semi-Rounded/MIC-IS002 ( Active )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -2601,7 +2601,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"C25B37DA-980B-4CE3-984B-B3766A0D52A2",
-"changeIdentifier":2042,
+"changeIdentifier":2043,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -2636,7 +2636,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Semi-Rounded/MIC-IS003 ( Focused )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Semi-Rounded/MIC-IS003 ( Focused )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -3039,7 +3039,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"3B9D4A30-24B8-4E18-82F2-BBAF2EFBAEC6",
-"changeIdentifier":2076,
+"changeIdentifier":2077,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -3074,7 +3074,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Full-Rounded/MIC-IF001 ( Inactive )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Full-Rounded/MIC-IF001 ( Inactive )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -3512,7 +3512,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"18775B04-6A4F-4636-A3DD-9496245F977B",
-"changeIdentifier":2153,
+"changeIdentifier":2154,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -3552,7 +3552,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Full-Rounded/MIC-IF002 ( Active )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Full-Rounded/MIC-IF002 ( Active )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -3990,7 +3990,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"1751F563-278D-4C2E-B53D-E12F4165FBF4",
-"changeIdentifier":2228,
+"changeIdentifier":2229,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -4030,7 +4030,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Full-Rounded/MIC-IF003 ( Focused )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Full-Rounded/MIC-IF003 ( Focused )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -4519,7 +4519,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"1370DC9E-8178-413C-A43F-E94345FECB17",
-"changeIdentifier":2285,
+"changeIdentifier":2286,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -4559,7 +4559,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Line input/MIC-IL002 ( Active )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Line input/MIC-IL002 ( Active )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -5048,7 +5048,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"8DCB5744-A80B-4632-817F-056CD5E1A952",
-"changeIdentifier":269,
+"changeIdentifier":270,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -5088,7 +5088,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Line input/MIC-IL003 ( Focused )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Line input/MIC-IL003 ( Focused )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -5577,7 +5577,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"CEF160CD-B1FD-405A-A0CA-F682CBBBCFCD",
-"changeIdentifier":360,
+"changeIdentifier":361,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -5617,7 +5617,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Line input/MIC-IL001 ( Inctive )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Line input/MIC-IL001 ( Inctive )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -6106,7 +6106,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"3F6E4D3F-7133-4B2A-9A52-F31C8CC71E36",
-"changeIdentifier":225,
+"changeIdentifier":226,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -6146,7 +6146,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M001 (Screen menu)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M001 (Screen menu)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -6863,7 +6863,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"F635C9C8-1C70-46CA-88AA-FF9A090E0856",
-"changeIdentifier":1062,
+"changeIdentifier":1063,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -6898,7 +6898,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M003 (Action menu 2)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M003 (Action menu 2)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -7615,7 +7615,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"9A667DBB-5C7D-4DE9-8B12-6F7E0DB9DE18",
-"changeIdentifier":2465,
+"changeIdentifier":2466,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -7650,7 +7650,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M003 (Action menu 2)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M003 (Action menu 2)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -8367,7 +8367,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"BBC99A84-3E7D-490B-9F44-E8CCC3D5FB4D",
-"changeIdentifier":2429,
+"changeIdentifier":2430,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -8417,7 +8417,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M002 (Action menu 1)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M002 (Action menu 1)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -9134,7 +9134,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"613BCAD7-4561-4C23-94E9-FDEF30326A19",
-"changeIdentifier":2537,
+"changeIdentifier":2538,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -9169,7 +9169,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M002 (Action menu 1)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M002 (Action menu 1)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -9886,7 +9886,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"811815EE-D8AA-4E4E-AD3F-1F3036DB1A1D",
-"changeIdentifier":2529,
+"changeIdentifier":2530,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -9926,7 +9926,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M004 (Action menu services 1)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M004 (Action menu services 1)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -10643,7 +10643,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"6BC351C5-7523-4BDE-A31E-4566F58F157D",
-"changeIdentifier":2525,
+"changeIdentifier":2526,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -10688,7 +10688,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M004 (Action menu services 1)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M004 (Action menu services 1)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -11405,7 +11405,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"7E2D9266-06C5-4106-91E3-0D758347304D",
-"changeIdentifier":2569,
+"changeIdentifier":2570,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -11445,7 +11445,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M005 (Action menu services 2)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M005 (Action menu services 2)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -12162,7 +12162,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"6EDA5070-3595-4B9E-91E7-9D72794E87B8",
-"changeIdentifier":2484,
+"changeIdentifier":2485,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -12217,7 +12217,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M005 (Action menu services 2)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M005 (Action menu services 2)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -12934,7 +12934,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"B22FFC27-93F6-4127-BA46-94DBFAD3BC7B",
-"changeIdentifier":2567,
+"changeIdentifier":2568,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -12984,7 +12984,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Outlined/MIC-BL002 ( Regular button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Outlined/MIC-BL002 ( Regular button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -13387,7 +13387,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"41191B5B-B8CA-4E21-8956-A67219F0A381",
-"changeIdentifier":694,
+"changeIdentifier":695,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -13412,7 +13412,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Outlined/MIC-BL004 ( Optional button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Outlined/MIC-BL004 ( Optional button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -14232,7 +14232,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"E5E086A8-C55D-41B2-BFFE-4CE50288261C",
-"changeIdentifier":2193,
+"changeIdentifier":2194,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -14272,7 +14272,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Web Services/MIC-BW001 ( Certificates and permits Button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Web Services/MIC-BW001 ( Certificates and permits Button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -14913,7 +14913,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"D2FA1F6B-7C69-4886-9D63-56B524442B8D",
-"changeIdentifier":1277,
+"changeIdentifier":1278,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -14943,7 +14943,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Web Services/MIC-BW003 ( Save people life & criminal service Button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Web Services/MIC-BW003 ( Save people life & criminal service Button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -15584,7 +15584,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"C0457DCA-9238-41CD-BC3B-1C56F42B1ECE",
-"changeIdentifier":1158,
+"changeIdentifier":1159,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -15614,7 +15614,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Web Services/MIC-BW004 ( General Services Button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Web Services/MIC-BW004 ( General Services Button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -16255,7 +16255,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"1906E53F-12D6-4F46-85D3-FA9566659E66",
-"changeIdentifier":1237,
+"changeIdentifier":1238,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -16285,7 +16285,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Web Services/MIC-BW002 ( Traffic services Button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Web Services/MIC-BW002 ( Traffic services Button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -16926,7 +16926,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"EDCE5E39-9672-41CC-9181-B19162F094D5",
-"changeIdentifier":1160,
+"changeIdentifier":1161,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -16956,7 +16956,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Filled/MIC-BF003 ( Small button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Filled/MIC-BF003 ( Small button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -17597,7 +17597,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"3647AF33-9674-4488-A812-05FD6ABAEAB7",
-"changeIdentifier":872,
+"changeIdentifier":873,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -17632,7 +17632,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Outlined/MIC-BL003 ( Small button )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Outlined/MIC-BL003 ( Small button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -18035,7 +18035,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"399D16D0-B643-4AD2-A939-A16069C5D155",
-"changeIdentifier":972,
+"changeIdentifier":973,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -18059,8 +18059,8 @@
 "isFlippedVertical":false,
 "isLocked":false,
 "isVisible":true,
-"layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/FAB/MIC-BA001 ( FAB1 )",
+"layerListExpandedType":2,
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/FAB/MIC-BA001 ( FAB1 )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -18086,8 +18086,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":50,
-"width":50,
+"height":56,
+"width":56,
 "x":103,
 "y":-433
 },
@@ -18134,14 +18134,93 @@
 "innerShadows":[],
 "shadows":[]
 },
-"hasClickThrough":true,
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"group",
+"do_objectID":"47BDF117-17E9-4B49-AF73-283A23D7A082",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"FAB",
+"nameIsFixed":true,
+"resizingConstraint":45,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":56,
+"width":56,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"8D0EE1CB-D3A0-4CAE-AF4E-4916674997AE",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":false,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
 "groupLayout":{
 "_class":"MSImmutableFreeformGroupLayout"
 },
 "layers":[
 {
 "_class":"oval",
-"do_objectID":"E92B6E34-1FCD-46C8-888C-5900B14B098F",
+"do_objectID":"65EE8240-9E7F-4906-9DFE-FBC97840855C",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -18162,9 +18241,9 @@
 "scaleFactor":1,
 "model_version":0.1,
 "aspectRatio":{
-"constant":50,
-"enabled":1,
 "multiplier":50,
+"enabled":1,
+"constant":50,
 "model_version":0.1,
 "modelID":"constraint_78e873f5-b3cb-4e67-bff3-57e301e9bcc4",
 "model_class":"ADModelConstraint"
@@ -18186,8 +18265,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":true,
-"height":50,
-"width":50,
+"height":56,
+"width":56,
 "x":0,
 "y":0
 },
@@ -18196,7 +18275,7 @@
 "sharedStyleID":"05E4AB0E-5AAD-475A-8B8F-8FA39BDE4225",
 "style":{
 "_class":"style",
-"do_objectID":"F8866E27-5697-482F-ADE4-E393434B795D",
+"do_objectID":"2D06D771-42E4-4189-94F9-35424B754D21",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -18397,7 +18476,7 @@
 },
 {
 "_class":"oval",
-"do_objectID":"7A784E02-D568-410D-BBED-7C65D7FCB80C",
+"do_objectID":"EDF259FC-D993-416F-A07E-D79E7535B99A",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -18442,8 +18521,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":true,
-"height":50,
-"width":50,
+"height":56,
+"width":56,
 "x":0,
 "y":0
 },
@@ -18452,7 +18531,7 @@
 "sharedStyleID":"68D6BA4A-21CB-4EB7-B85F-1BF162576BB2",
 "style":{
 "_class":"style",
-"do_objectID":"C0EAE5B8-21B5-41DB-856A-D0CC78DD1CEC",
+"do_objectID":"EA804BA4-2010-4B97-A542-F74AC484AB5A",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -18643,7 +18722,7 @@
 },
 {
 "_class":"symbolInstance",
-"do_objectID":"B58C4DF8-D28E-4AB4-BD92-5372F68BDEAB",
+"do_objectID":"3D6F4D4D-0433-454C-B3D9-102ED363A1E4",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -18669,14 +18748,14 @@
 "constrainProportions":false,
 "height":24,
 "width":24,
-"x":13,
-"y":13
+"x":16,
+"y":16
 },
 "clippingMaskMode":0,
 "hasClippingMask":false,
 "style":{
 "_class":"style",
-"do_objectID":"0E97D8DB-73E7-4BA3-A2C1-F92092109B45",
+"do_objectID":"99B8BA5D-DFEB-40B0-8007-29427335B3BD",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -18721,6 +18800,8 @@
 "verticalSpacing":0,
 "overrideValues":[]
 }
+]
+}
 ],
 "hasBackgroundColor":false,
 "includeBackgroundColorInExport":true,
@@ -18747,17 +18828,22 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"BE22121F-8A63-437B-9823-74D689547259",
-"changeIdentifier":395,
+"changeIdentifier":433,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
 "canOverride":true,
-"overrideName":"E92B6E34-1FCD-46C8-888C-5900B14B098F_layerStyle"
+"overrideName":"65EE8240-9E7F-4906-9DFE-FBC97840855C_layerStyle"
 },
 {
 "_class":"MSImmutableOverrideProperty",
 "canOverride":true,
-"overrideName":"B58C4DF8-D28E-4AB4-BD92-5372F68BDEAB_symbolID"
+"overrideName":"3D6F4D4D-0433-454C-B3D9-102ED363A1E4_symbolID"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"EDF259FC-D993-416F-A07E-D79E7535B99A_layerStyle"
 }
 ],
 "allowsOverrides":true
@@ -18772,7 +18858,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/FAB/MIC-BA002 ( FAB2 )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/FAB/MIC-BA002 ( FAB2 )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -18795,8 +18881,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":32,
-"width":30.99999999999999,
+"height":40,
+"width":40,
 "x":182,
 "y":-432
 },
@@ -18849,8 +18935,87 @@
 },
 "layers":[
 {
+"_class":"group",
+"do_objectID":"5061236F-DA4B-4773-BC42-4CA9FB5EC43D",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"FAB",
+"nameIsFixed":true,
+"resizingConstraint":45,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":40,
+"width":40,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"6C71ABC9-35FA-4CB6-91A7-4FE81ED663E1",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":false,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
 "_class":"shapePath",
-"do_objectID":"A4C09E5E-36F9-4860-B5D0-33A2979D4670",
+"do_objectID":"B07FDABD-C892-492F-BACC-DC46BA83D58B",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -18874,8 +19039,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":32,
-"width":30.99999999999999,
+"height":40,
+"width":40,
 "x":0,
 "y":0
 },
@@ -18884,7 +19049,7 @@
 "sharedStyleID":"68D6BA4A-21CB-4EB7-B85F-1BF162576BB2",
 "style":{
 "_class":"style",
-"do_objectID":"3FE16824-402F-45D9-8F76-A29898EEF993",
+"do_objectID":"23348DD0-CB03-4A1A-BB30-B16D03E638A5",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -18894,7 +19059,7 @@
 "isEnabled":false,
 "center":"{0.5, 0.5}",
 "motionAngle":0,
-"radius":10,
+"radius":12.90322580645162,
 "saturation":1,
 "type":0
 },
@@ -18954,7 +19119,7 @@
 ]
 },
 "position":1,
-"thickness":1
+"thickness":1.290322580645162
 }
 ],
 "colorControls":{
@@ -19075,7 +19240,7 @@
 },
 {
 "_class":"shapePath",
-"do_objectID":"57C50E41-387F-4B25-A2D2-7FF3CC93C8E6",
+"do_objectID":"C2010A45-CF3F-48E5-BD89-6D07BEE6D951",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -19099,16 +19264,17 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":32,
-"width":30.99999999999999,
+"height":40,
+"width":40,
 "x":0,
 "y":0
 },
 "clippingMaskMode":0,
 "hasClippingMask":false,
+"sharedStyleID":"2742AF9A-8B1D-441A-B6AE-36EF07765295",
 "style":{
 "_class":"style",
-"do_objectID":"A43D96C8-8DB9-46DD-990B-DED548DFC2BD",
+"do_objectID":"C21FB4BD-A7C3-4005-992D-8B1B2BC51D0E",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -19202,9 +19368,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.847,
-"green":0.847,
-"red":0.847
+"blue":0.9725490196078431,
+"green":0.9568627450980392,
+"red":0.9490196078431372
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -19299,7 +19465,7 @@
 },
 {
 "_class":"symbolInstance",
-"do_objectID":"877123B5-2476-4531-B49D-DD3DE1952DCB",
+"do_objectID":"1940F513-7A3C-4FFA-BAE2-9F4CB98B1D4D",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -19323,16 +19489,16 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":14,
-"width":14,
-"x":8.5,
-"y":9
+"height":24,
+"width":24,
+"x":8,
+"y":8
 },
 "clippingMaskMode":0,
 "hasClippingMask":false,
 "style":{
 "_class":"style",
-"do_objectID":"29D150B4-469A-4B7E-AF10-629A359AAF0A",
+"do_objectID":"48B2EE50-6FDA-4C22-84CC-C430BA26CD23",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -19383,6 +19549,8 @@
 }
 ]
 }
+]
+}
 ],
 "hasBackgroundColor":false,
 "includeBackgroundColorInExport":true,
@@ -19409,12 +19577,32 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"A60C5057-2DBF-438B-ADD5-94965092F72C",
-"changeIdentifier":385,
+"changeIdentifier":416,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
 "canOverride":true,
-"overrideName":"44ACA357-4D5A-4057-8208-B0D317C721E3_layerStyle"
+"overrideName":"B07FDABD-C892-492F-BACC-DC46BA83D58B_layerStyle"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"C2010A45-CF3F-48E5-BD89-6D07BEE6D951_layerStyle"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"877123B5-2476-4531-B49D-DD3DE1952DCB_symbolID"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"1940F513-7A3C-4FFA-BAE2-9F4CB98B1D4D_symbolID"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"A4C09E5E-36F9-4860-B5D0-33A2979D4670_layerStyle"
 }
 ],
 "allowsOverrides":true
@@ -20230,8 +20418,8 @@
 "isFlippedVertical":false,
 "isLocked":false,
 "isVisible":true,
-"layerListExpandedType":0,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/FAB/MIDC-BA001 ( FAB1 )",
+"layerListExpandedType":2,
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/FAB/MIDC-BA001 ( FAB1 )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -20257,8 +20445,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":50,
-"width":50,
+"height":56,
+"width":56,
 "x":1664,
 "y":-440
 },
@@ -20305,14 +20493,93 @@
 "innerShadows":[],
 "shadows":[]
 },
-"hasClickThrough":true,
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"group",
+"do_objectID":"CC53A907-0DF6-462E-9A31-F7328BB5A2D9",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"FAB",
+"nameIsFixed":true,
+"resizingConstraint":45,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":56,
+"width":56,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"5030E0BD-F0E6-453C-9BEB-CF6D7D423EA0",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":false,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
 "groupLayout":{
 "_class":"MSImmutableFreeformGroupLayout"
 },
 "layers":[
 {
 "_class":"oval",
-"do_objectID":"9F310B88-8B6D-4515-ABE7-E8CF5710DF9C",
+"do_objectID":"6E9BAFA0-F589-48C3-96C6-110EA535578A",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -20335,9 +20602,9 @@
 "aspectRatio":{
 "modelID":"constraint_78e873f5-b3cb-4e67-bff3-57e301e9bcc4",
 "enabled":1,
-"constant":50,
-"model_class":"ADModelConstraint",
 "multiplier":50,
+"model_class":"ADModelConstraint",
+"constant":50,
 "model_version":0.1
 },
 "modelID":"viewConstraints_66090768-934a-457c-8d7a-61453ea08ab5",
@@ -20357,8 +20624,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":true,
-"height":50,
-"width":50,
+"height":56,
+"width":56,
 "x":0,
 "y":0
 },
@@ -20367,7 +20634,7 @@
 "sharedStyleID":"EC20034B-0866-495F-BC28-C88FB40F7F17",
 "style":{
 "_class":"style",
-"do_objectID":"73F9ED93-1AF0-4AE4-A4F2-25A197D59C10",
+"do_objectID":"666C67FD-0832-4262-BC33-39D7F56C43E5",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -20631,7 +20898,7 @@
 },
 {
 "_class":"oval",
-"do_objectID":"C2414E8B-6E8B-4B8F-B773-601E3E0A4318",
+"do_objectID":"CEBCE9DA-CE94-4BE0-8B68-A0F1607AC506",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -20652,12 +20919,12 @@
 "scaleFactor":1,
 "model_version":0.1,
 "aspectRatio":{
-"modelID":"constraint_78e873f5-b3cb-4e67-bff3-57e301e9bcc4",
+"constant":50,
 "enabled":1,
 "multiplier":50,
-"model_class":"ADModelConstraint",
-"constant":50,
-"model_version":0.1
+"model_version":0.1,
+"modelID":"constraint_78e873f5-b3cb-4e67-bff3-57e301e9bcc4",
+"model_class":"ADModelConstraint"
 },
 "modelID":"viewConstraints_66090768-934a-457c-8d7a-61453ea08ab5",
 "model_class":"ADModelViewConstraints",
@@ -20676,8 +20943,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":true,
-"height":50,
-"width":50,
+"height":56,
+"width":56,
 "x":0,
 "y":0
 },
@@ -20686,7 +20953,7 @@
 "sharedStyleID":"68D6BA4A-21CB-4EB7-B85F-1BF162576BB2",
 "style":{
 "_class":"style",
-"do_objectID":"595F84AF-205B-4DAF-81B0-80EC5A6F8A2D",
+"do_objectID":"EB81104F-D7A5-42EC-8812-32E4E78F6E81",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -20877,7 +21144,7 @@
 },
 {
 "_class":"symbolInstance",
-"do_objectID":"43B23CCA-A56F-48EF-860C-005E4190571A",
+"do_objectID":"EB3347A0-5826-4CCD-976E-302FD8574804",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -20903,14 +21170,14 @@
 "constrainProportions":false,
 "height":24,
 "width":24,
-"x":13,
-"y":13
+"x":16,
+"y":16
 },
 "clippingMaskMode":0,
 "hasClippingMask":false,
 "style":{
 "_class":"style",
-"do_objectID":"D920ACBE-0C6C-4BAD-9D30-6D4C56C36A80",
+"do_objectID":"ABCDFD66-D58B-4C3A-B819-B15053A30B7B",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -20961,6 +21228,8 @@
 }
 ]
 }
+]
+}
 ],
 "hasBackgroundColor":false,
 "includeBackgroundColorInExport":true,
@@ -20987,17 +21256,22 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"03258EB0-80FA-4352-A203-E1F3B37742B4",
-"changeIdentifier":612,
+"changeIdentifier":636,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
 "canOverride":true,
-"overrideName":"43B23CCA-A56F-48EF-860C-005E4190571A_symbolID"
+"overrideName":"6E9BAFA0-F589-48C3-96C6-110EA535578A_layerStyle"
 },
 {
 "_class":"MSImmutableOverrideProperty",
 "canOverride":true,
-"overrideName":"9F310B88-8B6D-4515-ABE7-E8CF5710DF9C_layerStyle"
+"overrideName":"CEBCE9DA-CE94-4BE0-8B68-A0F1607AC506_layerStyle"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"EB3347A0-5826-4CCD-976E-302FD8574804_symbolID"
 }
 ],
 "allowsOverrides":true
@@ -21012,7 +21286,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/FAB/MIDC-BA002 ( FAB2 )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/FAB/MIDC-BA002 ( FAB2 )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -21035,8 +21309,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":32,
-"width":30.99999999999999,
+"height":40,
+"width":40,
 "x":1751,
 "y":-440
 },
@@ -21083,14 +21357,93 @@
 "innerShadows":[],
 "shadows":[]
 },
-"hasClickThrough":true,
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"group",
+"do_objectID":"C7B09AE9-0828-4E2D-A627-899BA25D9761",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"FAB",
+"nameIsFixed":true,
+"resizingConstraint":45,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":40,
+"width":40,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"913B67ED-13E0-4C09-8BD9-05F17E80BA17",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":false,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
 "groupLayout":{
 "_class":"MSImmutableFreeformGroupLayout"
 },
 "layers":[
 {
 "_class":"shapePath",
-"do_objectID":"F9555151-EB96-45D7-9A91-6B3B72E05E30",
+"do_objectID":"B7FE77EE-EA0A-41AB-A435-584E77E5EC31",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -21114,8 +21467,8 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":32,
-"width":30.99999999999999,
+"height":40,
+"width":40,
 "x":0,
 "y":0
 },
@@ -21124,7 +21477,7 @@
 "sharedStyleID":"68D6BA4A-21CB-4EB7-B85F-1BF162576BB2",
 "style":{
 "_class":"style",
-"do_objectID":"5C8B067A-5399-4FD4-BD51-C043EE7B6688",
+"do_objectID":"F30D3781-6FAA-447D-B9A7-5D6514A309C1",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -21134,7 +21487,7 @@
 "isEnabled":false,
 "center":"{0.5, 0.5}",
 "motionAngle":0,
-"radius":10,
+"radius":12.90322580645162,
 "saturation":1,
 "type":0
 },
@@ -21194,7 +21547,7 @@
 ]
 },
 "position":1,
-"thickness":1
+"thickness":1.290322580645162
 }
 ],
 "colorControls":{
@@ -21315,7 +21668,7 @@
 },
 {
 "_class":"shapePath",
-"do_objectID":"00F19EC1-77CD-4121-84A5-FAA242B8B40B",
+"do_objectID":"6E536042-747D-4F04-9FD1-8BBFB562806D",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -21339,16 +21692,17 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":32,
-"width":30.99999999999999,
+"height":40,
+"width":40,
 "x":0,
 "y":0
 },
 "clippingMaskMode":0,
 "hasClippingMask":false,
+"sharedStyleID":"2742AF9A-8B1D-441A-B6AE-36EF07765295",
 "style":{
 "_class":"style",
-"do_objectID":"0C87BC9D-21CA-45F0-B2E4-6684F067F952",
+"do_objectID":"6DCEB49B-5384-476F-ACE7-F1F72D694524",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -21442,9 +21796,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.847,
-"green":0.847,
-"red":0.847
+"blue":0.9725490196078431,
+"green":0.9568627450980392,
+"red":0.9490196078431372
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -21539,7 +21893,7 @@
 },
 {
 "_class":"symbolInstance",
-"do_objectID":"D7B73B42-BD32-4910-AC0D-0B4C0784C425",
+"do_objectID":"A1A05C75-96FE-4E84-B58E-407899C4F4E9",
 "booleanOperation":-1,
 "isFixedToViewport":false,
 "isFlippedHorizontal":false,
@@ -21563,16 +21917,16 @@
 "frame":{
 "_class":"rect",
 "constrainProportions":false,
-"height":14,
-"width":14,
-"x":8.5,
-"y":9
+"height":24,
+"width":24,
+"x":8,
+"y":8
 },
 "clippingMaskMode":0,
 "hasClippingMask":false,
 "style":{
 "_class":"style",
-"do_objectID":"796A49FE-5F68-4217-9289-820DF71538D1",
+"do_objectID":"9B492320-408F-4A1D-8B35-F5BB2124945B",
 "endMarkerType":0,
 "miterLimit":10,
 "startMarkerType":0,
@@ -21623,6 +21977,8 @@
 }
 ]
 }
+]
+}
 ],
 "hasBackgroundColor":false,
 "includeBackgroundColorInExport":true,
@@ -21649,22 +22005,22 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"00E29446-D360-41DB-B72A-020487734AFD",
-"changeIdentifier":604,
+"changeIdentifier":628,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
 "canOverride":true,
-"overrideName":"F9555151-EB96-45D7-9A91-6B3B72E05E30_layerStyle"
+"overrideName":"6E536042-747D-4F04-9FD1-8BBFB562806D_layerStyle"
 },
 {
 "_class":"MSImmutableOverrideProperty",
 "canOverride":true,
-"overrideName":"00F19EC1-77CD-4121-84A5-FAA242B8B40B_layerStyle"
+"overrideName":"B7FE77EE-EA0A-41AB-A435-584E77E5EC31_layerStyle"
 },
 {
 "_class":"MSImmutableOverrideProperty",
 "canOverride":true,
-"overrideName":"D7B73B42-BD32-4910-AC0D-0B4C0784C425_symbolID"
+"overrideName":"A1A05C75-96FE-4E84-B58E-407899C4F4E9_symbolID"
 }
 ],
 "allowsOverrides":true
@@ -21679,7 +22035,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Filled/MIDC-BF001 ( Large button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Filled/MIDC-BF001 ( Large button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -22320,7 +22676,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"F9BEA748-4173-4EBE-8741-E1E1B07D22CE",
-"changeIdentifier":1299,
+"changeIdentifier":1300,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -22350,7 +22706,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Filled/MIDC-BF002 ( Regular button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Filled/MIDC-BF002 ( Regular button )",
 "nameIsFixed":false,
 "resizingConstraint":63,
 "resizingType":0,
@@ -22991,7 +23347,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"B27502F4-93A6-4C17-9B86-2C8AFA94FB39",
-"changeIdentifier":1395,
+"changeIdentifier":1396,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -23031,7 +23387,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Filled/MIDC-BF003 ( Small button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Filled/MIDC-BF003 ( Small button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -23672,7 +24028,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"1AD5A5B2-DE62-4D69-AE99-7541026C52D1",
-"changeIdentifier":991,
+"changeIdentifier":992,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -23712,7 +24068,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Outlined/MIDC-BL001 ( Large button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Outlined/MIDC-BL001 ( Large button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -24115,7 +24471,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"62842EB2-BD48-45EE-A665-73CAFFF364FF",
-"changeIdentifier":895,
+"changeIdentifier":896,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -24140,7 +24496,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Outlined/MIDC-BL002 ( Regular button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Outlined/MIDC-BL002 ( Regular button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -24543,7 +24899,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"6F828B7C-0310-40F2-A087-336FDD3391F8",
-"changeIdentifier":791,
+"changeIdentifier":792,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -24568,7 +24924,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Outlined/MIDC-BL003 ( Small button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Outlined/MIDC-BL003 ( Small button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -24971,7 +25327,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"41B11B33-7FF6-493F-B01D-76137CAA07F0",
-"changeIdentifier":1128,
+"changeIdentifier":1129,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -24996,7 +25352,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Outlined/MIDC-BL004 ( Optional button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Outlined/MIDC-BL004 ( Optional button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -25816,7 +26172,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"AD638B6B-054D-4DD1-92B0-D9A124A82983",
-"changeIdentifier":2304,
+"changeIdentifier":2305,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -25861,7 +26217,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Web Services/MIDC-BW001 ( Certificates and permits Button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Web Services/MIDC-BW001 ( Certificates and permits Button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -26502,7 +26858,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"20290891-BA9B-4FC7-B4C3-F6D37EA5C115",
-"changeIdentifier":1426,
+"changeIdentifier":1427,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -26532,7 +26888,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Web Services/MIDC-BW002 ( Traffic services Button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Web Services/MIDC-BW002 ( Traffic services Button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -27173,7 +27529,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"0EFB664A-CAFD-46BF-BD01-E42977E89534",
-"changeIdentifier":1366,
+"changeIdentifier":1367,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -27203,7 +27559,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Web Services/MIDC-BW003 ( Save people life & criminal service Button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Web Services/MIDC-BW003 ( Save people life & criminal service Button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -27844,7 +28200,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"A300307C-D8DC-442F-A6E2-B8CE821D63AD",
-"changeIdentifier":1362,
+"changeIdentifier":1363,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -27874,7 +28230,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Web Services/MIDC-BW004 ( General Services Button )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Web Services/MIDC-BW004 ( General Services Button )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -28515,7 +28871,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"4B3213AE-C893-4A80-BC24-DEEA2A7C0D75",
-"changeIdentifier":1447,
+"changeIdentifier":1448,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -29551,7 +29907,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Full-Rounded/MIDC-IF001 ( Inactive )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MIDC-IF001 ( Inactive )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -30113,7 +30469,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"17ECE21E-BCF3-46E9-9380-481DDB824DFB",
-"changeIdentifier":2391,
+"changeIdentifier":2392,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -30153,7 +30509,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Full-Rounded/MIDC-IF002 ( Active )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MIDC-IF002 ( Active )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -30715,7 +31071,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"91931288-9E10-4CD5-B71F-E8EB3E0B7606",
-"changeIdentifier":2476,
+"changeIdentifier":2477,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -30755,7 +31111,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Full-Rounded/MIDC-IF003 ( Focused )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MIDC-IF003 ( Focused )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -30889,9 +31245,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -31368,7 +31724,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"F6B20BF5-28C1-49CB-8240-4C5D28C7244B",
-"changeIdentifier":2580,
+"changeIdentifier":2588,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -31408,7 +31764,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Line input/MIDC-IL001 ( Inctive )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Line input/MIDC-IL001 ( Inctive )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -31897,7 +32253,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"BEBC5E53-3734-4D5D-AD1F-E804DD253CD8",
-"changeIdentifier":436,
+"changeIdentifier":437,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -31937,7 +32293,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Line input/MIDC-IL002 ( Active )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Line input/MIDC-IL002 ( Active )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -32426,7 +32782,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"986CAC2F-FF22-493C-AE59-3A54C1421991",
-"changeIdentifier":443,
+"changeIdentifier":444,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -32466,7 +32822,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Line input/MIDC-IL003 ( Focused )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Line input/MIDC-IL003 ( Focused )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -32665,9 +33021,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -32955,7 +33311,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"DBF9AF7D-F8AE-4498-B850-CFE10204FA71",
-"changeIdentifier":524,
+"changeIdentifier":541,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -32995,7 +33351,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Semi-Rounded/MIDC-IS001 ( Inactive )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MIDC-IS001 ( Inactive )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -33471,7 +33827,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"7F94286B-3353-445D-920F-44050A53EBBA",
-"changeIdentifier":2131,
+"changeIdentifier":2132,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -33506,7 +33862,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Semi-Rounded/MIDC-IS002 ( Active )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MIDC-IS002 ( Active )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -33982,7 +34338,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"136223E8-2187-47CD-AB3F-3302E0B97DB7",
-"changeIdentifier":2171,
+"changeIdentifier":2172,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -34017,7 +34373,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Semi-Rounded/MIDC-IS003 ( Focused )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MIDC-IS003 ( Focused )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -34151,9 +34507,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -34544,7 +34900,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"F5696DC8-D34E-416A-8619-180E54E8D682",
-"changeIdentifier":2211,
+"changeIdentifier":2213,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -34579,7 +34935,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M001 (Screen menu)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M001 (Screen menu)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -35296,7 +35652,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"8D7A2571-3B56-4958-961A-B0281E887F83",
-"changeIdentifier":1149,
+"changeIdentifier":1150,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -36553,7 +36909,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Swicher/MIC-SS001 ( ON )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Swicher/MIC-SS001 ( ON )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -36617,7 +36973,7 @@
 "innerShadows":[],
 "shadows":[]
 },
-"hasClickThrough":true,
+"hasClickThrough":false,
 "groupLayout":{
 "_class":"MSImmutableFreeformGroupLayout"
 },
@@ -36831,9 +37187,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -37359,8 +37715,14 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"8450243D-A027-4714-BF82-CCA3BACA233D",
-"changeIdentifier":747,
-"overrideProperties":[],
+"changeIdentifier":755,
+"overrideProperties":[
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"DA7AD381-071F-4311-B5DB-64A7A12D6987_layerStyle"
+}
+],
 "allowsOverrides":true
 },
 {
@@ -37373,7 +37735,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Swicher/MIC-SS002 ( OFF )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Swicher/MIC-SS002 ( OFF )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -38127,7 +38489,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"5CAE72A1-322B-4A66-B61C-E49D8653A6B1",
-"changeIdentifier":510,
+"changeIdentifier":511,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -38147,7 +38509,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Radio-Button/MIC-SR002 ( Unchecked )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Radio-Button/MIC-SR002 ( Unchecked )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -38775,7 +39137,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"931C3FF3-3DA1-43F5-92D6-C259BADAD2DA",
-"changeIdentifier":392,
+"changeIdentifier":393,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -38795,7 +39157,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Radio-Button/MIC-SR001 ( Checked )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Radio-Button/MIC-SR001 ( Checked )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -39451,7 +39813,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"42658C33-A3BB-4BD2-B745-6C302AB9DB08",
-"changeIdentifier":442,
+"changeIdentifier":443,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -39471,7 +39833,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Check-Box/MIC-SC002 ( Unchecked )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Check-Box/MIC-SC002 ( Unchecked )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -39535,7 +39897,7 @@
 "innerShadows":[],
 "shadows":[]
 },
-"hasClickThrough":true,
+"hasClickThrough":false,
 "groupLayout":{
 "_class":"MSImmutableFreeformGroupLayout"
 },
@@ -40179,7 +40541,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"C0C59DAF-5308-4510-902D-2460DB863C24",
-"changeIdentifier":360,
+"changeIdentifier":365,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -40199,7 +40561,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Check-Box/MIC-SC001 ( Checked )",
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Check-Box/MIC-SC001 ( Checked )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -40263,7 +40625,7 @@
 "innerShadows":[],
 "shadows":[]
 },
-"hasClickThrough":true,
+"hasClickThrough":false,
 "groupLayout":{
 "_class":"MSImmutableFreeformGroupLayout"
 },
@@ -40905,7 +41267,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"C2F7140C-3CC2-426F-996A-27147238EA03",
-"changeIdentifier":412,
+"changeIdentifier":421,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -41127,7 +41489,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Check-Box/MIDC-SC001 ( Checked )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Check-Box/MIDC-SC001 ( Checked )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -41191,7 +41553,7 @@
 "innerShadows":[],
 "shadows":[]
 },
-"hasClickThrough":true,
+"hasClickThrough":false,
 "groupLayout":{
 "_class":"MSImmutableFreeformGroupLayout"
 },
@@ -41833,7 +42195,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"51E56286-7F51-4131-98B1-ADD6B09AC3ED",
-"changeIdentifier":521,
+"changeIdentifier":527,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -41858,7 +42220,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Check-Box/MIDC-SC002 ( Unchecked )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Check-Box/MIDC-SC002 ( Unchecked )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -42566,7 +42928,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"9F8B7D5E-2E6F-4340-9499-BA7624A45309",
-"changeIdentifier":542,
+"changeIdentifier":543,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -42586,7 +42948,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Radio-Button/MIDC-SR001 ( Checked )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Radio-Button/MIDC-SR001 ( Checked )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -43242,7 +43604,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"02F00D2A-FA0F-4B8F-A6E8-C42B507028CD",
-"changeIdentifier":626,
+"changeIdentifier":627,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -43262,7 +43624,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Radio-Button/MIDC-SR002 ( Unchecked )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Radio-Button/MIDC-SR002 ( Unchecked )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -43890,7 +44252,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"CF633F2B-4F7C-47B7-A661-ADB901A4A06D",
-"changeIdentifier":578,
+"changeIdentifier":579,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -43910,7 +44272,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Swicher/MIDC-SS001 ( ON )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Swicher/MIDC-SS001 ( ON )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -44188,9 +44550,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -44716,7 +45078,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"72E36952-D8D9-402D-A0A7-22BE662DEA88",
-"changeIdentifier":779,
+"changeIdentifier":786,
 "overrideProperties":[],
 "allowsOverrides":true
 },
@@ -44730,7 +45092,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Swicher/MIDC-SS002 ( OFF )",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Swicher/MIDC-SS002 ( OFF )",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -45484,7 +45846,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"6570076A-8065-42BE-962D-55DC8E32A130",
-"changeIdentifier":1046,
+"changeIdentifier":1047,
 "overrideProperties":[],
 "allowsOverrides":true
 },
@@ -45695,7 +46057,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Chips/MIC-C004 (Style4)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Chips/MIC-C004 (Style4)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -46333,7 +46695,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"E8627332-E31D-4825-AD11-A4308D6E889C",
-"changeIdentifier":131,
+"changeIdentifier":132,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -46368,7 +46730,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌑 Dark/UI Controls/Chips/MIDC-C004 (Style4)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Chips/MIDC-C004 (Style4)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -47006,7 +47368,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"B8DEAB80-0BD9-4B06-967B-F0E71B5262BA",
-"changeIdentifier":164,
+"changeIdentifier":165,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -47041,7 +47403,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Chips/MIC-C002 (Style2)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Chips/MIC-C002 (Style2)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -47593,7 +47955,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"477FB473-BBAA-4169-8429-2B6521105B5D",
-"changeIdentifier":235,
+"changeIdentifier":236,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -47623,7 +47985,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Chips/MIDC-C002 (Style2)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Chips/MIDC-C002 (Style2)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -48175,7 +48537,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"0662FAC5-CF3E-446D-A61B-7BA1DB821A3D",
-"changeIdentifier":276,
+"changeIdentifier":277,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -48205,7 +48567,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Chips/MIC-C003 (Style3)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Chips/MIC-C003 (Style3)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -48757,7 +49119,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"A12DB469-D472-4D85-A533-BAAEDFE7DB7E",
-"changeIdentifier":294,
+"changeIdentifier":295,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -48787,7 +49149,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Chips/MIDC-C003 (Style3)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Chips/MIDC-C003 (Style3)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -49339,7 +49701,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"9660C619-237A-4495-91D5-C872557E4C09",
-"changeIdentifier":335,
+"changeIdentifier":336,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -49369,7 +49731,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Chips/MIC-C001 (Style1)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Chips/MIC-C001 (Style1)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -49921,7 +50283,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"4BE6060F-0CEE-45C1-AB42-980B5079A43F",
-"changeIdentifier":343,
+"changeIdentifier":344,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -49951,7 +50313,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Chips/MIDC-C001 (Style1)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Chips/MIDC-C001 (Style1)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -50503,7 +50865,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"A63F625D-3A16-4457-8D6E-721B7CF25541",
-"changeIdentifier":425,
+"changeIdentifier":426,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -51940,7 +52302,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Slider/MIC-D002 (Table View Row)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Slider/MIC-D002 (Table View Row)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -52716,7 +53078,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"9B4B3F0D-95C6-4ACE-ABEB-728298898F11",
-"changeIdentifier":1824,
+"changeIdentifier":1825,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -52746,7 +53108,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Slider/MIC-D001 (Regular)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Slider/MIC-D001 (Regular)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -54069,7 +54431,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"2AC39F54-5A0A-456E-A078-E00DE1427A8D",
-"changeIdentifier":2049,
+"changeIdentifier":2050,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -54094,7 +54456,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌑 Dark/UI Controls/Slider/MIDC-D002 (Table View Row)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Slider/MIDC-D002 (Table View Row)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -54537,9 +54899,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -54661,7 +55023,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"091E28B8-4833-41EE-AED0-46F47A4E3376",
-"changeIdentifier":1868,
+"changeIdentifier":1875,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -54686,7 +55048,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌑 Dark/UI Controls/Slider/MIDC-D001 (Regular)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Slider/MIDC-D001 (Regular)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -55653,9 +56015,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -56067,7 +56429,7 @@
 },
 "includeBackgroundColorInInstance":true,
 "symbolID":"42B0BCAC-6AC0-4C78-B801-7C9A4509349B",
-"changeIdentifier":2087,
+"changeIdentifier":2094,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -56890,7 +57252,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Search/MIC-E002 (Field Focus)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Search/MIC-E002 (Field Focus)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -58288,7 +58650,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"65E03254-8108-4EFD-A976-B7D6BC26877B",
-"changeIdentifier":3091,
+"changeIdentifier":3092,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -58358,7 +58720,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Search/MIDC-E002 (Field Focus)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Search/MIDC-E002 (Field Focus)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -59289,9 +59651,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -59807,7 +60169,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"13F9170C-B378-4D25-A878-33255CB9E4B2",
-"changeIdentifier":3185,
+"changeIdentifier":3192,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -59877,7 +60239,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Search/MIC-E001 (Field Empty)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Search/MIC-E001 (Field Empty)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -60551,7 +60913,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"9DCDCA9C-0762-441F-BB8B-3A6FC8C033B2",
-"changeIdentifier":3351,
+"changeIdentifier":3352,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -60591,7 +60953,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Search/MIDC-E001 (Field Empty)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Search/MIDC-E001 (Field Empty)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -61316,7 +61678,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"8A933186-1D74-4CFA-89AB-61959E3B790D",
-"changeIdentifier":3353,
+"changeIdentifier":3354,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -61356,7 +61718,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Text button/MIC-BT003 (2 Buttons)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Text button/MIC-BT003 (2 Buttons)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -62088,7 +62450,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"9A625FC7-4FB9-4515-9B07-4365FFCB5CFC",
-"changeIdentifier":1792,
+"changeIdentifier":1793,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -62123,7 +62485,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT003 (2 Buttons)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Text button/MIDC-BT003 (2 Buttons)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -62855,7 +63217,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"0F05F9E7-14C8-4CEC-B430-DF922BA207A8",
-"changeIdentifier":1823,
+"changeIdentifier":1824,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -62890,7 +63252,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Text button/MIC-BT002 (Regular)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Text button/MIC-BT002 (Regular)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -63782,7 +64144,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"F9B51516-8218-40C4-9503-C9842B6C148A",
-"changeIdentifier":1404,
+"changeIdentifier":1405,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -63817,7 +64179,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT002 (Regular)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Text button/MIDC-BT002 (Regular)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -64059,9 +64421,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -64709,7 +65071,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"68567365-66ED-4058-83F0-053A1FFDA78A",
-"changeIdentifier":1462,
+"changeIdentifier":1469,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -64744,7 +65106,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Text button/MIC-BT001 (Preferred)",
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Text button/MIC-BT001 (Preferred)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -65636,7 +65998,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"28621D8A-DE0E-4A60-8A2D-4CD68300E7A8",
-"changeIdentifier":1756,
+"changeIdentifier":1757,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -65671,7 +66033,7 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":2,
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT001 (Preferred)",
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Text button/MIDC-BT001 (Preferred)",
 "nameIsFixed":true,
 "resizingConstraint":63,
 "resizingType":0,
@@ -66141,9 +66503,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -66563,7 +66925,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"F2D29AD9-974F-4F6C-B669-E4ABA32D4E96",
-"changeIdentifier":1769,
+"changeIdentifier":1776,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -66584,6 +66946,1604 @@
 "_class":"MSImmutableOverrideProperty",
 "canOverride":true,
 "overrideName":"F9098B5A-B5BB-48C5-A5F3-F1098B79662C_stringValue"
+}
+],
+"allowsOverrides":true
+},
+{
+"_class":"symbolMaster",
+"do_objectID":"779E510F-33AA-4733-B0A8-80C36BA83C87",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":2,
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/MIC-S001 ( Add and Remove )",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":true,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":22,
+"width":76,
+"x":-616,
+"y":664
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"2914AC8A-F7E8-4A63-9A2E-BAEB5079BAEB",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"group",
+"do_objectID":"5BE231E5-0E55-4A09-8566-A80E54CC8B17",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":2,
+"name":"Stepper",
+"nameIsFixed":true,
+"resizingConstraint":44,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":22,
+"width":76,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"60767238-3692-4562-8DFD-7188D282E582",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.586206896551724,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"rectangle",
+"do_objectID":"EC57641B-9A70-4CCF-9A71-0B4DBEBB60D7",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Platter",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":21.78,
+"width":75.85448275862069,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"sharedStyleID":"C1CDCAC7-215B-4CAE-8046-2230955A95E0",
+"style":{
+"_class":"style",
+"do_objectID":"5B9C540B-1418-404A-A3A8-C27C5EEA96D9",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.586206896551724,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":0.12,
+"blue":0.5019607843137255,
+"green":0.4627450980392157,
+"red":0.4627450980392157
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":2,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":6.008275862068965,
+"curveFrom":"{5.5244816412483877e-18, 1.4797718681915328e-17}",
+"curveMode":1,
+"curveTo":"{5.5244816412483877e-18, 1.4797718681915328e-17}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{5.5244816412483877e-18, 1.4797718681915328e-17}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":6.008275862068965,
+"curveFrom":"{0.99999999999999989, 1.4797718681915328e-17}",
+"curveMode":1,
+"curveTo":"{0.99999999999999989, 1.4797718681915328e-17}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.99999999999999989, 1.4797718681915328e-17}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":6.008275862068965,
+"curveFrom":"{0.99999999999999989, 0.99999999999999989}",
+"curveMode":1,
+"curveTo":"{0.99999999999999989, 0.99999999999999989}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.99999999999999989, 0.99999999999999989}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":6.008275862068965,
+"curveFrom":"{5.5244816412483877e-18, 0.99999999999999989}",
+"curveMode":1,
+"curveTo":"{5.5244816412483877e-18, 0.99999999999999989}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{5.5244816412483877e-18, 0.99999999999999989}"
+}
+],
+"fixedRadius":6.008275862068965,
+"needsConvertionToNewRoundCorners":false,
+"hasConvertedToNewRoundCorners":true
+},
+{
+"_class":"symbolInstance",
+"do_objectID":"46B2B29B-1715-42E7-ABFB-A1993F9668C1",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"👽Iconography/Filled icons/ICNM-F033 ( Minus )",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":true,
+"height":13,
+"width":13,
+"x":11.37931034482759,
+"y":4.551724137931034
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"CA0E90B4-F4F8-41D9-AADF-B73D263F2FF0",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.586206896551724,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":false,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"horizontalSpacing":0,
+"scale":0.7586206896551724,
+"symbolID":"31255EED-73B7-419A-90AD-A51D2BAAD85C",
+"verticalSpacing":0,
+"overrideValues":[
+{
+"_class":"overrideValue",
+"overrideName":"82BE8FEE-84B0-4323-880D-8DAC0B9F56C1_layerStyle",
+"value":"3EBC1282-B027-4C05-88CC-101137D0AE4E"
+}
+]
+},
+{
+"_class":"symbolInstance",
+"do_objectID":"91F1F1C8-5003-4C7C-8134-14F5E9236F31",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"👽Iconography/Filled icons/ICNM-F033 ( Minus ) Copy",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":true,
+"height":13,
+"width":13,
+"x":50.06896551724137,
+"y":4.551724137931034
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"DA816DCF-A8BA-42F4-BFE6-08CD1A256FEA",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.586206896551724,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":false,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"horizontalSpacing":0,
+"scale":0.7586206896551724,
+"symbolID":"58AA0028-F9E0-4355-ACC7-8F5949C32524",
+"verticalSpacing":0,
+"overrideValues":[
+{
+"_class":"overrideValue",
+"overrideName":"391186B4-4587-4471-96B6-78A6F059F40E_layerStyle",
+"value":"3EBC1282-B027-4C05-88CC-101137D0AE4E"
+}
+]
+},
+{
+"_class":"rectangle",
+"do_objectID":"6A1750B9-A657-4D7A-8C3C-15A937CA1F42",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Seperator",
+"nameIsFixed":true,
+"resizingConstraint":45,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":10.76482758620689,
+"width":0.7510344827586206,
+"x":37.55172413793104,
+"y":5.507586206896566
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"8F8463CE-A994-4D13-94CA-5E10427249E9",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.586206896551724,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":0.18,
+"blue":0.2627450980392157,
+"green":0.2352941176470588,
+"red":0.2352941176470588
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":false,
+"isClosed":true,
+"pointRadiusBehaviour":2,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0.3755172413793103,
+"curveFrom":"{0, 0}",
+"curveMode":1,
+"curveTo":"{0, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0.3755172413793103,
+"curveFrom":"{1, 0}",
+"curveMode":1,
+"curveTo":"{1, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0.3755172413793103,
+"curveFrom":"{1, 1}",
+"curveMode":1,
+"curveTo":"{1, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0.3755172413793103,
+"curveFrom":"{0, 1}",
+"curveMode":1,
+"curveTo":"{0, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 1}"
+}
+],
+"fixedRadius":0.3755172413793103,
+"needsConvertionToNewRoundCorners":false,
+"hasConvertedToNewRoundCorners":true
+}
+]
+}
+],
+"hasBackgroundColor":false,
+"includeBackgroundColorInExport":true,
+"includeInCloudUpload":true,
+"isFlowHome":false,
+"presetDictionary":{},
+"resizesContent":false,
+"backgroundColor":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"grid":{
+"_class":"simpleGrid",
+"isEnabled":false,
+"gridSize":20,
+"thickGridTimes":10
+},
+"horizontalRulerData":{
+"_class":"rulerData",
+"base":0,
+"guides":[]
+},
+"verticalRulerData":{
+"_class":"rulerData",
+"base":0,
+"guides":[]
+},
+"includeBackgroundColorInInstance":true,
+"symbolID":"2B758D0B-786E-4913-95C0-77B5A925FF0E",
+"changeIdentifier":744,
+"overrideProperties":[
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"46B2B29B-1715-42E7-ABFB-A1993F9668C1_symbolID"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"EC57641B-9A70-4CCF-9A71-0B4DBEBB60D7_layerStyle"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"91F1F1C8-5003-4C7C-8134-14F5E9236F31_symbolID"
+}
+],
+"allowsOverrides":true
+},
+{
+"_class":"symbolMaster",
+"do_objectID":"16975D87-4F93-469B-B5FC-AABB294BF295",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":2,
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/MIC-S001 ( Add and Remove )",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":true,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":22,
+"width":76,
+"x":902,
+"y":640
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"203839D1-5AE5-444F-91DD-A6FF5FC03613",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"group",
+"do_objectID":"4FA67D45-0E5C-43B2-BA3A-2A48D3A017BF",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":2,
+"name":"Stepper",
+"nameIsFixed":true,
+"resizingConstraint":44,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":22,
+"width":76,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"89CED2C8-11B2-4B39-A041-457EC0D543C8",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.586206896551724,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"rectangle",
+"do_objectID":"80BA49BF-4877-48F8-8A6B-4F9B83C1B498",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Platter",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":21.78,
+"width":75.85448275862069,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"sharedStyleID":"B5F6B253-70AF-451C-BF1C-A79E52F39EE4",
+"style":{
+"_class":"style",
+"do_objectID":"E012402B-06F1-4025-B2DB-9981B9025866",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":false,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.07058823529411765,
+"green":0.07058823529411765,
+"red":0.07058823529411765
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+},
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":0.78,
+"blue":0.1450980392156863,
+"green":0.1450980392156863,
+"red":0.1450980392156863
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":0.5,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":0.5,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":0.5,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[
+{
+"_class":"shadow",
+"isEnabled":false,
+"blurRadius":15,
+"offsetX":0,
+"offsetY":11,
+"spread":-7,
+"color":{
+"_class":"color",
+"alpha":0.2,
+"blue":0,
+"green":0,
+"red":0
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+}
+},
+{
+"_class":"shadow",
+"isEnabled":false,
+"blurRadius":46,
+"offsetX":0,
+"offsetY":9,
+"spread":8,
+"color":{
+"_class":"color",
+"alpha":0.12,
+"blue":0,
+"green":0,
+"red":0
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+}
+},
+{
+"_class":"shadow",
+"isEnabled":false,
+"blurRadius":38,
+"offsetX":0,
+"offsetY":24,
+"spread":3,
+"color":{
+"_class":"color",
+"alpha":0.14,
+"blue":0,
+"green":0,
+"red":0
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+}
+}
+]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":2,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":6.008275862068965,
+"curveFrom":"{5.5244816412483877e-18, 1.4797718681915328e-17}",
+"curveMode":1,
+"curveTo":"{5.5244816412483877e-18, 1.4797718681915328e-17}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{5.5244816412483877e-18, 1.4797718681915328e-17}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":6.008275862068965,
+"curveFrom":"{0.99999999999999989, 1.4797718681915328e-17}",
+"curveMode":1,
+"curveTo":"{0.99999999999999989, 1.4797718681915328e-17}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.99999999999999989, 1.4797718681915328e-17}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":6.008275862068965,
+"curveFrom":"{0.99999999999999989, 0.99999999999999989}",
+"curveMode":1,
+"curveTo":"{0.99999999999999989, 0.99999999999999989}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.99999999999999989, 0.99999999999999989}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":6.008275862068965,
+"curveFrom":"{5.5244816412483877e-18, 0.99999999999999989}",
+"curveMode":1,
+"curveTo":"{5.5244816412483877e-18, 0.99999999999999989}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{5.5244816412483877e-18, 0.99999999999999989}"
+}
+],
+"fixedRadius":6.008275862068965,
+"needsConvertionToNewRoundCorners":false,
+"hasConvertedToNewRoundCorners":true
+},
+{
+"_class":"symbolInstance",
+"do_objectID":"DFE5025F-4D44-477C-9A23-70B89227D4C8",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"👽Iconography/Filled icons/ICNM-F033 ( Minus )",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":true,
+"height":13,
+"width":13,
+"x":11.37931034482759,
+"y":4.551724137931034
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"E5087A2A-2DD4-4F9B-A76F-EAD7419DF8D8",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.586206896551724,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":false,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"horizontalSpacing":0,
+"scale":0.7586206896551724,
+"symbolID":"31255EED-73B7-419A-90AD-A51D2BAAD85C",
+"verticalSpacing":0,
+"overrideValues":[
+{
+"_class":"overrideValue",
+"overrideName":"82BE8FEE-84B0-4323-880D-8DAC0B9F56C1_layerStyle",
+"value":"FA226FBB-0172-4176-AB86-5442B2631DF0"
+}
+]
+},
+{
+"_class":"symbolInstance",
+"do_objectID":"6D245DDD-7B7A-4002-9D46-C8A755349D13",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"👽Iconography/Filled icons/ICNM-F033 ( Minus ) Copy",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":true,
+"height":13,
+"width":13,
+"x":50.06896551724137,
+"y":4.551724137931034
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"7CA08F19-060B-4B9C-9D95-C9E6E25C6DF1",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.586206896551724,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":false,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"horizontalSpacing":0,
+"scale":0.7586206896551724,
+"symbolID":"58AA0028-F9E0-4355-ACC7-8F5949C32524",
+"verticalSpacing":0,
+"overrideValues":[
+{
+"_class":"overrideValue",
+"overrideName":"391186B4-4587-4471-96B6-78A6F059F40E_layerStyle",
+"value":"FA226FBB-0172-4176-AB86-5442B2631DF0"
+}
+]
+},
+{
+"_class":"rectangle",
+"do_objectID":"DA4BF0B9-4988-4546-922C-659C1199CA99",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Seperator",
+"nameIsFixed":true,
+"resizingConstraint":45,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":10.76482758620689,
+"width":0.7510344827586206,
+"x":37.55172413793104,
+"y":5.507586206896566
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"66D92F32-CAFC-4ECD-99B2-AE67F9003872",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.586206896551724,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":0.18,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":false,
+"isClosed":true,
+"pointRadiusBehaviour":2,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0.3755172413793103,
+"curveFrom":"{0, 0}",
+"curveMode":1,
+"curveTo":"{0, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0.3755172413793103,
+"curveFrom":"{1, 0}",
+"curveMode":1,
+"curveTo":"{1, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0.3755172413793103,
+"curveFrom":"{1, 1}",
+"curveMode":1,
+"curveTo":"{1, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0.3755172413793103,
+"curveFrom":"{0, 1}",
+"curveMode":1,
+"curveTo":"{0, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 1}"
+}
+],
+"fixedRadius":0.3755172413793103,
+"needsConvertionToNewRoundCorners":false,
+"hasConvertedToNewRoundCorners":true
+}
+]
+}
+],
+"hasBackgroundColor":true,
+"includeBackgroundColorInExport":true,
+"includeInCloudUpload":true,
+"isFlowHome":false,
+"presetDictionary":{},
+"resizesContent":false,
+"backgroundColor":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+},
+"grid":{
+"_class":"simpleGrid",
+"isEnabled":false,
+"gridSize":20,
+"thickGridTimes":10
+},
+"horizontalRulerData":{
+"_class":"rulerData",
+"base":0,
+"guides":[]
+},
+"verticalRulerData":{
+"_class":"rulerData",
+"base":0,
+"guides":[]
+},
+"includeBackgroundColorInInstance":true,
+"symbolID":"9DC2AE2B-AC20-4EBC-B946-7210660D08CD",
+"changeIdentifier":876,
+"overrideProperties":[
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"80BA49BF-4877-48F8-8A6B-4F9B83C1B498_layerStyle"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"6D245DDD-7B7A-4002-9D46-C8A755349D13_symbolID"
+},
+{
+"_class":"MSImmutableOverrideProperty",
+"canOverride":true,
+"overrideName":"DFE5025F-4D44-477C-9A23-70B89227D4C8_symbolID"
 }
 ],
 "allowsOverrides":true

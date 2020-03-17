@@ -20630,9 +20630,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.203921568627451,
-"green":0.2431372549019608,
-"red":0.1411764705882353
+"blue":0.1490196078431373,
+"green":0.192156862745098,
+"red":0
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -21164,7 +21164,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"4B6AD777-FF6A-403C-9C68-0A8307088EEE",
-"changeIdentifier":810,
+"changeIdentifier":816,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -57039,9 +57039,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.4862745098039216,
-"green":0.8156862745098039,
-"red":0.1490196078431373
+"blue":0.5019607843137255,
+"green":0.7843137254901961,
+"red":0.02745098039215686
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -57460,7 +57460,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"0BFCB069-4B1F-4846-9399-D145E72EBC18",
-"changeIdentifier":1996,
+"changeIdentifier":2002,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",

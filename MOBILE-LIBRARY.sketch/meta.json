@@ -317,271 +317,277 @@
 }
 },
 "B3877B55-CA1E-4675-AE7E-4680C7345D20":{
-"name":"🍎UI Controls (MIC000)",
+"name":"🍎UI Atomics (MIC000)",
 "artboards":{
 "A4A5AD5D-339B-499B-9FF6-70586216A797":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Search/MIDC-E001 (Field Empty)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Search/MIDC-E001 (Field Empty)"
 },
 "5C747B9E-0985-474E-BE75-C725B4DE6A27":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Check-Box/MIDC-SC002 ( Unchecked )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Check-Box/MIDC-SC002 ( Unchecked )"
 },
 "2E28062A-A660-4880-89B3-B9ED0AFC1976":{
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M003 (Action menu 2)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M003 (Action menu 2)"
 },
 "DD3A6C34-3AA1-44B7-9B46-4BC69D57318C":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Chips/MIDC-C001 (Style1)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Chips/MIDC-C001 (Style1)"
 },
 "2531C573-95C9-42BB-99D0-A21E5FFEC538":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Outlined/MIC-BL001 ( Large button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Outlined/MIC-BL001 ( Large button )"
 },
 "7819FEC1-197D-48AB-A1C4-25624BADF5A7":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Swicher/MIDC-SS002 ( OFF )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Swicher/MIDC-SS002 ( OFF )"
 },
 "F3CBC2A7-0A58-44EE-9A5B-A26310B657F5":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Outlined/MIC-BL004 ( Optional button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Outlined/MIC-BL004 ( Optional button )"
 },
 "C7D2D11B-FDD6-4DB9-B648-549168A1BF80":{
-"name":"🍎iOS/🌕 Light/UI Controls/Search/MIC-E002 (Field Focus)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Search/MIC-E002 (Field Focus)"
 },
 "0297B407-96DE-4DC6-B655-9FDE46C1F582":{
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Full-Rounded/MIC-IF002 ( Active )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Full-Rounded/MIC-IF002 ( Active )"
 },
 "32E23E7D-3AEE-4894-B44F-6FF621445AFC":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Web Services/MIDC-BW001 ( Certificates and permits Button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Web Services/MIDC-BW001 ( Certificates and permits Button )"
 },
 "7B8B6C5D-2CAF-4AC8-820B-6ACAC944F124":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M001 (Screen menu)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M001 (Screen menu)"
 },
 "F9D25A9D-D0D9-49F8-8900-417169D101BE":{
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Full-Rounded/MIC-IF003 ( Focused )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Full-Rounded/MIC-IF003 ( Focused )"
 },
 "582771D7-37B5-4204-907C-B1CF7AA62CCD":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Semi-Rounded/MIDC-IS002 ( Active )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MIDC-IS002 ( Active )"
 },
 "BB4625B4-B39A-46E2-BFE1-98968DB5B21F":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Outlined/MIDC-BL002 ( Regular button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Outlined/MIDC-BL002 ( Regular button )"
 },
 "1E835E47-1B95-4774-A37A-5AEB1A71B451":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Semi-Rounded/MIDC-IS003 ( Focused )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MIDC-IS003 ( Focused )"
 },
 "F5671B44-E91C-4D48-9738-57704F84A251":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Swicher/MIDC-SS001 ( ON )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Swicher/MIDC-SS001 ( ON )"
 },
 "F309A391-7405-4353-B2BA-E2D846745174":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Full-Rounded/MIDC-IF001 ( Inactive )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MIDC-IF001 ( Inactive )"
 },
 "8CBBA466-F3A4-414A-ACD7-D3B13739F46F":{
-"name":"🍎iOS/🌕 Light/UI Controls/Slider/MIC-D002 (Table View Row)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Slider/MIC-D002 (Table View Row)"
 },
 "9089F97B-DA77-4543-AE66-6B4C408F2392":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Web Services/MIC-BW001 ( Certificates and permits Button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Web Services/MIC-BW001 ( Certificates and permits Button )"
 },
 "BA28B0DE-DEF0-4D61-B4B6-45DA171FD041":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Web Services/MIC-BW003 ( Save people life & criminal service Button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Web Services/MIC-BW003 ( Save people life & criminal service Button )"
 },
 "76A72EB1-7500-49FF-A630-B71D2EB2013A":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/FAB/MIC-BA001 ( FAB1 )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/FAB/MIC-BA001 ( FAB1 )"
 },
 "8EB407F1-BD24-4B38-9CAD-3252FE4C6F53":{
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Check-Box/MIC-SC002 ( Unchecked )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Check-Box/MIC-SC002 ( Unchecked )"
 },
 "778BA470-34B8-4F3E-A224-D47D60D2A265":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Filled/MIDC-BF003 ( Small button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Filled/MIDC-BF003 ( Small button )"
 },
 "9D3C9DC8-980E-4BCF-AED9-EAC8988347AF":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Text button/MIC-BT003 (2 Buttons)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Text button/MIC-BT003 (2 Buttons)"
 },
 "95B2DBDB-4477-408F-A706-4AFA7FAE3EAC":{
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Swicher/MIC-SS001 ( ON )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Swicher/MIC-SS001 ( ON )"
 },
 "9BFC330E-55AC-4152-A609-63B6E9C39136":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Line input/MIDC-IL003 ( Focused )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Line input/MIDC-IL003 ( Focused )"
 },
 "ABC20A25-9821-4AB6-9A08-D92C496BFDA9":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Filled/MIDC-BF001 ( Large button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Filled/MIDC-BF001 ( Large button )"
 },
 "1808FB8D-0AC0-4EFB-968B-97DB17784C7F":{
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Semi-Rounded/MIC-IS003 ( Focused )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Semi-Rounded/MIC-IS003 ( Focused )"
 },
 "EFFC965B-BE3E-4257-972C-94BD684499D5":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT001 (Preferred)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Text button/MIDC-BT001 (Preferred)"
+},
+"779E510F-33AA-4733-B0A8-80C36BA83C87":{
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/MIC-S001 ( Add and Remove )"
 },
 "ED6C0847-9F18-460B-B007-6DBEE9FAD4B7":{
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M002 (Action menu 1)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M002 (Action menu 1)"
 },
 "EAC24B02-BD95-493F-98E2-AE75DE8DFCA5":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Outlined/MIDC-BL003 ( Small button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Outlined/MIDC-BL003 ( Small button )"
 },
 "90F75CED-98B6-48D4-A3AB-F80681EB3518":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Line input/MIDC-IL002 ( Active )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Line input/MIDC-IL002 ( Active )"
 },
 "2878D934-5CB5-4EE2-B393-4C88CDAE855C":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Outlined/MIDC-BL001 ( Large button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Outlined/MIDC-BL001 ( Large button )"
 },
 "0D7DDF38-2D77-45FB-9829-532F2B0C55D8":{
-"name":"🍎iOS/🌕 Light/UI Controls/Chips/MIC-C004 (Style4)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Chips/MIC-C004 (Style4)"
 },
 "6A77E7A7-F95F-4389-BDD0-E1501437D15D":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/FAB/MIDC-BA001 ( FAB1 )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/FAB/MIDC-BA001 ( FAB1 )"
 },
 "91C6F14E-4F2F-4FF3-AC38-349851A55225":{
-"name":"🍎iOS/🌕 Light/UI Controls/Chips/MIC-C002 (Style2)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Chips/MIC-C002 (Style2)"
 },
 "644B9722-1809-428E-9DE4-10CB2B26CB64":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Text button/MIC-BT001 (Preferred)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Text button/MIC-BT001 (Preferred)"
 },
 "FACB2F40-5585-4570-A086-4D2A5588D4AB":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Chips/MIDC-C003 (Style3)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Chips/MIDC-C003 (Style3)"
 },
 "2817FAAF-1B6C-43E3-8623-80E1B6354214":{
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M004 (Action menu services 1)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M004 (Action menu services 1)"
 },
 "60DF9B0C-AE49-43A0-AC44-8F5D1CA4094C":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Web Services/MIDC-BW003 ( Save people life & criminal service Button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Web Services/MIDC-BW003 ( Save people life & criminal service Button )"
 },
 "4C47C1A3-9015-4712-9150-C5CC3011ADE4":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Text button/MIC-BT002 (Regular)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Text button/MIC-BT002 (Regular)"
 },
 "769712B8-6940-4FE6-A79F-3ADE0EB3164F":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Outlined/MIDC-BL004 ( Optional button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Outlined/MIDC-BL004 ( Optional button )"
 },
 "0F68DAEA-DD6D-40ED-B8F7-DA3FC7ED760F":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT003 (2 Buttons)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Text button/MIDC-BT003 (2 Buttons)"
 },
 "F62F7E4C-EDFA-458E-911A-2344753DCBB9":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Radio-Button/MIDC-SR002 ( Unchecked )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Radio-Button/MIDC-SR002 ( Unchecked )"
 },
 "94167988-66AE-4BAB-ACF1-12BE33054E94":{
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Semi-Rounded/MIC-IS001 ( Inactive )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Semi-Rounded/MIC-IS001 ( Inactive )"
 },
 "182E043C-2711-4B75-9936-A17E6EF01B22":{
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Radio-Button/MIC-SR001 ( Checked )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Radio-Button/MIC-SR001 ( Checked )"
 },
 "B1293881-34BD-408B-89F0-7054A9855A0C":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Check-Box/MIDC-SC001 ( Checked )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Check-Box/MIDC-SC001 ( Checked )"
 },
 "2E012F73-0514-4110-8234-EA57367B76DD":{
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Line input/MIC-IL001 ( Inctive )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Line input/MIC-IL001 ( Inctive )"
 },
 "BC42DA4F-40FB-496A-BB82-BE1FFECED05A":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Web Services/MIC-BW002 ( Traffic services Button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Web Services/MIC-BW002 ( Traffic services Button )"
 },
 "F22D2D68-2BC8-4B12-A577-96745C89864C":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M002 (Action menu 1)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M002 (Action menu 1)"
 },
 "053E18EF-1795-4493-B795-649689365D1F":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Slider/MIDC-D002 (Table View Row)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Slider/MIDC-D002 (Table View Row)"
 },
 "592B078D-0707-4095-91E3-C2D19A22B216":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Filled/MIC-BF003 ( Small button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Filled/MIC-BF003 ( Small button )"
 },
 "DC1DD450-4519-421E-8BC0-FA8865143287":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Web Services/MIC-BW004 ( General Services Button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Web Services/MIC-BW004 ( General Services Button )"
 },
 "D3626497-FFEF-430C-921F-8F930A6F835A":{
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Full-Rounded/MIC-IF001 ( Inactive )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Full-Rounded/MIC-IF001 ( Inactive )"
 },
 "C9C0E24F-D2A9-4A14-A259-8B9412D4353C":{
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Semi-Rounded/MIC-IS002 ( Active )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Semi-Rounded/MIC-IS002 ( Active )"
 },
 "EB8AF945-166B-4A7D-B79A-BF43DB6EF3D4":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/FAB/MIDC-BA002 ( FAB2 )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/FAB/MIDC-BA002 ( FAB2 )"
 },
 "2A015069-817E-4FFB-851E-4434450F5A61":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M004 (Action menu services 1)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M004 (Action menu services 1)"
 },
 "F5B794B1-16A1-42AF-BA1D-6E2DC6211602":{
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Check-Box/MIC-SC001 ( Checked )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Check-Box/MIC-SC001 ( Checked )"
 },
 "D1EC1A1F-110F-4090-98CF-1959DFC68C57":{
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Swicher/MIC-SS002 ( OFF )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Swicher/MIC-SS002 ( OFF )"
 },
 "8D14BABF-DB19-46E3-88A4-D1C15598BD9C":{
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Line input/MIC-IL002 ( Active )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Line input/MIC-IL002 ( Active )"
 },
 "BABD796C-C94D-42AE-83CD-D6909FD4961E":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Filled/MIC-BF001 ( Large button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Filled/MIC-BF001 ( Large button )"
 },
 "2ADF2EE5-9A01-4A72-B376-4C6F8CFD6A22":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Web Services/MIDC-BW004 ( General Services Button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Web Services/MIDC-BW004 ( General Services Button )"
 },
 "E844387D-A5AB-443E-81B4-15F748ADF638":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M005 (Action menu services 2)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M005 (Action menu services 2)"
 },
 "401DC4BA-6793-4B1E-B4B9-B8A5C03F767B":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Text button/MIDC-BT002 (Regular)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Text button/MIDC-BT002 (Regular)"
 },
 "7B8E0144-070E-45D5-82CC-FAC7C8EAD72B":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Slider/MIDC-D001 (Regular)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Slider/MIDC-D001 (Regular)"
 },
 "8414ACA7-C174-4B30-8CDF-7F258758E0EA":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Filled/MIDC-BF002 ( Regular button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Filled/MIDC-BF002 ( Regular button )"
 },
 "CFEBB0A1-C77A-49F3-92E6-1EC47657BB5C":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Menus/MIDC-M003 (Action menu 2)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Menus/MIDC-M003 (Action menu 2)"
 },
 "9929CEB4-D422-49E5-BCB7-FA9B2E808490":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Semi-Rounded/MIDC-IS001 ( Inactive )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MIDC-IS001 ( Inactive )"
 },
 "5B281CA1-A25D-4F04-A629-A135247A5617":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Search/MIDC-E002 (Field Focus)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Search/MIDC-E002 (Field Focus)"
+},
+"16975D87-4F93-469B-B5FC-AABB294BF295":{
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/MIC-S001 ( Add and Remove )"
 },
 "D9942AD7-99B4-443F-A2C6-159B9E2F8451":{
-"name":"🍎iOS/🌕 Light/UI Controls/Chips/MIC-C003 (Style3)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Chips/MIC-C003 (Style3)"
 },
 "CC14F997-D9F7-4A58-9066-B553C2FD6014":{
-"name":"🍎iOS/🌕 Light/UI Controls/Slider/MIC-D001 (Regular)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Slider/MIC-D001 (Regular)"
 },
 "B40ECABB-D9FE-4FA4-BD7E-E77CED80FA80":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Chips/MIDC-C002 (Style2)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Chips/MIDC-C002 (Style2)"
 },
 "4F00751C-E27F-4E06-8BDF-8BED4ABB990C":{
-"name":"🍎iOS/🌕 Light/UI Controls/Chips/MIC-C001 (Style1)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Chips/MIC-C001 (Style1)"
 },
 "630C06A6-5E29-4854-85C3-BB93D8BA99F0":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Filled/MIC-BF002 ( Regular button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Filled/MIC-BF002 ( Regular button )"
 },
 "68B9BEF3-2216-4634-BC0B-79C778617628":{
-"name":"🍎iOS/🌕 Light/UI Controls/Selection/Radio-Button/MIC-SR002 ( Unchecked )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Radio-Button/MIC-SR002 ( Unchecked )"
 },
 "E86EFD7F-4D1C-47A5-A949-3DB6D25A3034":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Full-Rounded/MIDC-IF002 ( Active )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MIDC-IF002 ( Active )"
 },
 "424B979E-CE3E-4D0D-99E1-EBBFAAD225D2":{
-"name":"🍎iOS/🌕 Light/UI Controls/Inputs/Line input/MIC-IL003 ( Focused )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Inputs/Line input/MIC-IL003 ( Focused )"
 },
 "D3DB029E-7A50-4AD2-AE93-DB3E1C51E2A5":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Buttons/Web Services/MIDC-BW002 ( Traffic services Button )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Web Services/MIDC-BW002 ( Traffic services Button )"
 },
 "A92A289D-359B-46AA-AA80-5B49EBD14007":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Outlined/MIC-BL002 ( Regular button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Outlined/MIC-BL002 ( Regular button )"
 },
 "09E46D7C-A989-45E8-AAAD-3BB0F2C09FBB":{
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M001 (Screen menu)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M001 (Screen menu)"
 },
 "070EC9C0-2E15-4E11-92F1-0E2EDE58ABEA":{
-"name":"🍎iOS/🌕 Light/UI Controls/Menus/MIC-M005 (Action menu services 2)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M005 (Action menu services 2)"
 },
 "087B4ECA-33DD-4B35-A845-06E850B36EDD":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Full-Rounded/MIDC-IF003 ( Focused )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MIDC-IF003 ( Focused )"
 },
 "A7CEBB4C-CDFB-4475-B515-19A496CA32AB":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Selection/Radio-Button/MIDC-SR001 ( Checked )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Radio-Button/MIDC-SR001 ( Checked )"
 },
 "9B308AFC-1F1A-44D5-854B-B4B3CC9F132C":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/FAB/MIC-BA002 ( FAB2 )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/FAB/MIC-BA002 ( FAB2 )"
 },
 "46FEEBC8-9F24-45F9-8683-02C9109A89C8":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Chips/MIDC-C004 (Style4)"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Chips/MIDC-C004 (Style4)"
 },
 "6B7FDF2D-F367-47DE-AF29-53A7AD59E069":{
-"name":"🍎iOS/🌕 Light/UI Controls/Search/MIC-E001 (Field Empty)"
+"name":"🍎iOS/🌕 Light/UI Atomics/Search/MIC-E001 (Field Empty)"
 },
 "D2F8B3F5-D7EC-4894-B768-8AB9EDFE4C32":{
-"name":"🍎iOS/🌕 Light/UI Controls/Buttons/Outlined/MIC-BL003 ( Small button )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Buttons/Outlined/MIC-BL003 ( Small button )"
 },
 "2A06BA86-9FD4-44D6-9B48-B2AAA6019E5E":{
-"name":"🍎iOS/🌑 Dark/UI Controls/Inputs/Line input/MIDC-IL001 ( Inctive )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Line input/MIDC-IL001 ( Inctive )"
 }
 }
 },
@@ -1020,6 +1026,9 @@
 "1C21FFF5-E8AE-4D79-8289-CEB5B91E9D82":{
 "name":"🤖Android/🌑 Dark/UI Bars/Navigation bar/Links/MADB-NL004 (Services inctive)"
 },
+"809DB03D-574C-478E-BBF1-672373ACADF7":{
+"name":"Android"
+},
 "3D76B446-2AF4-4F56-A741-751C31D6BD2F":{
 "name":"🤖Android/🌕 Light/UI Bars/Navigation bar/Links/MAB-NL010 (Amna)"
 },
@@ -1083,271 +1092,277 @@
 }
 },
 "573DFC53-C8CC-4A59-B33F-872FE20AD94C":{
-"name":"🤖UI Controls (MAC000)",
+"name":"🤖UI Atomics (MAC000)",
 "artboards":{
 "9BDA3984-5466-4CBD-A871-313AD75779D4":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/FAB/MAC-BA002 ( FAB2 )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/FAB/MAC-BA002 ( FAB2 )"
 },
 "9B0515CD-D7B6-472D-8F3F-AE50E42C3F6F":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Web Services/MAC-BW003 ( Save people life & criminal service Button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Web Services/MAC-BW003 ( Save people life & criminal service Button )"
 },
 "13EDF724-AE2D-462D-958D-81FB13EBB7F7":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Web Services/MAC-BW001 ( Certificates and permits Button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Web Services/MAC-BW001 ( Certificates and permits Button )"
 },
 "283C457E-5497-49D6-824F-D329DA8FEC10":{
-"name":"🤖Android/🌑 Dark/UI Controls/Chips/MADC-C001 (Style1)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Chips/MADC-C001 (Style1)"
 },
 "AC69594F-261B-44C7-8DFF-3B8CCD59C7F2":{
-"name":"🤖Android/🌑 Dark/UI Controls/Inputs/Full-Rounded/MADC-IF002 ( Active )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MADC-IF002 ( Active )"
 },
 "3AFC2A29-C9B1-4969-AF5B-2083F2BD17CD":{
-"name":"🤖Android/🌑 Dark/UI Controls/Inputs/Line input/MADC-IL003 ( Focused )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Line input/MADC-IL003 ( Focused )"
 },
 "6397BE07-EAAD-4155-AD2B-A2788A973242":{
-"name":"🤖Android/🌕 Light/UI Controls/Selection/Check-Box/MAC-SC001 ( Checked )"
+"name":"🤖Android/🌕 Light/UI Atomics/Selection/Check-Box/MAC-SC001 ( Checked )"
 },
 "E1402488-D78C-49B5-9357-BEC4110ADEA8":{
-"name":"🤖Android/🌑 Dark/UI Controls/Menus/MADC-M003 (Action menu 2)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Menus/MADC-M003 (Action menu 2)"
 },
 "8A685DF3-682E-4796-8992-5FFC702F292E":{
-"name":"🤖Android/🌕 Light/UI Controls/Selection/Check-Box/MAC-SC002 ( Unchecked )"
+"name":"🤖Android/🌕 Light/UI Atomics/Selection/Check-Box/MAC-SC002 ( Unchecked )"
 },
 "C6703B9B-239B-448E-B734-105F0BB33AB0":{
-"name":"🤖Android/🌕 Light/UI Controls/Selection/Radio-Button/MAC-SR001 ( Checked )"
+"name":"🤖Android/🌕 Light/UI Atomics/Selection/Radio-Button/MAC-SR001 ( Checked )"
 },
 "BDEF2E92-9E0A-46BE-88C7-4AD4D9DBDB4C":{
-"name":"🤖Android/🌕 Light/UI Controls/Menus/MAC-M004 (Action menu services 1)"
+"name":"🤖Android/🌕 Light/UI Atomics/Menus/MAC-M004 (Action menu services 1)"
 },
 "B21A6A3C-DDD7-4537-8988-E7D0D1781549":{
-"name":"🤖Android/🌑 Dark/UI Controls/Selection/Check-Box/MADC-SC002 ( Unchecked )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Selection/Check-Box/MADC-SC002 ( Unchecked )"
 },
 "F3AB7948-9589-48E8-BABB-35FECA917FEF":{
-"name":"🤖Android/🌕 Light/UI Controls/Inputs/Semi-Rounded/MAC-IS001 ( Inactive )"
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Semi-Rounded/MAC-IS001 ( Inactive )"
 },
 "9E75ADC3-8790-49F4-94FD-56910E2036A9":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MADC-BT001 (Preferred)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Text button/MADC-BT001 (Preferred)"
 },
 "A9469456-736D-47F7-839F-8852E4A0A433":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Outlined/MADC-BL002 ( Regular button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Outlined/MADC-BL002 ( Regular button )"
 },
 "E5B7F838-A834-4701-A609-2556319B293E":{
-"name":"🤖Android/🌑 Dark/UI Controls/Chips/MADC-C002 (Style2)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Chips/MADC-C002 (Style2)"
 },
 "9EE2672F-E661-4214-85E4-0D5D892E8790":{
-"name":"🤖Android/🌑 Dark/UI Controls/Menus/MADC-M005 (Action menu services 2)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Menus/MADC-M005 (Action menu services 2)"
 },
 "C4AB9F46-6BD3-431E-AA5A-F3D70D29A891":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Filled/MADC-BF001 ( Large button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Filled/MADC-BF001 ( Large button )"
 },
 "95A1F339-18CA-4501-9AE7-FEB94F11BF75":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Outlined/MAC-BL002 ( Regular button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Outlined/MAC-BL002 ( Regular button )"
 },
 "1C4A1110-94C2-42D5-BA10-E6619F0F7D41":{
-"name":"🤖Android/🌑 Dark/UI Controls/Chips/MADC-C004 (Style4)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Chips/MADC-C004 (Style4)"
 },
 "F62D9E81-5580-48E6-ACAD-61CB20B6245F":{
-"name":"🤖Android/🌕 Light/UI Controls/Inputs/Semi-Rounded/MAC-IS002 ( Active )"
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Semi-Rounded/MAC-IS002 ( Active )"
 },
 "C9EF5016-401D-4489-9EAB-1506BFDDD17A":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Filled/MAC-BF001 ( Large button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Filled/MAC-BF001 ( Large button )"
 },
 "2CD843CD-1E42-4217-B0FF-EC7FC439B061":{
-"name":"🤖Android/🌕 Light/UI Controls/Chips/MAC-C004 (Style4)"
+"name":"🤖Android/🌕 Light/UI Atomics/Chips/MAC-C004 (Style4)"
 },
 "8FF7481C-41E7-460E-A56B-584FC51057A6":{
-"name":"🤖Android/🌕 Light/UI Controls/Menus/MAC-M005 (Action menu services 2)"
+"name":"🤖Android/🌕 Light/UI Atomics/Menus/MAC-M005 (Action menu services 2)"
 },
 "721DD441-7534-48A4-8535-E4BEA1363144":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Outlined/MAC-BL001 ( Large button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Outlined/MAC-BL001 ( Large button )"
 },
 "03AC6F5E-6185-498C-BC98-F22B23AED425":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Filled/MAC-BF002 ( Regular button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Filled/MAC-BF002 ( Regular button )"
 },
 "FC8F3494-397E-4019-BF64-3C7C760DC2E4":{
-"name":"🤖Android/🌕 Light/UI Controls/Selection/Swicher/MAC-SS001 ( ON )"
+"name":"🤖Android/🌕 Light/UI Atomics/Selection/Swicher/MAC-SS001 ( ON )"
 },
 "35EDAFA6-3011-4211-9398-B8428AC63159":{
-"name":"🤖Android/🌕 Light/UI Controls/Menus/MAC-M001 (Screen menu)"
+"name":"🤖Android/🌕 Light/UI Atomics/Menus/MAC-M001 (Screen menu)"
 },
 "C7E63BB4-4076-4B2C-AF47-162B492D28BE":{
-"name":"🤖Android/🌑 Dark/UI Controls/Menus/MADC-M004 (Action menu services 1)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Menus/MADC-M004 (Action menu services 1)"
 },
 "C4A25CFF-31D5-4C24-884B-C51CAE2B9722":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/FAB/MAC-BA001 ( FAB1 )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/FAB/MAC-BA001 ( FAB1 )"
 },
 "89173F70-D792-48E2-B83C-AB04E0D7D836":{
-"name":"🤖Android/🌑 Dark/UI Controls/Search/MADC-E002 (Field Focus)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Search/MADC-E002 (Field Focus)"
 },
 "1E842804-7AC9-453D-9D8D-F477B3CB99A5":{
-"name":"🤖Android/🌑 Dark/UI Controls/Slider/MADC-D001 (Regular)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Slider/MADC-D001 (Regular)"
 },
 "530D52F8-AC81-41B0-A067-5EF829F301B8":{
-"name":"🤖Android/🌑 Dark/UI Controls/Chips/MADC-C003 (Style3)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Chips/MADC-C003 (Style3)"
 },
 "AFBBC5B1-1B1E-489D-A415-196D97CE97BF":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Outlined/MAC-BL003 ( Small button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Outlined/MAC-BL003 ( Small button )"
 },
 "13E70E72-5EF1-46F7-A31D-C268099CF2D7":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Web Services/MADC-BW002 ( Traffic services Button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Web Services/MADC-BW002 ( Traffic services Button )"
 },
 "919B32B8-A1C3-4AAE-B11E-8822E798A9FD":{
-"name":"🤖Android/🌑 Dark/UI Controls/Inputs/Line input/MADC-IL002 ( Active )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Line input/MADC-IL002 ( Active )"
 },
 "8682D918-9ADD-4928-B149-98CA19E813F8":{
-"name":"🤖Android/🌕 Light/UI Controls/Search/MAC-E002 (Field Focus)"
+"name":"🤖Android/🌕 Light/UI Atomics/Search/MAC-E002 (Field Focus)"
 },
 "DB2319BF-EC3E-43F7-A3E9-486542AB0B36":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Filled/MADC-BF003 ( Small button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Filled/MADC-BF003 ( Small button )"
 },
 "011A3F51-3ADE-4F1E-96AA-F32B741C17D1":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Outlined/MAC-BL004 ( Optional button )"
-},
-"D6DBF782-7830-4D4A-911D-0AA01C6B9738":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/FAB/MADC-BA001 ( FAB1 )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Outlined/MAC-BL004 ( Optional button )"
 },
 "A1638B29-4CE3-43D0-B850-495F61F3BC2A":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Web Services/MADC-BW001 ( Certificates and permits Button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Web Services/MADC-BW001 ( Certificates and permits Button )"
 },
 "58906560-EE25-4931-8C94-DE6EC5FF8BE9":{
-"name":"🤖Android/🌕 Light/UI Controls/Selection/Radio-Button/MAC-SR002 ( Unchecked )"
+"name":"🤖Android/🌕 Light/UI Atomics/Selection/Radio-Button/MAC-SR002 ( Unchecked )"
 },
 "75B61A27-6E02-44B9-911D-A47E77E93E1C":{
-"name":"🤖Android/🌑 Dark/UI Controls/Menus/MADC-M001 (Screen menu)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Menus/MADC-M001 (Screen menu)"
 },
 "D452EF49-42FA-4796-AB4F-8AF8B87B17E8":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Web Services/MAC-BW004 ( General Services Button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Web Services/MAC-BW004 ( General Services Button )"
 },
 "3B5481BF-DBCF-4CBD-BDB6-B33CB6AB19C9":{
-"name":"🤖Android/🌑 Dark/UI Controls/Inputs/Full-Rounded/MADC-IF001 ( Inactive )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MADC-IF001 ( Inactive )"
 },
 "5A450C6F-E44B-4445-A70E-91D3F5AEE41C":{
-"name":"🤖Android/🌕 Light/UI Controls/Slider/MAC-D001 (Regular)"
+"name":"🤖Android/🌕 Light/UI Atomics/Slider/MAC-D001 (Regular)"
 },
 "99293066-58CE-43BE-A1F6-3FF5F4102ED3":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Outlined/MADC-BL001 ( Large button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Outlined/MADC-BL001 ( Large button )"
 },
 "CC3BBA27-0EDB-4156-A7AA-619DB9D05ED9":{
-"name":"🤖Android/🌑 Dark/UI Controls/Inputs/Full-Rounded/MADC-IF003 ( Focused )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MADC-IF003 ( Focused )"
 },
 "80B640AD-988B-4B91-B137-D972FAFC8B79":{
-"name":"🤖Android/🌕 Light/UI Controls/Inputs/Full-Rounded/MAC-IF001 ( Inactive )"
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Full-Rounded/MAC-IF001 ( Inactive )"
 },
 "97FB94CD-5BAF-4AB6-AB81-FE9A73C8D592":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Web Services/MADC-BW004 ( General Services Button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Web Services/MADC-BW004 ( General Services Button )"
 },
 "A0F0F94E-AEB6-4DB7-8223-E2F82A003D74":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Filled/MADC-BF002 ( Regular button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Filled/MADC-BF002 ( Regular button )"
 },
 "E6CE747C-EB02-4CC9-B390-B893115F7D9F":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MAC-BT003 (2 Buttons)"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Text button/MAC-BT003 (2 Buttons)"
 },
 "90F1183A-9C2D-412D-B6D4-D44E5334C90A":{
-"name":"🤖Android/🌑 Dark/UI Controls/Selection/Check-Box/MADC-SC001 ( Checked )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Selection/Check-Box/MADC-SC001 ( Checked )"
 },
 "C7E4C3B6-F478-44D6-882F-99BEE5A415F6":{
-"name":"🤖Android/🌕 Light/UI Controls/Chips/MAC-C002 (Style2)"
+"name":"🤖Android/🌕 Light/UI Atomics/Chips/MAC-C002 (Style2)"
 },
 "A58415D7-B14E-4DA7-A301-F9D02444FDCA":{
-"name":"🤖Android/🌕 Light/UI Controls/Selection/Swicher/MAC-SS002 ( OFF )"
+"name":"🤖Android/🌕 Light/UI Atomics/Selection/Swicher/MAC-SS002 ( OFF )"
 },
 "EBD1F570-F013-4A4D-8D10-76258454317F":{
-"name":"🤖Android/🌑 Dark/UI Controls/Inputs/Semi-Rounded/MADC-IS003 ( Focused )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MADC-IS003 ( Focused )"
 },
 "17DA13C3-CD90-45F8-8BC4-89F9C7145B43":{
-"name":"🤖Android/🌑 Dark/UI Controls/Selection/Swicher/MADC-SS001 ( ON )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Selection/Swicher/MADC-SS001 ( ON )"
 },
 "59CE24B7-A409-4180-9FE2-62FF142BE71E":{
-"name":"🤖Android/🌑 Dark/UI Controls/Inputs/Semi-Rounded/MADC-IS001 ( Inactive )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MADC-IS001 ( Inactive )"
 },
 "AAA8F5FF-4CA5-41E1-873B-412C8D489583":{
-"name":"🤖Android/🌕 Light/UI Controls/Menus/MAC-M002 (Action menu 1)"
+"name":"🤖Android/🌕 Light/UI Atomics/Menus/MAC-M002 (Action menu 1)"
 },
 "3EED404D-6F63-4CAF-8220-FF8ED88D4548":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Web Services/MADC-BW003 ( Save people life & criminal service Button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Web Services/MADC-BW003 ( Save people life & criminal service Button )"
 },
 "9301E17C-F139-4B50-A123-09068A57484C":{
-"name":"🤖Android/🌕 Light/UI Controls/Inputs/Semi-Rounded/MAC-IS003 ( Focused )"
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Semi-Rounded/MAC-IS003 ( Focused )"
 },
 "8895554B-A236-49B7-BB58-04525B928C6C":{
-"name":"🤖Android/🌕 Light/UI Controls/Slider/MAC-D002 (Table View Row)"
+"name":"🤖Android/🌕 Light/UI Atomics/Slider/MAC-D002 (Table View Row)"
+},
+"912BAB26-B4E0-4E4F-BCEF-B397E351ED4D":{
+"name":"🤖Android/🌕 Light/UI Atomics/Selection/MIC-S001 ( Add and Remove )"
 },
 "4F6AB51E-0852-4C7D-B797-3C79D8EB1374":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Filled/MAC-BF003 ( Small button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Filled/MAC-BF003 ( Small button )"
+},
+"39DDC61C-9D15-4BA2-8728-55A3B409564C":{
+"name":"🤖Android/🌑 Dark/UI Atomics/Selection/MIC-S001 ( Add and Remove )"
 },
 "E8C80975-9DDA-449B-A07E-2FA2F62DDE24":{
-"name":"🤖Android/🌕 Light/UI Controls/Chips/MAC-C001 (Style1)"
+"name":"🤖Android/🌕 Light/UI Atomics/Chips/MAC-C001 (Style1)"
 },
 "BDBB1F0F-A65C-4168-B0DB-188102286DC5":{
-"name":"🤖Android/🌑 Dark/UI Controls/Selection/Swicher/MADC-SS002 ( OFF )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Selection/Swicher/MADC-SS002 ( OFF )"
 },
 "7B158873-41CD-4003-A1E8-8977640AEF3F":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Web Services/MAC-BW002 ( Traffic services Button )"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Web Services/MAC-BW002 ( Traffic services Button )"
 },
 "7A1DF07F-B7DF-4CAA-B0DF-5F1798F6DA62":{
-"name":"🤖Android/🌕 Light/UI Controls/Inputs/Line input/MAC-IL002 ( Active )"
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Line input/MAC-IL002 ( Active )"
 },
 "2F4765FD-FE80-4CCA-9F5B-37CFB15B5615":{
-"name":"🤖Android/🌕 Light/UI Controls/Search/MAC-E001 (Field Empty)"
+"name":"🤖Android/🌕 Light/UI Atomics/Search/MAC-E001 (Field Empty)"
 },
 "425D7E7F-810C-40DF-B1B1-6AFF55AF8643":{
-"name":"🤖Android/🌑 Dark/UI Controls/Search/MADC-E001 (Field Empty)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Search/MADC-E001 (Field Empty)"
 },
 "0F564303-5653-4025-ABD2-9129BB1D51ED":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Outlined/MADC-BL003 ( Small button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Outlined/MADC-BL003 ( Small button )"
 },
 "F44CBC7E-020C-4513-B489-12DCFA50DF36":{
-"name":"🤖Android/🌕 Light/UI Controls/Inputs/Full-Rounded/MAC-IF002 ( Active )"
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Full-Rounded/MAC-IF002 ( Active )"
 },
 "60EE585E-07B8-4C2D-8700-F188323BA8EF":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MAC-BT002 (Regular)"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Text button/MAC-BT002 (Regular)"
 },
 "B27DAA51-A5B9-4A40-905B-96E111FEE965":{
-"name":"🤖Android/🌑 Dark/UI Controls/Selection/Radio-Button/MADC-SR002 ( Unchecked )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Selection/Radio-Button/MADC-SR002 ( Unchecked )"
 },
 "9C7770C6-0FF8-47B5-8A06-9C323FD1B940":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MADC-BT003 (2 Buttons)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Text button/MADC-BT003 (2 Buttons)"
 },
 "EE5F289F-8B16-416F-8E5C-216AB11A9C08":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Text button/MADC-BT002 (Regular)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Text button/MADC-BT002 (Regular)"
 },
 "1B7E2E44-6C17-42FE-BF66-CF41F30CF88B":{
-"name":"🤖Android/🌕 Light/UI Controls/Inputs/Full-Rounded/MAC-IF003 ( Focused )"
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Full-Rounded/MAC-IF003 ( Focused )"
 },
 "966F5863-6FCE-414B-BC5F-4F461BE6D583":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/Outlined/MADC-BL004 ( Optional button )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Outlined/MADC-BL004 ( Optional button )"
 },
 "304E5332-F041-44A1-A158-9170118E5E9B":{
-"name":"🤖Android/🌕 Light/UI Controls/Chips/MAC-C003 (Style3)"
+"name":"🤖Android/🌕 Light/UI Atomics/Chips/MAC-C003 (Style3)"
+},
+"D2110C09-48A0-4E6B-9694-216468083D4D":{
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/FAB/MADC-BA001 ( FAB1 )"
 },
 "82DED4A7-37F6-44D1-9AF2-561A5B39043A":{
-"name":"🤖Android/🌑 Dark/UI Controls/Slider/MADC-D002 (Table View Row)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Slider/MADC-D002 (Table View Row)"
 },
 "B9947F10-1866-4227-A1AE-ECE326C10A56":{
-"name":"🤖Android/🌑 Dark/UI Controls/Inputs/Semi-Rounded/MADC-IS002 ( Active )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MADC-IS002 ( Active )"
 },
 "37E517C0-5B79-46CB-A587-3F9A7EE332B4":{
-"name":"🤖Android/🌕 Light/UI Controls/Inputs/Line input/MAC-IL001 ( Inctive )"
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Line input/MAC-IL001 ( Inctive )"
 },
 "A81468F5-4A1E-444C-BE10-FA671A2D50E7":{
-"name":"🤖Android/🌑 Dark/UI Controls/Inputs/Line input/MADC-IL001 ( Inctive )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Line input/MADC-IL001 ( Inctive )"
 },
 "BBED26F4-459B-4CEC-80F6-44BD59A9500F":{
-"name":"🤖Android/🌕 Light/UI Controls/Buttons/Text button/MAC-BT001 (Preferred)"
+"name":"🤖Android/🌕 Light/UI Atomics/Buttons/Text button/MAC-BT001 (Preferred)"
 },
 "09773A78-587C-4E73-AEFE-EB5030E7ABC1":{
-"name":"🤖Android/🌕 Light/UI Controls/Inputs/Line input/MAC-IL003 ( Focused )"
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Line input/MAC-IL003 ( Focused )"
 },
 "96D04A15-2533-44C2-A895-FF73CD48DD1F":{
-"name":"🤖Android/🌕 Light/UI Controls/Menus/MAC-M003 (Action menu 2)"
-},
-"7E2886FB-2C99-4BBB-9F1F-0DFA6719EC62":{
-"name":"🤖Android/🌑 Dark/UI Controls/Buttons/FAB/MADC-BA002 ( FAB2 )"
+"name":"🤖Android/🌕 Light/UI Atomics/Menus/MAC-M003 (Action menu 2)"
 },
 "833FEB11-35EF-447C-A858-40182FAB1FFD":{
-"name":"🤖Android/🌑 Dark/UI Controls/Selection/Radio-Button/MADC-SR001 ( Checked )"
+"name":"🤖Android/🌑 Dark/UI Atomics/Selection/Radio-Button/MADC-SR001 ( Checked )"
+},
+"21DD809F-1445-47CE-A949-C5E012EE777C":{
+"name":"🤖Android/🌑 Dark/UI Atomics/Buttons/FAB/MADC-BA002 ( FAB2 )"
 },
 "3C61159C-ABF0-4DD7-A5E8-B3DC70403470":{
-"name":"🤖Android/🌑 Dark/UI Controls/Menus/MADC-M002 (Action menu 1)"
+"name":"🤖Android/🌑 Dark/UI Atomics/Menus/MADC-M002 (Action menu 1)"
 }
 }
 },
