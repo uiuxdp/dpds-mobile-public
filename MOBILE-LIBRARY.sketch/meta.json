@@ -394,6 +394,9 @@
 "95B2DBDB-4477-408F-A706-4AFA7FAE3EAC":{
 "name":"🍎iOS/🌕 Light/UI Atomics/Selection/Swicher/MIC-SS001 ( ON )"
 },
+"8E967AA6-CF7D-46AA-A3FC-A5FB9898ABC3":{
+"name":"Artboard"
+},
 "9BFC330E-55AC-4152-A609-63B6E9C39136":{
 "name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Line input/MIDC-IL003 ( Focused )"
 },
@@ -2013,6 +2016,9 @@
 },
 "F352614D-6568-4578-BF44-FA3F97A5CA7B":{
 "name":"👽Iconography/Map/Map Icons/ICNM-MI009 ( Vandalism )"
+},
+"89A1B3A3-587B-4A04-B3B1-7443B0B55BFE":{
+"name":"👽Iconography/Filled icons/ICNM-F096 ( Search )"
 },
 "43C9F758-7B89-47AF-AF15-955B3D6C3642":{
 "name":"👽Iconography/Filled icons/ICNM-F033 ( Minus )"

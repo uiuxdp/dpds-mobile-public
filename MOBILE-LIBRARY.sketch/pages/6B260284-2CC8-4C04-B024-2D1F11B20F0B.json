@@ -5625,7 +5625,7 @@
 "isFlippedVertical":false,
 "isLocked":false,
 "isVisible":true,
-"layerListExpandedType":1,
+"layerListExpandedType":0,
 "name":"Group",
 "nameIsFixed":false,
 "resizingConstraint":45,
@@ -5957,7 +5957,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"C679D788-DB45-4FEB-AC2C-FCD034403901",
-"changeIdentifier":11,
+"changeIdentifier":17,
 "overrideProperties":[
 {
 "_class":"MSImmutableOverrideProperty",
@@ -6821,7 +6821,7 @@
 },
 "includeBackgroundColorInInstance":false,
 "symbolID":"C228ED7A-B9A3-4F51-9611-0AA7862C5488",
-"changeIdentifier":7,
+"changeIdentifier":19,
 "overrideProperties":[],
 "allowsOverrides":true
 },
