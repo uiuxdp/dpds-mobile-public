@@ -177,8 +177,14 @@
 "D09AC050-6DDF-43AF-8A94-4F424EF2B18B":{
 "name":"🤖Android/🌕 Light/UI System/Pickers/MAS-P005 (Time picker)"
 },
+"1D05E93F-41EF-4F55-9D53-D6FA15FCE2B5":{
+"name":"🤖Android/🌑 Dark/UI System/Pickers/MIS-P008 (Editable picker with confimation)"
+},
 "E374BB2E-B335-4950-943E-656F72023D0D":{
 "name":"🤖Android/🌑 Dark/UI System/Keyboards/MADS-K002 (Alphabetic with suggestions)"
+},
+"C182B5AB-C574-4089-A88F-01D140979D12":{
+"name":"🤖Android/🌕 Light/UI System/Pickers/MIS-P007 (Editable picker)"
 },
 "66F64890-3CEE-4E69-A46B-8D0AD39C7CA3":{
 "name":"🤖Android/🌕 Light/UI System/Pickers/MAS-P003 (Date and Time picker)"
@@ -198,6 +204,9 @@
 "ED2847D7-2D74-4722-A7E6-84781E11CC56":{
 "name":"🤖Android/🌑 Dark/UI System/Pickers/MADS-P006 (Time picker with Confirmation)"
 },
+"AC20A5B4-CF49-4441-BFE2-7BA062CFD38E":{
+"name":"🤖Android/🌕 Light/UI System/Pickers/MIS-P008 (Editable picker with confimation)"
+},
 "2633D94E-6DA0-4A6B-BD84-91AE9D74DD92":{
 "name":"🤖Android/🌕 Light/UI System/Keyboards/MAS-K001 (Alphabetic)"
 },
@@ -212,6 +221,9 @@
 },
 "87D8A61D-3B7C-4EE9-B54F-B62DDEFD8399":{
 "name":"🤖Android/🌑 Dark/UI System/Pickers/MADS-P002 (Date picker with Confirmation)"
+},
+"6D633062-6369-42E8-8270-5D11F5BADEF2":{
+"name":"🤖Android/🌑 Dark/UI System/Pickers/MIS-P007 (Editable picker)"
 }
 }
 },
@@ -904,6 +916,9 @@
 "87C9BEEF-3D54-4703-9054-17325E184619":{
 "name":"🍎UI System (MIS000)",
 "artboards":{
+"234C8451-DE79-479C-84E7-EBA65E6D9682":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P008 (Editable picker with confimation)"
+},
 "E89B4BF6-83A4-452A-86B1-4F8A0CED2334":{
 "name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P006 (Time picker with Confirmation)"
 },
@@ -916,14 +931,14 @@
 "9A38F128-1376-40DB-9B4F-740A5DBE806D":{
 "name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P003 (Date and Time picker)"
 },
+"BDC49ACB-A087-4194-B628-652A126F7817":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P008 (Editable picker with confimation)"
+},
 "FBEFF51B-4AF4-4669-8FFA-41143A03318A":{
 "name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P004 (Date and Time picker with Confirmation)"
 },
 "5003E595-551E-43D0-BCD4-7588066CE9B5":{
 "name":"🍎iOS/🌕 Light/UI System/Keyboards/MIS-K002 (Alphabetic with Label)"
-},
-"365A421E-83B9-4FEA-BC38-02F350AEBF9D":{
-"name":"🍎iOS/🌑 Dark/UI System/Keyboards/MIDS-K002 (Alphabetic with suggestions)"
 },
 "3B2E9135-4D44-4D5A-9D06-340C23B4B0E2":{
 "name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P006 (Time picker with Confirmation)"
@@ -934,26 +949,29 @@
 "CCAF550E-26D8-451C-AD31-77ECB8C27D1D":{
 "name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P004 (Date and Time picker with Confirmation)"
 },
-"EEAF0702-CB97-48CA-88C3-E762E97995EA":{
-"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P002 (Date picker with Confirmation)"
-},
-"25C53AE2-6CA4-4AA3-8D52-C1BD20529FCC":{
-"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P005 (Time picker)"
-},
-"27BB3816-51BE-4555-A3D3-45767CDD7603":{
-"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P001 (Date picker)"
+"646C36C5-6217-4AA4-9D69-DB695663EA81":{
+"name":"🍎iOS/🌑 Dark/UI System/Keyboards/MIDS-K001 (Alphabetic)"
 },
 "A650EFC2-9786-4637-9246-A888B2349084":{
 "name":"🍎iOS/🌕 Light/UI System/Keyboards/MIS-K001 (Alphabetic)"
 },
+"27BB3816-51BE-4555-A3D3-45767CDD7603":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P001 (Date picker)"
+},
+"EEAF0702-CB97-48CA-88C3-E762E97995EA":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P002 (Date picker with Confirmation)"
+},
 "DDAC0ED8-D3EA-4086-9ED4-C660D242AAEA":{
 "name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P003 (Date and Time picker)"
 },
+"25C53AE2-6CA4-4AA3-8D52-C1BD20529FCC":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P005 (Time picker)"
+},
+"695C41F3-CCE2-4525-AD83-9D8E4F85EDB5":{
+"name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P007 (Editable picker)"
+},
 "D2439381-F1DB-4880-9ED6-BEF8B8417D16":{
 "name":"🍎iOS/🌕 Light/UI System/Keyboards/MIS-K002 (Alphabetic with suggestions)"
-},
-"646C36C5-6217-4AA4-9D69-DB695663EA81":{
-"name":"🍎iOS/🌑 Dark/UI System/Keyboards/MIDS-K001 (Alphabetic)"
 },
 "7C21358F-2F8B-44DD-B7F9-9EBE1C2C2A77":{
 "name":"🍎iOS/🌑 Dark/UI System/Pickers/MIS-P001 (Date picker)"
@@ -961,8 +979,14 @@
 "3D86158C-5307-4ABC-BCE0-3D9A8914FE51":{
 "name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P002 (Date picker with Confirmation)"
 },
+"365A421E-83B9-4FEA-BC38-02F350AEBF9D":{
+"name":"🍎iOS/🌑 Dark/UI System/Keyboards/MIDS-K002 (Alphabetic with suggestions)"
+},
 "6314CB7A-6DBD-4E08-8171-B8995E2D1ED1":{
 "name":"🍎iOS/🌑 Dark/UI System/Keyboards/MIDS-K002 (Alphabetic with Label)"
+},
+"F96316B3-9BAB-4414-B19B-75496E98E03B":{
+"name":"🍎iOS/🌕 Light/UI System/Pickers/MIS-P007 (Editable picker)"
 }
 }
 },
