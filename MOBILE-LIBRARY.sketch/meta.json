@@ -373,6 +373,9 @@
 "BB4625B4-B39A-46E2-BFE1-98968DB5B21F":{
 "name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Outlined/MIDC-BL002 ( Regular button )"
 },
+"552AAFCB-FDAF-4C0D-BB75-AAC2FC4A99F7":{
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Add and Remove/MIC-SA002 ( Add and Remove with number)"
+},
 "1E835E47-1B95-4774-A37A-5AEB1A71B451":{
 "name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MIDC-IS003 ( Focused )"
 },
@@ -422,7 +425,7 @@
 "name":"🍎iOS/🌑 Dark/UI Atomics/Buttons/Text button/MIDC-BT001 (Preferred)"
 },
 "779E510F-33AA-4733-B0A8-80C36BA83C87":{
-"name":"🍎iOS/🌕 Light/UI Atomics/Selection/MIC-S001 ( Add and Remove )"
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Add and Remove/MIC-SA001 ( Add and Remove )"
 },
 "ED6C0847-9F18-460B-B007-6DBEE9FAD4B7":{
 "name":"🍎iOS/🌕 Light/UI Atomics/Menus/MIC-M002 (Action menu 1)"
@@ -541,11 +544,14 @@
 "9929CEB4-D422-49E5-BCB7-FA9B2E808490":{
 "name":"🍎iOS/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MIDC-IS001 ( Inactive )"
 },
+"4FB12CB0-E78F-4D6D-BBE6-55C75A3CA9E3":{
+"name":"🍎iOS/🌕 Light/UI Atomics/Selection/Add and Remove/MIC-SA002 ( Add and Remove with number)"
+},
 "5B281CA1-A25D-4F04-A629-A135247A5617":{
 "name":"🍎iOS/🌑 Dark/UI Atomics/Search/MIDC-E002 (Field Focus)"
 },
 "16975D87-4F93-469B-B5FC-AABB294BF295":{
-"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/MIC-S001 ( Add and Remove )"
+"name":"🍎iOS/🌑 Dark/UI Atomics/Selection/Add and Remove/MIC-SA001 ( Add and Remove )"
 },
 "D9942AD7-99B4-443F-A2C6-159B9E2F8451":{
 "name":"🍎iOS/🌕 Light/UI Atomics/Chips/MIC-C003 (Style3)"
@@ -1205,17 +1211,20 @@
 "35EDAFA6-3011-4211-9398-B8428AC63159":{
 "name":"🤖Android/🌕 Light/UI Atomics/Menus/MAC-M001 (Screen menu)"
 },
-"C7E63BB4-4076-4B2C-AF47-162B492D28BE":{
-"name":"🤖Android/🌑 Dark/UI Atomics/Menus/MADC-M004 (Action menu services 1)"
-},
 "C4A25CFF-31D5-4C24-884B-C51CAE2B9722":{
 "name":"🤖Android/🌕 Light/UI Atomics/Buttons/FAB/MAC-BA001 ( FAB1 )"
+},
+"1E842804-7AC9-453D-9D8D-F477B3CB99A5":{
+"name":"🤖Android/🌑 Dark/UI Atomics/Slider/MADC-D001 (Regular)"
+},
+"B128882E-268F-4EDC-A4BC-2977D2B752C0":{
+"name":"🤖Android/🌑 Dark/UI Atomics/Selection/Add and Remove/MAC-SA002 ( Add and Remove with number)"
 },
 "89173F70-D792-48E2-B83C-AB04E0D7D836":{
 "name":"🤖Android/🌑 Dark/UI Atomics/Search/MADC-E002 (Field Focus)"
 },
-"1E842804-7AC9-453D-9D8D-F477B3CB99A5":{
-"name":"🤖Android/🌑 Dark/UI Atomics/Slider/MADC-D001 (Regular)"
+"C7E63BB4-4076-4B2C-AF47-162B492D28BE":{
+"name":"🤖Android/🌑 Dark/UI Atomics/Menus/MADC-M004 (Action menu services 1)"
 },
 "530D52F8-AC81-41B0-A067-5EF829F301B8":{
 "name":"🤖Android/🌑 Dark/UI Atomics/Chips/MADC-C003 (Style3)"
@@ -1262,11 +1271,14 @@
 "CC3BBA27-0EDB-4156-A7AA-619DB9D05ED9":{
 "name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Full-Rounded/MADC-IF003 ( Focused )"
 },
-"80B640AD-988B-4B91-B137-D972FAFC8B79":{
-"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Full-Rounded/MAC-IF001 ( Inactive )"
+"A95A5002-32B8-48E2-8CA7-9560235FD52F":{
+"name":"🤖Android/🌕 Light/UI Atomics/Selection/Add and Remove/MAC-SA002 ( Add and Remove with number)"
 },
 "97FB94CD-5BAF-4AB6-AB81-FE9A73C8D592":{
 "name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Web Services/MADC-BW004 ( General Services Button )"
+},
+"80B640AD-988B-4B91-B137-D972FAFC8B79":{
+"name":"🤖Android/🌕 Light/UI Atomics/Inputs/Full-Rounded/MAC-IF001 ( Inactive )"
 },
 "A0F0F94E-AEB6-4DB7-8223-E2F82A003D74":{
 "name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Filled/MADC-BF002 ( Regular button )"
@@ -1289,6 +1301,9 @@
 "17DA13C3-CD90-45F8-8BC4-89F9C7145B43":{
 "name":"🤖Android/🌑 Dark/UI Atomics/Selection/Swicher/MADC-SS001 ( ON )"
 },
+"46A632B3-0295-483A-8E2D-49642F1DA42F":{
+"name":"🤖Android/🌕 Light/UI Atomics/Selection/Add and Remove/MAC-SA001 ( Add and Remove )"
+},
 "59CE24B7-A409-4180-9FE2-62FF142BE71E":{
 "name":"🤖Android/🌑 Dark/UI Atomics/Inputs/Semi-Rounded/MADC-IS001 ( Inactive )"
 },
@@ -1304,14 +1319,8 @@
 "8895554B-A236-49B7-BB58-04525B928C6C":{
 "name":"🤖Android/🌕 Light/UI Atomics/Slider/MAC-D002 (Table View Row)"
 },
-"912BAB26-B4E0-4E4F-BCEF-B397E351ED4D":{
-"name":"🤖Android/🌕 Light/UI Atomics/Selection/MIC-S001 ( Add and Remove )"
-},
 "4F6AB51E-0852-4C7D-B797-3C79D8EB1374":{
 "name":"🤖Android/🌕 Light/UI Atomics/Buttons/Filled/MAC-BF003 ( Small button )"
-},
-"39DDC61C-9D15-4BA2-8728-55A3B409564C":{
-"name":"🤖Android/🌑 Dark/UI Atomics/Selection/MIC-S001 ( Add and Remove )"
 },
 "E8C80975-9DDA-449B-A07E-2FA2F62DDE24":{
 "name":"🤖Android/🌕 Light/UI Atomics/Chips/MAC-C001 (Style1)"
@@ -1328,11 +1337,14 @@
 "2F4765FD-FE80-4CCA-9F5B-37CFB15B5615":{
 "name":"🤖Android/🌕 Light/UI Atomics/Search/MAC-E001 (Field Empty)"
 },
-"425D7E7F-810C-40DF-B1B1-6AFF55AF8643":{
-"name":"🤖Android/🌑 Dark/UI Atomics/Search/MADC-E001 (Field Empty)"
+"FAAFA638-F238-48BB-9F87-D590387193EA":{
+"name":"🤖Android/🌑 Dark/UI Atomics/Selection/Add and Remove/MAC-SA001 ( Add and Remove )"
 },
 "0F564303-5653-4025-ABD2-9129BB1D51ED":{
 "name":"🤖Android/🌑 Dark/UI Atomics/Buttons/Outlined/MADC-BL003 ( Small button )"
+},
+"425D7E7F-810C-40DF-B1B1-6AFF55AF8643":{
+"name":"🤖Android/🌑 Dark/UI Atomics/Search/MADC-E001 (Field Empty)"
 },
 "F44CBC7E-020C-4513-B489-12DCFA50DF36":{
 "name":"🤖Android/🌕 Light/UI Atomics/Inputs/Full-Rounded/MAC-IF002 ( Active )"
