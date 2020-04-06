@@ -186,9 +186,3737 @@
 "shadows":[]
 }
 }
+},
+{
+"_class":"MSImmutableForeignLayerStyle",
+"do_objectID":"0E06C780-BBB9-4A21-91A5-6AC7946C1196",
+"libraryID":"FB62FE05-8B19-43A5-8514-1CE6EF661383",
+"sourceLibraryName":"DAPPCouncil-Library",
+"symbolPrivate":false,
+"remoteStyleID":"D9942808-9C7D-420F-82E5-A311638D7332",
+"localSharedStyle":{
+"_class":"sharedStyle",
+"do_objectID":"54E10A10-7C70-41FE-8B36-E037A5042B45",
+"name":"4. Colors | Icons/🌕 Light/Active+unfocused",
+"value":{
+"_class":"style",
+"do_objectID":"0A63262A-46DE-49B9-9E7E-3B5F93A9CE5F",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":0,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[
+{
+"_class":"border",
+"isEnabled":false,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.592,
+"green":0.592,
+"red":0.592
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"position":1,
+"thickness":1
 }
 ],
-"foreignSymbols":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":0.54,
+"blue":0,
+"green":0,
+"red":0
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+}
+}
+}
+],
+"foreignSymbols":[
+{
+"_class":"MSImmutableForeignSymbol",
+"do_objectID":"61A29264-2CF1-4869-B764-F01755997489",
+"libraryID":"A0EFED67-B192-47B8-98B0-D111BE6D973A",
+"sourceLibraryName":"DPDS - LIBRARY",
+"symbolPrivate":false,
+"originalMaster":{
+"_class":"symbolMaster",
+"do_objectID":"6CE2BA74-13BC-46D1-8412-22BE451CC41A",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":2,
+"name":"Iconography / File Ex / ICN-E003 ( txt )",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":true,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[
+{
+"_class":"exportFormat",
+"absoluteSize":0,
+"fileFormat":"svg",
+"name":"",
+"namingScheme":0,
+"scale":1,
+"visibleScaleType":0
+}
+]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":24,
+"width":24,
+"x":-616,
+"y":-50.99999999999994
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"BB4C6013-8D2E-4835-AB97-3C6B4289D389",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":true,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"group",
+"do_objectID":"1DD413A8-2DEE-44C8-BD5A-33AD74DC37EB",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Group 12",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":20,
+"width":14,
+"x":5,
+"y":2
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"2890A78E-A4F8-4610-8D41-F2C39BAE3F26",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"group",
+"do_objectID":"D390F2B5-B0B0-4B91-9F67-1AAEADBB2CCE",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"↳Color",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":20,
+"width":14,
+"x":0,
+"y":1.13686837721616e-13
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"08E0F432-1643-4E0B-B549-716CB046E316",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"shapePath",
+"do_objectID":"49F77A2B-2489-4F72-AA77-BDEC724FC0F9",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Path",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":20,
+"width":14,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"4B4B62DB-EBBF-4ED7-8ACB-7A431DBF0C18",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.667,
+"green":0.22,
+"red":0.184
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1.0000000000000024, 0.25603514376994951}",
+"curveMode":1,
+"curveTo":"{1.0000000000000024, 0.25603514376994951}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1.0000000000000024, 0.25603514376994951}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1, 0.96626198083066417}",
+"curveMode":4,
+"curveTo":"{1, 0.92485623003194206}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{1, 0.92485623003194206}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.89593551840606978, 0.99999999999999312}",
+"curveMode":4,
+"curveTo":"{0.95421162809866844, 0.99999999999999312}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.89593551840606978, 0.99999999999999312}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.048850638231511263, 0.99999999999999312}",
+"curveMode":4,
+"curveTo":"{0.10504545829223133, 0.99999999999999312}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0.10504545829223133, 0.99999999999999312}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.00098097669830821133, 0.92485623003194228}",
+"curveMode":4,
+"curveTo":"{0.00098097669830821133, 0.96626198083066428}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.00098097669830821133, 0.92485623003194228}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.036738019169326334}",
+"curveMode":4,
+"curveTo":"{0, 0.078143769968048352}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0, 0.078143769968048352}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.10504545829223351, -6.8425265453697448e-15}",
+"curveMode":4,
+"curveTo":"{0.046769348599634879, -6.8425265453697448e-15}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.10504545829223351, -6.8425265453697448e-15}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.656587210740044, -6.8425265453697448e-15}",
+"curveMode":1,
+"curveTo":"{0.656587210740044, -6.8425265453697448e-15}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.656587210740044, -6.8425265453697448e-15}"
+}
+]
+},
+{
+"_class":"shapePath",
+"do_objectID":"E132B35F-7CE8-4706-8E48-5DC61BAE87C3",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Path",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":5.339999999999814,
+"width":5.033473494083864,
+"x":8.966526505916136,
+"y":-2.273736754432321e-13
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"BB4698FA-9C23-4258-9ABF-E4B588B99C1D",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":0,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":8,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":0.49
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1.0000000000000002, 0.95893312273398124}",
+"curveMode":1,
+"curveTo":"{1.0000000000000002, 0.95893312273398124}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1.0000000000000002, 0.95893312273398124}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1.0000000000000002, 1}",
+"curveMode":1,
+"curveTo":"{1.0000000000000002, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1.0000000000000002, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.070030578987201511, 0.99999999999999867}",
+"curveMode":4,
+"curveTo":"{0.21635736254882565, 0.99999999999999867}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0.21635736254882565, 0.99999999999999867}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.006650177878796364, 0.71413721568261646}",
+"curveMode":4,
+"curveTo":"{0.006650177878796364, 0.87144058646913836}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.006650177878796364, 0.71413721568261646}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.00065406961522285201}",
+"curveMode":1,
+"curveTo":"{0, 0.00065406961522285201}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.00065406961522285201}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.044838707248544551, 2.8421709430404007e-14}",
+"curveMode":1,
+"curveTo":"{0.044838707248544551, 2.8421709430404007e-14}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.044838707248544551, 2.8421709430404007e-14}"
+}
+]
+}
+]
+},
+{
+"_class":"shapeGroup",
+"do_objectID":"99FFE119-FE4F-4A0C-B96A-62D81758C106",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":1,
+"name":"Combined Shape",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":3.438789820538018,
+"width":6.985446985446974,
+"x":3.258261954261909,
+"y":11.55354677754676
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"7C7519D5-DEA2-49CD-A22D-30669BED03E1",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"shapePath",
+"do_objectID":"C721D774-31F3-4153-BF9B-950C68A3FD2D",
+"booleanOperation":0,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Fill 6",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":3.438619215298364,
+"width":2.035758835758835,
+"x":8.126832540256146e-14,
+"y":-1.643130076445232e-14
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"58473E88-59CE-479A-891E-67419A52A3C3",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.89117647058823513, 0.9827954908250085}",
+"curveMode":4,
+"curveTo":"{1, 0.94913115391796565}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{1, 0.94913115391796565}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.57622549019607816, 1.0009336033826826}",
+"curveMode":4,
+"curveTo":"{0.77009803921568609, 1.000353183780837}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.64705882352941191, 0.99991786907945279}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.38039215686274497, 0.95711192344334217}",
+"curveMode":4,
+"curveTo":"{0.50563725490196088, 0.99251751915592179}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.44117647058823545, 0.97525003600101612}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.25833333333333341, 0.84813814319683678}",
+"curveMode":4,
+"curveTo":"{0.33063725490196083, 0.9280909433510639}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.29901960784313741, 0.8923951378375613}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24509803921568626, 0.74729023737616929}",
+"curveMode":4,
+"curveTo":"{0.23946078431372556, 0.79778674273673378}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.24509803921568626, 0.74729023737616929}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24509803921568626, 0.35405595712579685}",
+"curveMode":1,
+"curveTo":"{0.24509803921568626, 0.35405595712579685}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24509803921568626, 0.35405595712579685}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.35405595712579685}",
+"curveMode":1,
+"curveTo":"{0, 0.35405595712579685}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.35405595712579685}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.20184091654179639}",
+"curveMode":1,
+"curveTo":"{0, 0.20184091654179639}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.20184091654179639}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24509803921568626, 0.20184091654179639}",
+"curveMode":1,
+"curveTo":"{0.24509803921568626, 0.20184091654179639}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24509803921568626, 0.20184091654179639}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24509803921568626, 0.02756993108766468}",
+"curveMode":1,
+"curveTo":"{0.24509803921568626, 0.02756993108766468}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24509803921568626, 0.02756993108766468}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56372549019607865, 0}",
+"curveMode":1,
+"curveTo":"{0.56372549019607865, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56372549019607865, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56372549019607865, 0.20184091654179639}",
+"curveMode":1,
+"curveTo":"{0.56372549019607865, 0.20184091654179639}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56372549019607865, 0.20184091654179639}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.96813725490196056, 0.20184091654179639}",
+"curveMode":1,
+"curveTo":"{0.96813725490196056, 0.20184091654179639}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.96813725490196056, 0.20184091654179639}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.93627450980392157, 0.34694581700318844}",
+"curveMode":1,
+"curveTo":"{0.93627450980392157, 0.34694581700318844}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.93627450980392157, 0.34694581700318844}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56372549019607865, 0.34694581700318844}",
+"curveMode":1,
+"curveTo":"{0.56372549019607865, 0.34694581700318844}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56372549019607865, 0.34694581700318844}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.55931372549019609, 0.75730247550800545}",
+"curveMode":4,
+"curveTo":"{0.56372549019607865, 0.72407345330234651}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0.56372549019607865, 0.72407345330234651}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.63161764705882351, 0.83812590506500062}",
+"curveMode":4,
+"curveTo":"{0.57303921568627469, 0.79038639281320278}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.60294117647058842, 0.81853674350271277}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.74803921568627441, 0.84726751379406839}",
+"curveMode":4,
+"curveTo":"{0.67426470588235277, 0.84900877259960517}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.71813725490196068, 0.84755772359499126}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.80637254901960764, 0.84030247857192153}",
+"curveMode":4,
+"curveTo":"{0.77745098039215699, 0.84480073048622484}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.80637254901960764, 0.84030247857192153}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.91176470588235303, 0.81984268760686529}",
+"curveMode":1,
+"curveTo":"{0.91176470588235303, 0.81984268760686529}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.91176470588235303, 0.81984268760686529}"
+}
+]
+},
+{
+"_class":"shapePath",
+"do_objectID":"E0323980-6AAD-4038-A552-54E07A9262EB",
+"booleanOperation":0,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Fill 8",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":2.669438669438672,
+"width":2.669438669438668,
+"x":2.18035758835767,
+"y":0.693754677754685
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"972F4DEE-5759-47BD-9266-38BED6CF8EE1",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.65607476635514017, 0.48411214953271031}",
+"curveMode":1,
+"curveTo":"{0.65607476635514017, 0.48411214953271031}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.65607476635514017, 0.48411214953271031}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1, 0.98504672897196255}",
+"curveMode":1,
+"curveTo":"{1, 0.98504672897196255}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1, 0.98504672897196255}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1, 1}",
+"curveMode":1,
+"curveTo":"{1, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.71775700934579445, 1}",
+"curveMode":1,
+"curveTo":"{0.71775700934579445, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.71775700934579445, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.49906542056074771, 0.64317757009345811}",
+"curveMode":1,
+"curveTo":"{0.49906542056074771, 0.64317757009345811}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.49906542056074771, 0.64317757009345811}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.25794392523364501, 1}",
+"curveMode":1,
+"curveTo":"{0.25794392523364501, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.25794392523364501, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 1}",
+"curveMode":1,
+"curveTo":"{0, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.98504672897196255}",
+"curveMode":1,
+"curveTo":"{0, 0.98504672897196255}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.98504672897196255}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.35327102803738297, 0.48803738317757023}",
+"curveMode":1,
+"curveTo":"{0.35327102803738297, 0.48803738317757023}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.35327102803738297, 0.48803738317757023}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.018691588785046665, 0.02074766355140166}",
+"curveMode":1,
+"curveTo":"{0.018691588785046665, 0.02074766355140166}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.018691588785046665, 0.02074766355140166}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.018691588785046665, 0}",
+"curveMode":1,
+"curveTo":"{0.018691588785046665, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.018691588785046665, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.29906542056074764, 0}",
+"curveMode":1,
+"curveTo":"{0.29906542056074764, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.29906542056074764, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.51028037383177582, 0.32523364485981315}",
+"curveMode":1,
+"curveTo":"{0.51028037383177582, 0.32523364485981315}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.51028037383177582, 0.32523364485981315}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.72336448598130831, 0}",
+"curveMode":1,
+"curveTo":"{0.72336448598130831, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.72336448598130831, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.97383177570093449, 0}",
+"curveMode":1,
+"curveTo":"{0.97383177570093449, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.97383177570093449, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.97383177570093449, 0.014953271028037398}",
+"curveMode":1,
+"curveTo":"{0.97383177570093449, 0.014953271028037398}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.97383177570093449, 0.014953271028037398}"
+}
+]
+},
+{
+"_class":"shapePath",
+"do_objectID":"0D9B2BF8-617F-4178-BABE-FE4011689EFF",
+"booleanOperation":0,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Fill 10",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":3.438789820538018,
+"width":2.040748440748441,
+"x":4.944698544698598,
+"y":-2.042810365310288e-14
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"3C45CA05-E3EB-4668-980E-750BC44D8431",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.89119804400977987, 0.98245653697234669}",
+"curveMode":4,
+"curveTo":"{1, 0.94908406562341141}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{1, 0.94908406562341141}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.57726161369193174, 1.0011741404680536}",
+"curveMode":4,
+"curveTo":"{0.77041564792176032, 1.000013358855917}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.64792176039119775, 0.99986826115439964}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.38068459657701681, 0.95764483001292078}",
+"curveMode":4,
+"curveTo":"{0.50684596577017127, 0.99275847378006132}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.44254278728606328, 0.97520165189649111}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.25745721271393662, 0.84809606536750348}",
+"curveMode":4,
+"curveTo":"{0.33007334963325219, 0.92848019200798204}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.29828850855745692, 0.8923508643302217}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24449877750611249, 0.74725316281311249}",
+"curveMode":4,
+"curveTo":"{0.23887530562347198, 0.79774716294106662}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.24449877750611249, 0.74725316281311249}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24449877750611249, 0.35403839170174667}",
+"curveMode":1,
+"curveTo":"{0.24449877750611249, 0.35403839170174667}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24449877750611249, 0.35403839170174667}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.35403839170174667}",
+"curveMode":1,
+"curveTo":"{0, 0.35403839170174667}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.35403839170174667}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.20183090281029892}",
+"curveMode":1,
+"curveTo":"{0, 0.20183090281029892}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.20183090281029892}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24449877750611249, 0.20183090281029892}",
+"curveMode":1,
+"curveTo":"{0.24449877750611249, 0.20183090281029892}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24449877750611249, 0.20183090281029892}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24449877750611249, 0.027568563288250938}",
+"curveMode":1,
+"curveTo":"{0.24449877750611249, 0.027568563288250938}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24449877750611249, 0.027568563288250938}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56234718826405883, 0}",
+"curveMode":1,
+"curveTo":"{0.56234718826405883, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56234718826405883, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56234718826405883, 0.20183090281029892}",
+"curveMode":1,
+"curveTo":"{0.56234718826405883, 0.20183090281029892}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56234718826405883, 0.20183090281029892}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.9657701711491441, 0.20183090281029892}",
+"curveMode":1,
+"curveTo":"{0.9657701711491441, 0.20183090281029892}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.9657701711491441, 0.20183090281029892}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.93398533007334972, 0.34692860432740813}",
+"curveMode":1,
+"curveTo":"{0.93398533007334972, 0.34692860432740813}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.93398533007334972, 0.34692860432740813}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56234718826405883, 0.34692860432740813}",
+"curveMode":1,
+"curveTo":"{0.56234718826405883, 0.34692860432740813}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56234718826405883, 0.34692860432740813}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.55794621026894864, 0.75726490421779324}",
+"curveMode":4,
+"curveTo":"{0.56234718826405883, 0.72403753057037501}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0.56234718826405883, 0.72403753057037501}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.63031784841075778, 0.83793922626130579}",
+"curveMode":4,
+"curveTo":"{0.57163814180929118, 0.7903471801636941}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.60146699266503689, 0.81849613425801315}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.74596577017114873, 0.84722547915840085}",
+"curveMode":4,
+"curveTo":"{0.67261613691931577, 0.8486764561735719}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.71638141809290945, 0.84751567456143506}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.80440097799510979, 0.84026078948557958}",
+"curveMode":4,
+"curveTo":"{0.77579462102689445, 0.84475881823261001}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.80440097799510979, 0.84026078948557958}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.91198044009779966, 0.81980201357166715}",
+"curveMode":1,
+"curveTo":"{0.91198044009779966, 0.81980201357166715}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.91198044009779966, 0.81980201357166715}"
+}
+]
+}
+],
+"windingRule":1
+}
+]
+}
+],
+"hasBackgroundColor":true,
+"includeBackgroundColorInExport":false,
+"includeInCloudUpload":true,
+"isFlowHome":false,
+"presetDictionary":{},
+"resizesContent":false,
+"backgroundColor":{
+"_class":"color",
+"alpha":1,
+"blue":0.243781887755102,
+"green":0.243781887755102,
+"red":0.243781887755102
+},
+"horizontalRulerData":{
+"_class":"rulerData",
+"base":0,
+"guides":[]
+},
+"verticalRulerData":{
+"_class":"rulerData",
+"base":0,
+"guides":[]
+},
+"includeBackgroundColorInInstance":false,
+"symbolID":"B280BAF0-11A3-4F68-856D-DD9294B9BD00",
+"changeIdentifier":6982,
+"overrideProperties":[],
+"allowsOverrides":true
+},
+"symbolMaster":{
+"_class":"symbolMaster",
+"do_objectID":"6CE2BA74-13BC-46D1-8412-22BE451CC41A",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":2,
+"name":"Iconography / File Ex / ICN-E003 ( txt )",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":true,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[
+{
+"_class":"exportFormat",
+"absoluteSize":0,
+"fileFormat":"svg",
+"name":"",
+"namingScheme":0,
+"scale":1,
+"visibleScaleType":0
+}
+]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":24,
+"width":24,
+"x":-616,
+"y":-50.99999999999994
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"BB4C6013-8D2E-4835-AB97-3C6B4289D389",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":true,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"group",
+"do_objectID":"1DD413A8-2DEE-44C8-BD5A-33AD74DC37EB",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Group 12",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":20,
+"width":14,
+"x":5,
+"y":2
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"2890A78E-A4F8-4610-8D41-F2C39BAE3F26",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"group",
+"do_objectID":"D390F2B5-B0B0-4B91-9F67-1AAEADBB2CCE",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"↳Color",
+"nameIsFixed":true,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":20,
+"width":14,
+"x":0,
+"y":1.13686837721616e-13
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"08E0F432-1643-4E0B-B549-716CB046E316",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"shapePath",
+"do_objectID":"49F77A2B-2489-4F72-AA77-BDEC724FC0F9",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Path",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":20,
+"width":14,
+"x":0,
+"y":0
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"4B4B62DB-EBBF-4ED7-8ACB-7A431DBF0C18",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.667,
+"green":0.22,
+"red":0.184
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1.0000000000000024, 0.25603514376994951}",
+"curveMode":1,
+"curveTo":"{1.0000000000000024, 0.25603514376994951}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1.0000000000000024, 0.25603514376994951}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1, 0.96626198083066417}",
+"curveMode":4,
+"curveTo":"{1, 0.92485623003194206}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{1, 0.92485623003194206}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.89593551840606978, 0.99999999999999312}",
+"curveMode":4,
+"curveTo":"{0.95421162809866844, 0.99999999999999312}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.89593551840606978, 0.99999999999999312}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.048850638231511263, 0.99999999999999312}",
+"curveMode":4,
+"curveTo":"{0.10504545829223133, 0.99999999999999312}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0.10504545829223133, 0.99999999999999312}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.00098097669830821133, 0.92485623003194228}",
+"curveMode":4,
+"curveTo":"{0.00098097669830821133, 0.96626198083066428}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.00098097669830821133, 0.92485623003194228}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.036738019169326334}",
+"curveMode":4,
+"curveTo":"{0, 0.078143769968048352}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0, 0.078143769968048352}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.10504545829223351, -6.8425265453697448e-15}",
+"curveMode":4,
+"curveTo":"{0.046769348599634879, -6.8425265453697448e-15}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.10504545829223351, -6.8425265453697448e-15}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.656587210740044, -6.8425265453697448e-15}",
+"curveMode":1,
+"curveTo":"{0.656587210740044, -6.8425265453697448e-15}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.656587210740044, -6.8425265453697448e-15}"
+}
+]
+},
+{
+"_class":"shapePath",
+"do_objectID":"E132B35F-7CE8-4706-8E48-5DC61BAE87C3",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Path",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":5.339999999999814,
+"width":5.033473494083864,
+"x":8.966526505916136,
+"y":-2.273736754432321e-13
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"BB4698FA-9C23-4258-9ABF-E4B588B99C1D",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":0,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":8,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":0.49
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1.0000000000000002, 0.95893312273398124}",
+"curveMode":1,
+"curveTo":"{1.0000000000000002, 0.95893312273398124}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1.0000000000000002, 0.95893312273398124}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1.0000000000000002, 1}",
+"curveMode":1,
+"curveTo":"{1.0000000000000002, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1.0000000000000002, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.070030578987201511, 0.99999999999999867}",
+"curveMode":4,
+"curveTo":"{0.21635736254882565, 0.99999999999999867}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0.21635736254882565, 0.99999999999999867}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.006650177878796364, 0.71413721568261646}",
+"curveMode":4,
+"curveTo":"{0.006650177878796364, 0.87144058646913836}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.006650177878796364, 0.71413721568261646}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.00065406961522285201}",
+"curveMode":1,
+"curveTo":"{0, 0.00065406961522285201}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.00065406961522285201}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.044838707248544551, 2.8421709430404007e-14}",
+"curveMode":1,
+"curveTo":"{0.044838707248544551, 2.8421709430404007e-14}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.044838707248544551, 2.8421709430404007e-14}"
+}
+]
+}
+]
+},
+{
+"_class":"shapeGroup",
+"do_objectID":"99FFE119-FE4F-4A0C-B96A-62D81758C106",
+"booleanOperation":-1,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":1,
+"name":"Combined Shape",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":3.438789820538018,
+"width":6.985446985446974,
+"x":3.258261954261909,
+"y":11.55354677754676
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"7C7519D5-DEA2-49CD-A22D-30669BED03E1",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"hasClickThrough":false,
+"groupLayout":{
+"_class":"MSImmutableFreeformGroupLayout"
+},
+"layers":[
+{
+"_class":"shapePath",
+"do_objectID":"C721D774-31F3-4153-BF9B-950C68A3FD2D",
+"booleanOperation":0,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Fill 6",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":3.438619215298364,
+"width":2.035758835758835,
+"x":8.126832540256146e-14,
+"y":-1.643130076445232e-14
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"58473E88-59CE-479A-891E-67419A52A3C3",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.89117647058823513, 0.9827954908250085}",
+"curveMode":4,
+"curveTo":"{1, 0.94913115391796565}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{1, 0.94913115391796565}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.57622549019607816, 1.0009336033826826}",
+"curveMode":4,
+"curveTo":"{0.77009803921568609, 1.000353183780837}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.64705882352941191, 0.99991786907945279}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.38039215686274497, 0.95711192344334217}",
+"curveMode":4,
+"curveTo":"{0.50563725490196088, 0.99251751915592179}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.44117647058823545, 0.97525003600101612}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.25833333333333341, 0.84813814319683678}",
+"curveMode":4,
+"curveTo":"{0.33063725490196083, 0.9280909433510639}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.29901960784313741, 0.8923951378375613}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24509803921568626, 0.74729023737616929}",
+"curveMode":4,
+"curveTo":"{0.23946078431372556, 0.79778674273673378}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.24509803921568626, 0.74729023737616929}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24509803921568626, 0.35405595712579685}",
+"curveMode":1,
+"curveTo":"{0.24509803921568626, 0.35405595712579685}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24509803921568626, 0.35405595712579685}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.35405595712579685}",
+"curveMode":1,
+"curveTo":"{0, 0.35405595712579685}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.35405595712579685}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.20184091654179639}",
+"curveMode":1,
+"curveTo":"{0, 0.20184091654179639}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.20184091654179639}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24509803921568626, 0.20184091654179639}",
+"curveMode":1,
+"curveTo":"{0.24509803921568626, 0.20184091654179639}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24509803921568626, 0.20184091654179639}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24509803921568626, 0.02756993108766468}",
+"curveMode":1,
+"curveTo":"{0.24509803921568626, 0.02756993108766468}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24509803921568626, 0.02756993108766468}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56372549019607865, 0}",
+"curveMode":1,
+"curveTo":"{0.56372549019607865, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56372549019607865, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56372549019607865, 0.20184091654179639}",
+"curveMode":1,
+"curveTo":"{0.56372549019607865, 0.20184091654179639}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56372549019607865, 0.20184091654179639}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.96813725490196056, 0.20184091654179639}",
+"curveMode":1,
+"curveTo":"{0.96813725490196056, 0.20184091654179639}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.96813725490196056, 0.20184091654179639}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.93627450980392157, 0.34694581700318844}",
+"curveMode":1,
+"curveTo":"{0.93627450980392157, 0.34694581700318844}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.93627450980392157, 0.34694581700318844}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56372549019607865, 0.34694581700318844}",
+"curveMode":1,
+"curveTo":"{0.56372549019607865, 0.34694581700318844}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56372549019607865, 0.34694581700318844}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.55931372549019609, 0.75730247550800545}",
+"curveMode":4,
+"curveTo":"{0.56372549019607865, 0.72407345330234651}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0.56372549019607865, 0.72407345330234651}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.63161764705882351, 0.83812590506500062}",
+"curveMode":4,
+"curveTo":"{0.57303921568627469, 0.79038639281320278}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.60294117647058842, 0.81853674350271277}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.74803921568627441, 0.84726751379406839}",
+"curveMode":4,
+"curveTo":"{0.67426470588235277, 0.84900877259960517}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.71813725490196068, 0.84755772359499126}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.80637254901960764, 0.84030247857192153}",
+"curveMode":4,
+"curveTo":"{0.77745098039215699, 0.84480073048622484}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.80637254901960764, 0.84030247857192153}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.91176470588235303, 0.81984268760686529}",
+"curveMode":1,
+"curveTo":"{0.91176470588235303, 0.81984268760686529}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.91176470588235303, 0.81984268760686529}"
+}
+]
+},
+{
+"_class":"shapePath",
+"do_objectID":"E0323980-6AAD-4038-A552-54E07A9262EB",
+"booleanOperation":0,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Fill 8",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":2.669438669438672,
+"width":2.669438669438668,
+"x":2.18035758835767,
+"y":0.693754677754685
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"972F4DEE-5759-47BD-9266-38BED6CF8EE1",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.65607476635514017, 0.48411214953271031}",
+"curveMode":1,
+"curveTo":"{0.65607476635514017, 0.48411214953271031}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.65607476635514017, 0.48411214953271031}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1, 0.98504672897196255}",
+"curveMode":1,
+"curveTo":"{1, 0.98504672897196255}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1, 0.98504672897196255}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{1, 1}",
+"curveMode":1,
+"curveTo":"{1, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{1, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.71775700934579445, 1}",
+"curveMode":1,
+"curveTo":"{0.71775700934579445, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.71775700934579445, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.49906542056074771, 0.64317757009345811}",
+"curveMode":1,
+"curveTo":"{0.49906542056074771, 0.64317757009345811}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.49906542056074771, 0.64317757009345811}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.25794392523364501, 1}",
+"curveMode":1,
+"curveTo":"{0.25794392523364501, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.25794392523364501, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 1}",
+"curveMode":1,
+"curveTo":"{0, 1}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 1}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.98504672897196255}",
+"curveMode":1,
+"curveTo":"{0, 0.98504672897196255}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.98504672897196255}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.35327102803738297, 0.48803738317757023}",
+"curveMode":1,
+"curveTo":"{0.35327102803738297, 0.48803738317757023}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.35327102803738297, 0.48803738317757023}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.018691588785046665, 0.02074766355140166}",
+"curveMode":1,
+"curveTo":"{0.018691588785046665, 0.02074766355140166}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.018691588785046665, 0.02074766355140166}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.018691588785046665, 0}",
+"curveMode":1,
+"curveTo":"{0.018691588785046665, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.018691588785046665, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.29906542056074764, 0}",
+"curveMode":1,
+"curveTo":"{0.29906542056074764, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.29906542056074764, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.51028037383177582, 0.32523364485981315}",
+"curveMode":1,
+"curveTo":"{0.51028037383177582, 0.32523364485981315}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.51028037383177582, 0.32523364485981315}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.72336448598130831, 0}",
+"curveMode":1,
+"curveTo":"{0.72336448598130831, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.72336448598130831, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.97383177570093449, 0}",
+"curveMode":1,
+"curveTo":"{0.97383177570093449, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.97383177570093449, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.97383177570093449, 0.014953271028037398}",
+"curveMode":1,
+"curveTo":"{0.97383177570093449, 0.014953271028037398}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.97383177570093449, 0.014953271028037398}"
+}
+]
+},
+{
+"_class":"shapePath",
+"do_objectID":"0D9B2BF8-617F-4178-BABE-FE4011689EFF",
+"booleanOperation":0,
+"isFixedToViewport":false,
+"isFlippedHorizontal":false,
+"isFlippedVertical":false,
+"isLocked":false,
+"isVisible":true,
+"layerListExpandedType":0,
+"name":"Fill 10",
+"nameIsFixed":false,
+"resizingConstraint":63,
+"resizingType":0,
+"rotation":0,
+"shouldBreakMaskChain":false,
+"exportOptions":{
+"_class":"exportOptions",
+"includedLayerIds":[],
+"layerOptions":0,
+"shouldTrim":false,
+"exportFormats":[]
+},
+"frame":{
+"_class":"rect",
+"constrainProportions":false,
+"height":3.438789820538018,
+"width":2.040748440748441,
+"x":4.944698544698598,
+"y":-2.042810365310288e-14
+},
+"clippingMaskMode":0,
+"hasClippingMask":false,
+"style":{
+"_class":"style",
+"do_objectID":"3C45CA05-E3EB-4668-980E-750BC44D8431",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":1,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":7.692307692307693,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+},
+"edited":true,
+"isClosed":true,
+"pointRadiusBehaviour":1,
+"points":[
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.89119804400977987, 0.98245653697234669}",
+"curveMode":4,
+"curveTo":"{1, 0.94908406562341141}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{1, 0.94908406562341141}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.57726161369193174, 1.0011741404680536}",
+"curveMode":4,
+"curveTo":"{0.77041564792176032, 1.000013358855917}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.64792176039119775, 0.99986826115439964}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.38068459657701681, 0.95764483001292078}",
+"curveMode":4,
+"curveTo":"{0.50684596577017127, 0.99275847378006132}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.44254278728606328, 0.97520165189649111}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.25745721271393662, 0.84809606536750348}",
+"curveMode":4,
+"curveTo":"{0.33007334963325219, 0.92848019200798204}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.29828850855745692, 0.8923508643302217}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24449877750611249, 0.74725316281311249}",
+"curveMode":4,
+"curveTo":"{0.23887530562347198, 0.79774716294106662}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.24449877750611249, 0.74725316281311249}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24449877750611249, 0.35403839170174667}",
+"curveMode":1,
+"curveTo":"{0.24449877750611249, 0.35403839170174667}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24449877750611249, 0.35403839170174667}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.35403839170174667}",
+"curveMode":1,
+"curveTo":"{0, 0.35403839170174667}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.35403839170174667}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0, 0.20183090281029892}",
+"curveMode":1,
+"curveTo":"{0, 0.20183090281029892}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0, 0.20183090281029892}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24449877750611249, 0.20183090281029892}",
+"curveMode":1,
+"curveTo":"{0.24449877750611249, 0.20183090281029892}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24449877750611249, 0.20183090281029892}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.24449877750611249, 0.027568563288250938}",
+"curveMode":1,
+"curveTo":"{0.24449877750611249, 0.027568563288250938}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.24449877750611249, 0.027568563288250938}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56234718826405883, 0}",
+"curveMode":1,
+"curveTo":"{0.56234718826405883, 0}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56234718826405883, 0}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56234718826405883, 0.20183090281029892}",
+"curveMode":1,
+"curveTo":"{0.56234718826405883, 0.20183090281029892}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56234718826405883, 0.20183090281029892}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.9657701711491441, 0.20183090281029892}",
+"curveMode":1,
+"curveTo":"{0.9657701711491441, 0.20183090281029892}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.9657701711491441, 0.20183090281029892}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.93398533007334972, 0.34692860432740813}",
+"curveMode":1,
+"curveTo":"{0.93398533007334972, 0.34692860432740813}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.93398533007334972, 0.34692860432740813}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.56234718826405883, 0.34692860432740813}",
+"curveMode":1,
+"curveTo":"{0.56234718826405883, 0.34692860432740813}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.56234718826405883, 0.34692860432740813}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.55794621026894864, 0.75726490421779324}",
+"curveMode":4,
+"curveTo":"{0.56234718826405883, 0.72403753057037501}",
+"hasCurveFrom":true,
+"hasCurveTo":false,
+"point":"{0.56234718826405883, 0.72403753057037501}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.63031784841075778, 0.83793922626130579}",
+"curveMode":4,
+"curveTo":"{0.57163814180929118, 0.7903471801636941}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.60146699266503689, 0.81849613425801315}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.74596577017114873, 0.84722547915840085}",
+"curveMode":4,
+"curveTo":"{0.67261613691931577, 0.8486764561735719}",
+"hasCurveFrom":true,
+"hasCurveTo":true,
+"point":"{0.71638141809290945, 0.84751567456143506}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.80440097799510979, 0.84026078948557958}",
+"curveMode":4,
+"curveTo":"{0.77579462102689445, 0.84475881823261001}",
+"hasCurveFrom":false,
+"hasCurveTo":true,
+"point":"{0.80440097799510979, 0.84026078948557958}"
+},
+{
+"_class":"curvePoint",
+"cornerRadius":0,
+"curveFrom":"{0.91198044009779966, 0.81980201357166715}",
+"curveMode":1,
+"curveTo":"{0.91198044009779966, 0.81980201357166715}",
+"hasCurveFrom":false,
+"hasCurveTo":false,
+"point":"{0.91198044009779966, 0.81980201357166715}"
+}
+]
+}
+],
+"windingRule":1
+}
+]
+}
+],
+"hasBackgroundColor":true,
+"includeBackgroundColorInExport":false,
+"includeInCloudUpload":true,
+"isFlowHome":false,
+"presetDictionary":{},
+"resizesContent":false,
+"backgroundColor":{
+"_class":"color",
+"alpha":1,
+"blue":0.243781887755102,
+"green":0.243781887755102,
+"red":0.243781887755102
+},
+"horizontalRulerData":{
+"_class":"rulerData",
+"base":0,
+"guides":[]
+},
+"verticalRulerData":{
+"_class":"rulerData",
+"base":0,
+"guides":[]
+},
+"includeBackgroundColorInInstance":false,
+"symbolID":"3F019B28-D105-45B0-BD9B-F58FBAA79B3B",
+"changeIdentifier":6983,
+"overrideProperties":[],
+"allowsOverrides":true
+}
+}
+],
 "foreignTextStyles":[],
 "layerStyles":{
 "_class":"sharedStyleContainer",
@@ -19831,6 +23559,156 @@
 "blue":0.3686274509803922,
 "green":0.3686274509803922,
 "red":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"noiseIndex":0,
+"noiseIntensity":0,
+"patternFillType":1,
+"patternTileScale":1
+}
+],
+"innerShadows":[],
+"shadows":[]
+}
+},
+{
+"_class":"sharedStyle",
+"do_objectID":"707B73C3-4F50-4356-82EE-444A8B823FED",
+"name":"3. Colors | Greybase/Grey 11",
+"value":{
+"_class":"style",
+"do_objectID":"7599A754-A604-4D27-9EB9-827365A19548",
+"endMarkerType":0,
+"miterLimit":10,
+"startMarkerType":0,
+"windingRule":0,
+"blur":{
+"_class":"blur",
+"isEnabled":false,
+"center":"{0.5, 0.5}",
+"motionAngle":0,
+"radius":10,
+"saturation":1,
+"type":0
+},
+"borderOptions":{
+"_class":"borderOptions",
+"isEnabled":true,
+"dashPattern":[],
+"lineCapStyle":0,
+"lineJoinStyle":0
+},
+"borders":[
+{
+"_class":"border",
+"isEnabled":false,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.592,
+"green":0.592,
+"red":0.592
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"gradient":{
+"_class":"gradient",
+"elipseLength":0,
+"from":"{0.5, 0}",
+"gradientType":0,
+"to":"{0.5, 1}",
+"stops":[
+{
+"_class":"gradientStop",
+"position":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":1,
+"green":1,
+"red":1
+}
+},
+{
+"_class":"gradientStop",
+"position":1,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0,
+"green":0,
+"red":0
+}
+}
+]
+},
+"position":1,
+"thickness":1
+}
+],
+"colorControls":{
+"_class":"colorControls",
+"isEnabled":true,
+"brightness":0,
+"contrast":1,
+"hue":0,
+"saturation":1
+},
+"contextSettings":{
+"_class":"graphicsContextSettings",
+"blendMode":0,
+"opacity":1
+},
+"fills":[
+{
+"_class":"fill",
+"isEnabled":true,
+"fillType":0,
+"color":{
+"_class":"color",
+"alpha":1,
+"blue":0.6,
+"green":0.5019607843137255,
+"red":0.4862745098039216
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
