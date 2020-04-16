@@ -65068,11 +65068,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"height":812,
+"width":375,
 "offersLandscapeVariant":1,
 "name":"iPhone X",
-"allowResizedMatching":1,
-"width":375
+"height":812,
+"allowResizedMatching":1
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -65386,11 +65386,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"height":812,
+"width":375,
 "offersLandscapeVariant":1,
 "name":"iPhone X",
-"allowResizedMatching":1,
-"width":375
+"height":812,
+"allowResizedMatching":1
 },
 "resizesContent":false,
 "backgroundColor":{

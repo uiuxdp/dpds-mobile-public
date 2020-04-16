@@ -65108,10 +65108,10 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"allowResizedMatching":1,
+"height":812,
 "offersLandscapeVariant":1,
 "width":375,
-"height":812,
+"allowResizedMatching":1,
 "name":"iPhone X"
 },
 "resizesContent":false,
@@ -65426,10 +65426,10 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"allowResizedMatching":1,
+"height":812,
 "offersLandscapeVariant":1,
 "width":375,
-"height":812,
+"allowResizedMatching":1,
 "name":"iPhone X"
 },
 "resizesContent":false,

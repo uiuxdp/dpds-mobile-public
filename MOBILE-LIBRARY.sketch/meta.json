@@ -1819,6 +1819,9 @@
 "8FD8BA5B-3A4D-41F7-BCCD-EEC594E9DF13":{
 "name":"👽Iconography/Web Services/ICNM-S003 ( Prevent Crime )"
 },
+"43FD5599-F75B-49A0-85F5-BB60DF08A2B4":{
+"name":"👽Iconography/Outlined icons/ICNM-L068 (  Account box )"
+},
 "DFC3CDB6-309B-4802-B8FA-7A19CFEFA7A8":{
 "name":"👽Iconography/Outlined icons/ICNM-L032 ( Send )"
 },
@@ -1873,6 +1876,9 @@
 "9183A587-5850-4E44-9CAF-BC627966153D":{
 "name":"👽Iconography/Web Services/ICNM-S069 ( Fast Track Service (101276) )"
 },
+"BC4D7FE8-E21D-40A1-9E95-037EA3714E9F":{
+"name":"👽Iconography/Filled icons/ICNM-F101 ( Languages )"
+},
 "461A6F4B-8DBB-449E-A541-88EB17984E00":{
 "name":"👽Iconography/Web Services/ICNM-S005 ( Save People Life )"
 },
@@ -1903,8 +1909,14 @@
 "8B73629C-6DF5-4586-8891-D60DD3529D00":{
 "name":"👽Iconography/Social/ICNM-C005 ( Whatsapp )"
 },
+"D9E8F158-CA3F-471B-B9FC-99BF8122AA48":{
+"name":"👽Iconography/Outlined icons/ICNM-L069 (  Languages )"
+},
 "53B57AAA-E0A9-4751-A4FC-1C9C888A140E":{
 "name":"👽Iconography/Filled icons/ICNM-F029 ( All Categories )"
+},
+"B9D522B5-7897-4B12-A3F6-D429FDF72540":{
+"name":"👽Iconography/Filled icons/ICNM-F100 ( Share )"
 },
 "0876FC70-AA6B-45C1-8260-595B05451281":{
 "name":"👽Iconography/Web Services/ICNM-S052 ( Drive Mode )"
@@ -2029,6 +2041,9 @@
 "D044004F-70ED-4F1F-A146-D928211B07F0":{
 "name":"👽Iconography/Filled icons/ICNM-F054 ( Chat conversation )"
 },
+"0D899C1C-DE0B-4F0A-BD17-B779A658614E":{
+"name":"👽Iconography/Outlined icons/ICNM-L067 (  Account circle )"
+},
 "699C643D-5313-40A1-B515-8B7F0AD677C8":{
 "name":"👽Iconography/Web Services/ICNM-S102 ( HQ Visit )"
 },
@@ -2098,17 +2113,17 @@
 "9D2F8DBD-68A9-4B65-B3D6-A67A8BE50029":{
 "name":"👽Iconography/Web Services/ICNM-S101 ( Crime scene )"
 },
-"31EA732B-37B4-416C-AC49-E05A6812BDC0":{
-"name":"👽Iconography/Outlined icons/ICNM-L015 ( Card )"
+"49BB9931-45E3-4113-A308-742004163878":{
+"name":"👽Iconography/Web Services/ICNM-S110 ( Other accident )"
 },
 "2BACF98B-D5C6-4EC7-AC88-D51ADE7AAB5E":{
 "name":"👽Iconography/Web Services/ICNM-S001 ( Finger Print )"
 },
-"49BB9931-45E3-4113-A308-742004163878":{
-"name":"👽Iconography/Web Services/ICNM-S110 ( Other accident )"
-},
 "55CDA087-B1E6-4FA7-8DE5-7E9EDE4F8A01":{
 "name":"👽Iconography/Web Services/ICNM-S031 ( Document Inquiry (101166) )"
+},
+"31EA732B-37B4-416C-AC49-E05A6812BDC0":{
+"name":"👽Iconography/Outlined icons/ICNM-L015 ( Card )"
 },
 "5E11C1E4-27B6-40F3-80C8-88CD2F1B796C":{
 "name":"👽Iconography/Filled icons/ICNM-F005 ( ChangeLog )"
@@ -2299,8 +2314,8 @@
 "36B9DBBE-BD01-4774-A0AD-3C614B053C87":{
 "name":"👽Iconography/Social/ICNM-C004 ( Youtube )"
 },
-"12F39290-5E47-41C0-8FE8-DC3E819A6A0A":{
-"name":"👽Iconography/Filled icons/ICNM-F053 ( Dummy )"
+"A8DD1ED7-34B3-40F6-91BC-EEB9BAC6CD84":{
+"name":"👽Iconography/Web Services/ICNM-S095 ( Our Products (101310) )"
 },
 "8EA1AB12-21CA-4022-9586-53785E7AE7A0":{
 "name":"👽Iconography/Outlined icons/ICNM-L062 ( Favorite )"
@@ -2323,8 +2338,8 @@
 "B5366442-9072-4F16-A72F-0002A1290631":{
 "name":"👽Iconography/Filled icons/ICNM-F038 ( Reply )"
 },
-"A8DD1ED7-34B3-40F6-91BC-EEB9BAC6CD84":{
-"name":"👽Iconography/Web Services/ICNM-S095 ( Our Products (101310) )"
+"12F39290-5E47-41C0-8FE8-DC3E819A6A0A":{
+"name":"👽Iconography/Filled icons/ICNM-F053 ( Dummy )"
 },
 "8B955019-6361-43AF-BFD1-0CB4DAB164E5":{
 "name":"👽Iconography/Filled icons/ICNM-F062 ( Policy shield )"
@@ -2357,7 +2372,7 @@
 "name":"👽Iconography/Filled icons/ICNM-F007 ( Magazine )"
 },
 "A188675E-D4A0-4678-AEBC-86143DE653B9":{
-"name":"👽Iconography/Filled icons/ICNM-F090 ( Reply-all )"
+"name":"👽Iconography/Filled icons/ICNM-F090 ( Mobile phone )"
 },
 "4A217A3C-7804-4797-BBD3-A9A8EEB58603":{
 "name":"👽Iconography/Web Services/ICNM-S044 ( ReadStatus Notification (101122) )"
